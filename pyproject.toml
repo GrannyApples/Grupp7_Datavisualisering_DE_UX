@@ -1,0 +1,11 @@
+[project]
+name = "grupp7-datavisualisering-de-ux"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=1.5.1",
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.2",
+    "requests>=2.33.1",
+]
