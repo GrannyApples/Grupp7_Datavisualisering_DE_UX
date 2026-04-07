@@ -17,3 +17,6 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Ignore DuckDB database
+data/db/*.duckdb
