@@ -1,0 +1,12 @@
+pyproject.toml
+src/core/config.py
+src/etl/extract.py
+src/etl/load.py
+src/etl/transform.py
+src/grupp7_datavisualisering_de_ux.egg-info/PKG-INFO
+src/grupp7_datavisualisering_de_ux.egg-info/SOURCES.txt
+src/grupp7_datavisualisering_de_ux.egg-info/dependency_links.txt
+src/grupp7_datavisualisering_de_ux.egg-info/requires.txt
+src/grupp7_datavisualisering_de_ux.egg-info/top_level.txt
+src/models/movie.py
+src/schemas/movie_schema.py
