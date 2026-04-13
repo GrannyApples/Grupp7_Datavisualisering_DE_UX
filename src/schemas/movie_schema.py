@@ -1,9 +1,6 @@
-## validation and serialization (pydantic)
-
 from pydantic import BaseModel, Field, field_validator
-from typing import Optional
+from typing import Optional, List
 from datetime import date, datetime
-
 
 class MovieSchema(BaseModel):
     movie_id: int
@@ -11,6 +8,7 @@ class MovieSchema(BaseModel):
     release_date: Optional[date] = None
     rating: float = Field(ge=0, le=10)
     popularity: float
+    genre_ids: Optional[List[int]] = []
 
     @field_validator("release_date", mode="before")
     @classmethod
@@ -21,5 +19,3 @@ class MovieSchema(BaseModel):
             return datetime.strptime(v, "%Y-%m-%d").date()
         except:
             return None
-
-#add more pydantic validation later
