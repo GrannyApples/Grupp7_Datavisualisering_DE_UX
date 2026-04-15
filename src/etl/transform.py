@@ -1,7 +1,7 @@
 import pandas as pd
 from src.schemas.movie_schema import MovieSchema
 
-# 🔹 Mapping från genre_id → namn (endast för visualisering)
+
 GENRE_MAP = {
     12: "Adventure",
     14: "Fantasy",
@@ -27,19 +27,19 @@ def get_category_from_genres(genre_ids):
     if not genre_ids:
         return "Unknown"
 
-    # 🔴 1. Dark Fantasy (mörk ton)
+    
     if 14 in genre_ids and (27 in genre_ids or 53 in genre_ids):
         return "Dark Fantasy"
 
-    # 🟢 2. Fairy Tale (familj + animation)
+    
     if 14 in genre_ids and 10751 in genre_ids and 16 in genre_ids:
         return "Fairy Tale"
 
-    # 🟡 3. Sword and Sorcery (action fantasy, ej familj)
+    
     if 14 in genre_ids and 28 in genre_ids and 10751 not in genre_ids:
         return "Sword and Sorcery"
 
-    # 🔵 4. Default fantasy
+    
     if 14 in genre_ids:
         return "Fantasy Epic"
 
@@ -66,7 +66,7 @@ class Transform:
                 row = validated.model_dump()
                 genre_ids = row["genre_ids"] or []
 
-                # 🔹 Skapa läsbar genre-text (för UI / Power BI)
+                
                 genre_names = [
                     GENRE_MAP.get(gid)
                     for gid in genre_ids
@@ -75,7 +75,7 @@ class Transform:
 
                 row["genres"] = ", ".join(genre_names) if genre_names else "Unknown"
 
-                # 🔹 Data-driven kategori (VIKTIGASTE)
+                
                 row["category"] = get_category_from_genres(genre_ids)
 
                 validated_rows.append(row)
@@ -88,12 +88,12 @@ class Transform:
 
         df = pd.DataFrame(validated_rows)
 
-        # 🔹 Feature engineering
+        
         df["release_year"] = pd.to_datetime(
             df["release_date"], errors="coerce"
         ).dt.year
 
-        # 🔹 Snyggare rating (för dashboards)
+        
         df["rating"] = df["rating"].round(1)
 
         return df

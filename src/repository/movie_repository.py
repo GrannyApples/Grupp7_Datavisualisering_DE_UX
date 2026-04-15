@@ -46,7 +46,7 @@ class MovieRepository:
             )
         """)
 
-        # Fyll genres-tabellen
+        
         for genre_id, genre_name in GENRE_MAP.items():
             self.conn.execute(
                 "INSERT INTO genres VALUES (?, ?)",
@@ -60,7 +60,7 @@ class MovieRepository:
         self.conn.register("df_temp", movies_df)
         self.conn.execute("INSERT INTO movies SELECT * FROM df_temp")
 
-        # Spara movie_genres bridge table
+        
         import ast
         for _, row in df.iterrows():
             try:
