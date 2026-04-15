@@ -1,492 +1,501 @@
-movie_id,title,release_date,rating,popularity,genres,category,release_year
-1226863,The Super Mario Galaxy Movie,2026-04-01,6.826,495.4169,"Family, Comedy, Adventure, Fantasy, Animation",Fairy Tale,2026
-83533,Avatar: Fire and Ash,2025-12-17,7.37,384.5226,"Sci-Fi, Adventure, Fantasy",Fantasy Epic,2025
-502356,The Super Mario Bros. Movie,2023-04-05,7.588,380.5992,"Family, Comedy, Adventure, Fantasy, Animation",Fairy Tale,2023
-1159831,The Bride!,2026-03-04,6.25,179.2056,"Sci-Fi, Horror, Fantasy",Dark Fantasy,2026
-1311031,Demon Slayer: Kimetsu no Yaiba Infinity Castle,2025-07-18,7.679,135.6321,"Animation, Action, Fantasy",Dark Fantasy,2025
-1539104,JUJUTSU KAISEN: Execution,2025-11-07,5.9,53.6397,"Animation, Action, Fantasy",Dark Fantasy,2025
-803796,KPop Demon Hunters,2025-06-20,8.022,45.6949,"Fantasy, 10402, Comedy, Animation",Dark Fantasy,2025
-330457,Frozen II,2019-11-20,7.233,44.3907,"Family, Animation, Adventure, Comedy, Fantasy",Fairy Tale,2019
-1246049,Dracula,2025-07-30,7.071,39.8779,"Horror, Fantasy, Romance",Dark Fantasy,2025
-991494,The SpongeBob Movie: Search for SquarePants,2025-12-16,6.76,39.7298,"Animation, Family, Comedy, Adventure, Fantasy",Fairy Tale,2025
-50619,The Twilight Saga: Breaking Dawn - Part 1,2011-11-16,6.189,37.0287,"Adventure, Fantasy, Romance",Dark Fantasy,2011
-1117857,In Your Dreams,2025-11-07,6.958,35.1795,"Animation, Family, Comedy, Adventure, Fantasy",Fairy Tale,2025
-1011985,Kung Fu Panda 4,2024-03-02,7.001,34.9171,"Animation, Family, Action, Comedy, Adventure, Fantasy",Fairy Tale,2024
-402431,Wicked,2024-10-16,6.911,31.7977,"Drama, Romance, Fantasy",Fantasy Epic,2024
-1019420,Irish Wish,2024-03-14,6.136,31.5275,"Romance, Comedy, Fantasy",Fairy Tale,2024
-1218925,Chainsaw Man - The Movie: Reze Arc,2025-09-19,8.324,31.1148,"Animation, Action, Romance, Fantasy",Dark Fantasy,2025
-671,Harry Potter and the Philosopher's Stone,2001-11-16,7.898,30.8159,"Adventure, Fantasy",Fantasy Epic,2001
-120,The Lord of the Rings: The Fellowship of the Ring,2001-12-18,8.431,30.4379,"Adventure, Fantasy, Action",Fantasy Epic,2001
-129,Spirited Away,2001-07-20,8.5,29.6973,"Animation, Family, Fantasy",Fairy Tale,2001
-1241982,Moana 2,2024-11-21,6.995,28.1969,"Animation, Adventure, Family, Comedy, Fantasy",Fairy Tale,2024
-1062722,Frankenstein,2025-10-17,7.65,27.2035,"Drama, Fantasy, Horror",Dark Fantasy,2025
-14836,Coraline,2009-02-05,7.9,26.7119,"Animation, Family, Fantasy",Dark Fantasy,2009
-950387,A Minecraft Movie,2025-03-31,6.264,26.0828,"Family, Fantasy, Comedy, Adventure",Fairy Tale,2025
-808,Shrek,2001-05-18,7.759,25.7804,"Animation, Comedy, Fantasy, Adventure, Family",Fairy Tale,2001
-122,The Lord of the Rings: The Return of the King,2003-12-17,8.496,25.6308,"Adventure, Fantasy, Action",Fantasy Epic,2003
-1087192,How to Train Your Dragon,2025-06-06,7.9,25.5518,"Fantasy, Family, Action, Adventure",Fantasy Epic,2025
-508947,Turning Red,2022-03-10,7.318,24.188,"Animation, Family, Comedy, Fantasy",Fairy Tale,2022
-1497970,Tom and Jerry: Forbidden Compass,2025-08-02,6.2,23.7713,"Animation, Comedy, Family, Fantasy, Adventure",Fairy Tale,2025
-517302,Hatching,2022-03-04,6.254,23.5122,"Horror, Fantasy, Drama",Dark Fantasy,2022
-980477,Ne Zha 2,2025-01-29,8.115,22.8867,"Animation, Fantasy, Adventure",Fantasy Epic,2025
-497,The Green Mile,1999-12-10,8.505,22.2417,"Fantasy, Drama, Crime",Sword and Sorcery,1999
-672,Harry Potter and the Chamber of Secrets,2002-11-13,7.703,21.6231,"Adventure, Fantasy",Fantasy Epic,2002
-1180831,Troll 2,2025-11-30,6.413,20.8118,"Action, Fantasy, Thriller",Fairy Tale,2025
-4935,Howl's Moving Castle,2004-09-09,8.388,20.4719,"Fantasy, Animation, Adventure",Fantasy Epic,2004
-1401778,Turbulence,2025-11-26,6.4,20.2185,"Thriller, Action, Adventure, Drama, Fantasy",Fantasy Epic,2025
-674,Harry Potter and the Goblet of Fire,2005-11-16,7.801,20.0674,"Adventure, Fantasy",Fantasy Epic,2005
-121,The Lord of the Rings: The Two Towers,2002-12-18,8.415,20.0247,"Adventure, Fantasy, Action",Fantasy Epic,2002
-1020969,Teddy's Christmas,2022-11-05,7.0,19.7407,"Family, Adventure, Fantasy",Fairy Tale,2022
-673,Harry Potter and the Prisoner of Azkaban,2004-05-31,8.008,19.4282,"Adventure, Fantasy",Fantasy Epic,2004
-767,Harry Potter and the Half-Blood Prince,2009-07-15,7.681,19.1421,"Adventure, Fantasy",Fantasy Epic,2009
-675,Harry Potter and the Order of the Phoenix,2007-07-08,7.672,18.5216,"Adventure, Fantasy",Fantasy Epic,2007
-12445,Harry Potter and the Deathly Hallows: Part 2,2011-07-12,8.08,18.3432,"Adventure, Fantasy",Fantasy Epic,2011
-1357633,Solo Leveling -ReAwakening-,2024-11-26,7.119,17.9416,"Action, Adventure, Fantasy, Animation",Fantasy Epic,2024
-411,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005-12-07,7.136,17.7196,"Adventure, Family, Fantasy",Fantasy Epic,2005
-812,Aladdin,1992-11-25,7.653,17.6968,"Animation, Family, Adventure, Fantasy, Romance",Fairy Tale,1992
-564,The Mummy,1999-04-16,6.964,17.5607,"Adventure, Action, Fantasy",Dark Fantasy,1999
-12444,Harry Potter and the Deathly Hallows: Part 1,2010-11-17,7.735,17.422,"Adventure, Fantasy",Fantasy Epic,2010
-122917,The Hobbit: The Battle of the Five Armies,2014-12-10,7.332,17.4153,"Action, Adventure, Fantasy",Fantasy Epic,2014
-8966,Twilight,2008-11-20,6.28,17.3672,"Fantasy, Drama, Romance",Dark Fantasy,2008
-22,Pirates of the Caribbean: The Curse of the Black Pearl,2003-07-09,7.821,17.3465,"Adventure, Fantasy, Action",Sword and Sorcery,2003
-823219,Flow,2024-08-29,8.09,16.9109,"Animation, Adventure, Fantasy, Family",Fantasy Epic,2024
-58,Pirates of the Caribbean: Dead Man's Chest,2006-07-06,7.374,16.8656,"Adventure, Fantasy, Action",Sword and Sorcery,2006
-967941,Wicked: For Good,2025-11-19,6.638,16.8523,"Fantasy, Adventure, Romance",Fantasy Epic,2025
-214756,Ted 2,2015-06-25,6.316,16.8463,"Comedy, Fantasy",Fairy Tale,2015
-1575337,Cosmic Princess Kaguya!,2026-01-22,8.485,16.5637,"Animation, Fantasy, 10402, Sci-Fi",Fantasy Epic,2026
-35552,The Extraordinary Adventures of Adèle Blanc-Sec,2010-04-09,6.246,16.3907,"Fantasy, Adventure, Action, 9648",Sword and Sorcery,2010
-109445,Frozen,2013-11-20,7.248,16.3253,"Animation, Family, Adventure, Fantasy",Fairy Tale,2013
-1083637,Kantara - A Legend: Chapter 1,2025-10-01,7.028,15.8544,"Action, Drama, Fantasy",Fantasy Epic,2025
-128,Princess Mononoke,1997-07-12,8.324,15.8231,"Adventure, Fantasy, Animation",Fantasy Epic,1997
-209112,Batman v Superman: Dawn of Justice,2016-03-23,5.992,15.7934,"Action, Adventure, Fantasy",Sword and Sorcery,2016
-2062,Ratatouille,2007-06-28,7.838,15.1013,"Animation, Comedy, Family, Fantasy",Fairy Tale,2007
-447273,Snow White,2025-03-19,4.3,15.0673,"Family, Fantasy",Fairy Tale,2025
-49051,The Hobbit: An Unexpected Journey,2012-12-12,7.37,14.8492,"Adventure, Fantasy, Action",Fantasy Epic,2012
-315162,Puss in Boots: The Last Wish,2022-12-07,8.201,14.5182,"Animation, Adventure, Fantasy, Comedy, Family",Fairy Tale,2022
-1500099,Versa,2025-04-15,7.607,13.9814,"Animation, Family, Drama, Fantasy",Fantasy Epic,2025
-616037,Thor: Love and Thunder,2022-07-06,6.373,13.93,"Fantasy, Action, Comedy",Sword and Sorcery,2022
-10020,Beauty and the Beast,1991-10-22,7.725,13.7185,"Romance, Family, Animation, Fantasy",Fairy Tale,1991
-1147411,"Miraculous World: Tokyo, Stellar Force",2025-12-07,8.15,13.6725,"Animation, Family, Action, Adventure, Fantasy",Fairy Tale,2025
-8392,My Neighbor Totoro,1988-04-16,8.062,13.5338,"Fantasy, Animation, Family",Fairy Tale,1988
-9470,Kung Fu Hustle,2004-02-10,7.49,13.5157,"Action, Comedy, Crime, Fantasy",Sword and Sorcery,2004
-809,Shrek 2,2004-05-19,7.31,13.4586,"Animation, Family, Comedy, Fantasy, Romance",Fairy Tale,2004
-23544,The Point,1971-02-02,6.9,13.3458,"Animation, Family, Fantasy, Adventure",Fairy Tale,1971
-453395,Doctor Strange in the Multiverse of Madness,2022-05-04,7.225,13.3183,"Fantasy, Action, Adventure",Sword and Sorcery,2022
-11970,Hercules,1997-06-13,7.491,12.9436,"Animation, Family, Fantasy, Adventure, Comedy, Romance",Fairy Tale,1997
-420817,Aladdin,2019-05-22,7.086,12.8974,"Adventure, Fantasy, Romance, Family",Fairy Tale,2019
-931285,Mortal Kombat II,2026-05-06,0.0,12.8273,"Action, Fantasy, Adventure",Sword and Sorcery,2026
-285,Pirates of the Caribbean: At World's End,2007-05-19,7.266,12.8113,"Adventure, Fantasy, Action",Sword and Sorcery,2007
-976573,Elemental,2023-06-14,7.578,12.666,"Animation, Family, Romance, Fantasy, Comedy",Fairy Tale,2023
-297762,Wonder Woman,2017-05-30,7.209,12.63,"Action, Adventure, Fantasy",Sword and Sorcery,2017
-1865,Pirates of the Caribbean: On Stranger Tides,2011-05-15,6.565,12.4783,"Adventure, Action, Fantasy",Sword and Sorcery,2011
-10195,Thor,2011-04-21,6.769,12.4546,"Adventure, Fantasy, Action",Sword and Sorcery,2011
-1489187,You Drive Me Crazy,2025-10-09,8.2,12.3675,"Comedy, Romance, Fantasy",Fairy Tale,2025
-1043197,Dust Bunny,2025-12-11,6.585,12.3154,"Fantasy, Action, Horror",Fairy Tale,2025
-1144107,The Legend of Hei 2,2025-07-18,8.5,12.1269,"Animation, Fantasy, Action",Fantasy Epic,2025
-804370,Arco,2025-10-22,7.455,12.0907,"Animation, Adventure, Fantasy, Family, Sci-Fi",Fairy Tale,2025
-26505,Arthur and the Revenge of Maltazard,2009-11-26,5.743,12.0338,"Adventure, Fantasy, Animation, Family",Fairy Tale,2009
-11688,The Emperor's New Groove,2000-12-15,7.6,12.0241,"Adventure, Animation, Comedy, Family, Fantasy",Fairy Tale,2000
-284052,Doctor Strange,2016-10-25,7.418,11.9543,"Fantasy, Adventure, Action",Sword and Sorcery,2016
-508883,The Boy and the Heron,2023-07-14,7.407,11.8871,"Animation, Adventure, Fantasy, Drama, Family",Fairy Tale,2023
-72105,Ted,2012-06-29,6.449,11.8601,"Comedy, Fantasy",Fairy Tale,2012
-16859,Kiki's Delivery Service,1989-07-29,7.8,11.7396,"Animation, Family, Fantasy, Drama",Fairy Tale,1989
-635302,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,2020-10-16,8.199,11.6823,"Animation, Action, Fantasy",Dark Fantasy,2020
-13494,Red Sonja,2025-07-31,5.716,11.6625,"Adventure, Action, Fantasy, Drama",Sword and Sorcery,2025
-601,E.T. the Extra-Terrestrial,1982-06-11,7.513,11.5991,"Sci-Fi, Adventure, Family, Fantasy",Sword and Sorcery,1982
-508442,Soul,2020-12-25,8.092,11.4988,"Animation, Family, Drama, 10402, Fantasy",Fairy Tale,2020
-447277,The Little Mermaid,2023-05-18,6.3,11.4641,"Adventure, Family, Fantasy, Romance",Fairy Tale,2023
-76492,Hotel Transylvania,2012-09-20,6.963,11.4376,"Animation, Comedy, Family, Fantasy",Fairy Tale,2012
-62177,Brave,2012-06-21,7.022,11.4226,"Animation, Family, Fantasy, Adventure",Fairy Tale,2012
-10191,How to Train Your Dragon,2010-03-18,7.857,11.3645,"Fantasy, Adventure, Animation, Family",Fantasy Epic,2010
-936108,Smurfs,2025-06-30,5.8,11.2096,"Animation, Family, Fantasy",Fairy Tale,2025
-57158,The Hobbit: The Desolation of Smaug,2013-12-11,7.576,11.1146,"Fantasy, Adventure, Action",Fantasy Epic,2013
-791373,Zack Snyder's Justice League,2021-03-18,8.1,11.0959,"Action, Adventure, Fantasy",Sword and Sorcery,2021
-141,Donnie Darko,2001-01-19,7.764,11.0728,"Fantasy, Drama, 9648",Fantasy Epic,2001
-76757,Jupiter Ascending,2015-02-04,5.459,11.0458,"Sci-Fi, Fantasy, Action",Fantasy Epic,2015
-18491,Neon Genesis Evangelion: The End of Evangelion,1997-07-19,8.262,11.0245,"Animation, Sci-Fi, Drama, Fantasy",Fairy Tale,1997
-568124,Encanto,2021-10-13,7.569,10.9334,"Animation, Comedy, Family, Fantasy",Fairy Tale,2021
-10198,The Princess and the Frog,2009-12-08,7.2,10.9189,"Animation, Romance, Fantasy, Family",Fairy Tale,2009
-1108427,Moana,2026-07-08,0.0,10.8766,"Family, Fantasy, Comedy, Adventure",Fairy Tale,2026
-408,Snow White and the Seven Dwarfs,1938-01-14,7.122,10.8678,"Fantasy, Animation, Family",Fairy Tale,1938
-10144,The Little Mermaid,1989-11-17,7.4,10.8675,"Animation, Family, Fantasy",Fairy Tale,1989
-3933,Corpse Bride,2005-09-12,7.584,10.8661,"Romance, Fantasy, Animation",Dark Fantasy,2005
-585511,Luck,2022-08-05,7.727,10.7868,"Animation, Adventure, Comedy, Fantasy",Fairy Tale,2022
-321612,Beauty and the Beast,2017-03-16,6.968,10.7697,"Family, Fantasy, Romance",Fairy Tale,2017
-102651,Maleficent,2014-05-28,7.086,10.7578,"Fantasy, Adventure, Action, Family, Romance",Fairy Tale,2014
-181533,Night at the Museum: Secret of the Tomb,2014-12-17,6.222,10.6576,"Adventure, Comedy, Fantasy, Family",Fairy Tale,2014
-297802,Aquaman,2018-12-07,6.867,10.6566,"Action, Adventure, Fantasy",Sword and Sorcery,2018
-854,The Mask,1994-07-29,6.979,10.5963,"Comedy, Fantasy, Crime, Romance",Sword and Sorcery,1994
-426063,Nosferatu,2024-12-25,6.71,10.578,"Horror, Fantasy",Dark Fantasy,2024
-11224,Cinderella,1950-02-22,7.043,10.4333,"Family, Fantasy, Animation, Romance",Fairy Tale,1950
-81,Nausicaä of the Valley of the Wind,1984-03-11,7.949,10.3664,"Adventure, Animation, Fantasy",Fairy Tale,1984
-410119,Yu Pui Tsuen II,1987-10-15,5.2,10.34,"Drama, Fantasy, Romance",Fantasy Epic,1987
-10830,Matilda,1996-08-02,7.173,10.3239,"Comedy, Family, Fantasy",Fairy Tale,1996
-1734,The Mummy Returns,2001-05-04,6.396,10.3082,"Adventure, Action, Fantasy",Sword and Sorcery,2001
-24021,The Twilight Saga: Eclipse,2010-06-23,6.195,10.1715,"Adventure, Fantasy, Drama, Romance",Fantasy Epic,2010
-150689,Cinderella,2015-03-06,6.823,10.1287,"Romance, Fantasy, Family, Drama",Fairy Tale,2015
-1368337,The Odyssey,2026-07-15,0.0,10.1097,"Adventure, Drama, Fantasy",Fantasy Epic,2026
-82702,How to Train Your Dragon 2,2014-06-05,7.679,10.0916,"Fantasy, Action, Adventure, Animation, Family",Fantasy Epic,2014
-12155,Alice in Wonderland,2010-03-03,6.639,10.0701,"Family, Fantasy, Adventure",Fairy Tale,2010
-508943,Luca,2021-06-17,7.783,10.0277,"Animation, Family, Fantasy, Comedy, Drama",Fairy Tale,2021
-447404,Pokémon Detective Pikachu,2019-05-03,6.906,9.9559,"Action, Adventure, Fantasy",Sword and Sorcery,2019
-1131759,Omniscient Reader: The Prophecy,2025-07-23,6.8,9.9274,"Action, Adventure, Fantasy",Sword and Sorcery,2025
-10192,Shrek Forever After,2010-05-20,6.393,9.8762,"Comedy, Adventure, Fantasy, Animation, Family",Fairy Tale,2010
-105825,Erotic Ghost Story III,1992-03-05,5.5,9.8663,"Horror, Drama, Fantasy",Dark Fantasy,1992
-9992,Arthur and the Invisibles,2006-12-13,6.382,9.7145,"Adventure, Fantasy, Animation, Family",Fairy Tale,2006
-1417,Pan's Labyrinth,2006-10-11,7.761,9.6986,"Fantasy, Drama, 10752",Fantasy Epic,2006
-842924,The Life of Chuck,2025-06-05,7.279,9.6871,"Fantasy, Drama",Fantasy Epic,2025
-566525,Shang-Chi and the Legend of the Ten Rings,2021-09-01,7.495,9.6797,"Action, Adventure, Fantasy",Sword and Sorcery,2021
-118,Charlie and the Chocolate Factory,2005-07-13,7.038,9.6512,"Adventure, Comedy, Family, Fantasy",Fairy Tale,2005
-656908,Ramayana,2026-11-08,0.0,9.6448,"Drama, Fantasy, Action",Fantasy Epic,2026
-246655,X-Men: Apocalypse,2016-05-18,6.522,9.5901,"Sci-Fi, Fantasy, Action",Fantasy Epic,2016
-793387,Holy Night: Demon Hunters,2025-04-30,6.807,9.451,"Action, Fantasy, Horror, Thriller",Dark Fantasy,2025
-122906,About Time,2013-09-04,7.907,9.4006,"Drama, Romance, Fantasy",Fantasy Epic,2013
-561,Constantine,2005-02-08,7.121,9.3706,"Fantasy, Action, Horror",Dark Fantasy,2005
-585083,Hotel Transylvania: Transformania,2022-01-31,7.037,9.3681,"Animation, Comedy, Family, Adventure, Fantasy",Fairy Tale,2022
-10515,Castle in the Sky,1986-08-02,8.0,9.3415,"Adventure, Fantasy, Animation, Action, Family",Fairy Tale,1986
-18239,The Twilight Saga: New Moon,2009-11-18,6.0,9.3258,"Adventure, Fantasy, Drama, Romance",Fantasy Epic,2009
-568160,Weathering with You,2019-07-19,7.982,9.3213,"Animation, Drama, Fantasy, Romance",Fairy Tale,2019
-166426,Pirates of the Caribbean: Dead Men Tell No Tales,2017-05-23,6.653,9.279,"Adventure, Action, Fantasy",Sword and Sorcery,2017
-845781,Red One,2024-10-31,6.991,9.2647,"Action, Comedy, Fantasy",Sword and Sorcery,2024
-1585,It's a Wonderful Life,1946-12-20,8.3,9.2016,"Drama, Family, Fantasy",Fairy Tale,1946
-76338,Thor: The Dark World,2013-10-30,6.51,9.2007,"Action, Adventure, Fantasy",Sword and Sorcery,2013
-572802,Aquaman and the Lost Kingdom,2023-12-20,6.526,9.194,"Action, Adventure, Fantasy",Sword and Sorcery,2023
-353486,Jumanji: Welcome to the Jungle,2017-12-09,6.818,9.1544,"Adventure, Comedy, Fantasy, Action",Fairy Tale,2017
-10882,Sleeping Beauty,1959-02-17,6.94,9.142,"Fantasy, Animation, Romance, Family",Fairy Tale,1959
-810,Shrek the Third,2007-05-17,6.306,9.1338,"Fantasy, Adventure, Animation, Comedy, Family",Fairy Tale,2007
-162,Edward Scissorhands,1990-12-07,7.72,9.0912,"Fantasy, Drama, Romance",Fantasy Epic,1990
-493529,Dungeons & Dragons: Honor Among Thieves,2023-03-23,7.326,9.0582,"Adventure, Fantasy, Comedy",Fairy Tale,2023
-787699,Wonka,2023-12-06,7.042,9.0495,"Comedy, Family, Fantasy",Fairy Tale,2023
-512200,Jumanji: The Next Level,2019-12-04,6.875,9.043,"Adventure, Comedy, Fantasy",Fairy Tale,2019
-267935,The BFG,2016-06-01,6.286,8.9314,"Adventure, Family, Fantasy",Fairy Tale,2016
-293167,Kong: Skull Island,2017-03-08,6.551,8.9196,"Action, Adventure, Fantasy",Sword and Sorcery,2017
-337401,Mulan,2020-09-04,6.832,8.858,"Adventure, Fantasy, Action",Sword and Sorcery,2020
-1253000,Deathstalker,2025-10-10,5.897,8.8363,"Fantasy, Action, Adventure",Sword and Sorcery,2025
-1359607,Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved,2025-06-27,8.0,8.8307,"Animation, Comedy, Fantasy",Fairy Tale,2025
-460465,Mortal Kombat,2021-04-07,6.983,8.7609,"Action, Fantasy, Adventure",Sword and Sorcery,2021
-587,Big Fish,2003-12-10,7.758,8.7564,"Adventure, Fantasy, Drama",Fantasy Epic,2003
-1125257,Freakier Friday,2025-08-06,6.9,8.755,"Comedy, Fantasy, Family",Fairy Tale,2025
-639720,IF,2024-05-08,6.965,8.7378,"Comedy, Fantasy, Family",Fairy Tale,2024
-346672,Underworld: Blood Wars,2016-11-24,5.914,8.6757,"Fantasy, Action, Thriller, Sci-Fi, Horror",Dark Fantasy,2016
-549649,Dancing With Ghosts,2018-09-27,3.0,8.6273,"Fantasy, Drama, Comedy",Fairy Tale,2018
-68735,Warcraft,2016-05-25,6.399,8.5718,"Action, Adventure, Fantasy",Sword and Sorcery,2016
-1014505,OVERLORD: The Sacred Kingdom,2024-09-20,7.9,8.4922,"Action, Adventure, Animation, Fantasy",Fairy Tale,2024
-615453,Ne Zha,2019-07-26,7.892,8.3933,"Animation, Fantasy, Adventure",Fairy Tale,2019
-456740,Hellboy,2019-04-10,5.576,8.3529,"Fantasy, Horror, Action, Adventure",Dark Fantasy,2019
-916224,Suzume,2022-11-11,7.887,8.3261,"Animation, Drama, Adventure, Fantasy",Fairy Tale,2022
-268,Batman,1989-06-21,7.229,8.2868,"Fantasy, Action, Crime",Fantasy Epic,1989
-4011,Beetlejuice,1988-03-30,7.369,8.2592,"Fantasy, Comedy",Fairy Tale,1988
-620,Ghostbusters,1984-06-08,7.495,8.2442,"Comedy, Fantasy",Fairy Tale,1984
-259316,Fantastic Beasts and Where to Find Them,2016-11-16,7.307,8.2161,"Fantasy, Adventure",Fantasy Epic,2016
-877703,Teen Wolf: The Movie,2023-01-18,7.468,8.1931,"Action, Fantasy, 10770",Fantasy Epic,2023
-293863,The Age of Adaline,2015-04-16,7.466,8.1753,"Romance, Fantasy, Drama",Fantasy Epic,2015
-287947,Shazam!,2019-03-29,6.979,8.1567,"Action, Comedy, Fantasy",Fairy Tale,2019
-2493,The Princess Bride,1987-09-25,7.697,8.1347,"Adventure, Family, Fantasy, Comedy, Romance",Fairy Tale,1987
-297,Meet Joe Black,1998-11-12,7.356,8.0958,"Fantasy, Drama, Romance",Fantasy Epic,1998
-927,Gremlins,1984-06-08,7.141,8.0825,"Fantasy, Horror, Comedy",Dark Fantasy,1984
-1250,Ghost Rider,2007-01-15,5.592,8.0428,"Thriller, Action, Fantasy",Dark Fantasy,2007
-251,Ghost,1990-07-13,7.231,8.0286,"Fantasy, Romance, Thriller",Dark Fantasy,1990
-81005,Jack the Giant Slayer,2013-02-27,5.87,8.0172,"Fantasy, Action, Adventure, Drama",Sword and Sorcery,2013
-324544,In the Lost Lands,2025-02-27,6.351,8.0078,"Action, Fantasy, 37",Fantasy Epic,2025
-50620,The Twilight Saga: Breaking Dawn - Part 2,2012-11-13,6.456,7.9839,"Fantasy, Drama, Romance",Fantasy Epic,2012
-917496,Beetlejuice Beetlejuice,2024-09-04,6.939,7.9751,"Comedy, Fantasy, Horror",Dark Fantasy,2024
-218726,Doraemon: Nobita's Secret Gadget Museum,2013-03-09,6.37,7.886,"Adventure, Family, Animation, Comedy, Fantasy, Sci-Fi",Fairy Tale,2013
-32657,Percy Jackson & the Olympians: The Lightning Thief,2010-02-01,6.2,7.8374,"Adventure, Fantasy, Family",Fairy Tale,2010
-879,Hook,1991-04-10,6.839,7.8233,"Adventure, Fantasy, Comedy, Family",Fairy Tale,1991
-137106,The Lego Movie,2014-02-06,7.422,7.8209,"Animation, Family, Adventure, Comedy, Fantasy",Fairy Tale,2014
-310131,The Witch,2016-02-19,6.999,7.8004,"Horror, Fantasy, Drama",Dark Fantasy,2016
-4922,The Curious Case of Benjamin Button,2008-12-25,7.599,7.7253,"Drama, Fantasy, Romance",Fantasy Epic,2008
-60898,Erotic Ghost Story,1990-05-19,6.2,7.6946,"Fantasy, Drama, Horror",Dark Fantasy,1990
-159824,Hotel Transylvania 2,2015-09-21,6.763,7.6697,"Animation, Comedy, Family, Fantasy",Fairy Tale,2015
-527774,Raya and the Last Dragon,2021-03-03,7.8,7.6615,"Animation, Family, Fantasy, Adventure, Action",Fairy Tale,2021
-9479,The Nightmare Before Christmas,1993-10-09,7.83,7.6554,"Fantasy, Animation, Family",Fairy Tale,1993
-420809,Maleficent: Mistress of Evil,2019-10-16,7.296,7.6266,"Family, Fantasy, Adventure",Fairy Tale,2019
-1593,Night at the Museum,2006-12-20,6.598,7.6104,"Fantasy, Family, Comedy",Fairy Tale,2006
-400155,Hotel Transylvania 3: Summer Vacation,2018-06-28,6.85,7.599,"Animation, Comedy, Family, Fantasy",Fairy Tale,2018
-454639,Masters of the Universe,2026-06-03,0.0,7.5639,"Action, Fantasy, Sci-Fi",Fantasy Epic,2026
-192904,Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey,2004-03-06,7.267,7.5364,"Animation, Adventure, Family, Sci-Fi, Fantasy",Fairy Tale,2004
-1735,The Mummy: Tomb of the Dragon Emperor,2008-07-01,5.512,7.5124,"Adventure, Action, Fantasy",Sword and Sorcery,2008
-116745,The Secret Life of Walter Mitty,2013-12-18,7.2,7.4764,"Adventure, Comedy, Drama, Fantasy",Fairy Tale,2013
-310,Bruce Almighty,2003-05-23,6.725,7.4079,"Fantasy, Comedy",Fairy Tale,2003
-495925,Doraemon: Nobita's Treasure Island,2018-03-03,7.04,7.4065,"Animation, Adventure, Fantasy, Sci-Fi, Comedy, Family",Fairy Tale,2018
-274854,The Last Witch Hunter,2015-10-21,6.009,7.3968,"Action, Adventure, Fantasy",Sword and Sorcery,2015
-762,Monty Python and the Holy Grail,1975-04-03,7.804,7.3441,"Adventure, Comedy, Fantasy",Fairy Tale,1975
-812225,Black Clover: Sword of the Wizard King,2023-06-16,8.103,7.3381,"Animation, Fantasy, Action, Adventure",Fairy Tale,2023
-900667,One Piece Film Red,2022-08-06,7.202,7.3349,"Animation, Adventure, Action, Fantasy",Fairy Tale,2022
-10140,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010-12-02,6.441,7.2945,"Adventure, Family, Fantasy",Fairy Tale,2010
-338952,Fantastic Beasts: The Crimes of Grindelwald,2018-11-14,6.835,7.288,"Fantasy, Adventure",Fantasy Epic,2018
-51739,The Secret World of Arrietty,2010-07-16,7.669,7.2847,"Fantasy, Animation, Family",Fairy Tale,2010
-5994,The Family Man,2000-12-12,6.814,7.2777,"Comedy, Drama, Romance, Fantasy",Fairy Tale,2000
-927254,The Twits,2025-10-17,5.964,7.2744,"Animation, Comedy, Family, Fantasy",Fairy Tale,2025
-1022796,Wish,2023-11-13,6.222,7.2656,"Animation, Family, Fantasy, Adventure",Fairy Tale,2023
-974262,Descendants: The Rise of Red,2024-07-11,6.7,7.2361,"Fantasy, Adventure, Family, Comedy",Fairy Tale,2024
-1550797,Prep & Landing: The Snowball Protocol,2025-11-27,7.2,7.2139,"Animation, Comedy, Fantasy, Family",Fairy Tale,2025
-11621,Porco Rosso,1992-07-18,7.795,7.2033,"Animation, Adventure, Fantasy",Fairy Tale,1992
-297761,Suicide Squad,2016-08-03,5.917,7.1826,"Action, Adventure, Fantasy",Sword and Sorcery,2016
-615925,The Water Monster,2019-07-12,5.4,7.173,"Fantasy, Horror",Dark Fantasy,2019
-846422,The Old Guard 2,2025-07-01,5.912,7.1615,"Action, Fantasy",Fantasy Epic,2025
-10895,Pinocchio,1940-02-23,7.106,7.1195,"Animation, Family, Fantasy",Fairy Tale,1940
-765,Evil Dead II,1987-03-13,7.5,7.0748,"Horror, Comedy, Fantasy",Dark Fantasy,1987
-615677,We Can Be Heroes,2020-12-25,5.951,7.0419,"Family, Action, Fantasy, Comedy",Fairy Tale,2020
-283366,Miss Peregrine's Home for Peculiar Children,2016-09-28,6.838,7.0371,"Fantasy, Adventure, Drama, Family",Fairy Tale,2016
-12092,Alice in Wonderland,1951-07-28,7.2,7.0234,"Animation, Family, Fantasy, Adventure",Fairy Tale,1951
-338953,Fantastic Beasts: The Secrets of Dumbledore,2022-04-06,6.627,6.9987,"Fantasy, Adventure",Fantasy Epic,2022
-81188,Rise of the Guardians,2012-11-21,7.372,6.9947,"Animation, Family, Fantasy, Action, Adventure",Fairy Tale,2012
-533514,Violet Evergarden: The Movie,2020-09-18,8.3,6.9713,"Animation, Drama, Fantasy, Romance",Fairy Tale,2020
-14128,Cinderella II: Dreams Come True,2002-02-23,6.119,6.9693,"Family, Animation, Romance, Fantasy",Fairy Tale,2002
-529203,The Croods: A New Age,2020-11-25,7.4,6.9253,"Animation, Family, Adventure, Fantasy, Comedy",Fairy Tale,2020
-572154,Rascal Does Not Dream of a Dreaming Girl,2019-06-15,8.3,6.9136,"Animation, Romance, Drama, Fantasy",Fairy Tale,2019
-9444,Anastasia,1997-11-20,7.606,6.8656,"Animation, Family, Fantasy, Adventure",Fairy Tale,1997
-137,Groundhog Day,1993-02-11,7.627,6.8634,"Romance, Fantasy, Comedy",Fairy Tale,1993
-11836,The SpongeBob SquarePants Movie,2004-11-19,7.075,6.8416,"Family, Comedy, Adventure, Animation, Fantasy",Fairy Tale,2004
-2280,Big,1988-06-03,7.184,6.7605,"Fantasy, Drama, Comedy",Fairy Tale,1988
-1233199,Exorcism Chronicles: The Beginning,2025-02-21,6.839,6.7526,"Animation, Fantasy, Horror, Action",Dark Fantasy,2025
-5255,The Polar Express,2004-11-10,6.723,6.7372,"Animation, Family, Fantasy, Adventure",Fairy Tale,2004
-1147416,"Miraculous World: London, At the Edge of Time",2024-11-14,7.5,6.7186,"Animation, Family, Action, Fantasy",Fairy Tale,2024
-278927,The Jungle Book,2016-04-07,6.87,6.6877,"Family, Adventure, Fantasy",Fairy Tale,2016
-6477,Alvin and the Chipmunks,2007-12-13,5.8,6.6873,"Comedy, Family, Fantasy, Animation",Fairy Tale,2007
-22894,Legion,2010-01-21,5.893,6.6529,"Action, Fantasy, Horror",Dark Fantasy,2010
-896536,The Legend of Ochi,2025-04-18,6.1,6.6468,"Family, Fantasy, Adventure",Fairy Tale,2025
-399055,The Shape of Water,2017-12-01,7.237,6.6444,"Drama, Fantasy, Romance",Fantasy Epic,2017
-228161,Home,2015-03-18,6.787,6.6355,"Fantasy, Comedy, Animation, Sci-Fi, Family",Fairy Tale,2015
-1022453,The Rajasaab,2026-01-08,5.185,6.631,"Comedy, Horror, Fantasy",Dark Fantasy,2026
-282035,The Mummy,2017-06-06,5.517,6.6287,"Fantasy, Thriller, Action, Adventure, Horror",Dark Fantasy,2017
-9016,Treasure Planet,2002-11-26,7.562,6.6186,"Sci-Fi, Adventure, Animation, Family, Fantasy",Fairy Tale,2002
-1571470,The Rats: A Witcher Tale,2025-10-29,5.403,6.6118,"Fantasy, Drama, Adventure",Fantasy Epic,2025
-1374686,Light of the World,2025-09-04,8.4,6.6092,"Animation, Fantasy, Drama, 10402",Fairy Tale,2025
-360920,The Grinch,2018-11-08,6.869,6.5925,"Family, Comedy, Animation, Fantasy",Fairy Tale,2018
-9374,Death Becomes Her,1992-07-30,6.778,6.5433,"Comedy, Fantasy, Horror",Dark Fantasy,1992
-628,Interview with the Vampire,1994-11-11,7.386,6.5418,"Horror, Drama, Fantasy",Dark Fantasy,1994
-763215,Damsel,2024-03-07,6.985,6.5297,"Fantasy, Action, Adventure",Sword and Sorcery,2024
-1114967,Good Fortune,2025-10-14,6.933,6.5107,"Comedy, Fantasy",Fairy Tale,2025
-501170,Doctor Sleep,2019-10-30,7.145,6.5054,"Horror, Fantasy",Dark Fantasy,2019
-241259,Alice Through the Looking Glass,2016-05-25,6.561,6.4948,"Adventure, Family, Fantasy",Fairy Tale,2016
-433,Mary Poppins,1964-12-17,7.542,6.4783,"Comedy, Family, Fantasy",Fairy Tale,1964
-2668,Sleepy Hollow,1999-11-19,7.188,6.4704,"Fantasy, Thriller, 9648, Horror",Dark Fantasy,1999
-634492,Madame Web,2024-02-14,5.3,6.4606,"Action, Fantasy",Fantasy Epic,2024
-397567,Along with the Gods: The Two Worlds,2017-12-20,8.039,6.4575,"Action, Adventure, Drama, Fantasy, Thriller",Dark Fantasy,2017
-1427,Perfume: The Story of a Murderer,2006-09-13,7.368,6.4414,"Crime, Fantasy, Drama",Fantasy Epic,2006
-820232,Demon Slayer: Kimetsu no Yaiba - Sibling's Bond,2019-03-29,7.9,6.4393,"Animation, Action, Fantasy, Thriller",Dark Fantasy,2019
-9387,Conan the Barbarian,1982-03-16,6.802,6.4269,"Adventure, Fantasy, Action",Sword and Sorcery,1982
-34584,The NeverEnding Story,1984-04-06,7.2,6.4268,"Adventure, Fantasy, Family, Drama",Fairy Tale,1984
-446893,Trolls World Tour,2020-03-11,7.24,6.4035,"Family, Animation, Comedy, Fantasy, Adventure, 10402",Fairy Tale,2020
-560057,The Sea Beast,2022-06-24,7.325,6.3899,"Animation, Adventure, Action, Family, Fantasy",Fairy Tale,2022
-364,Batman Returns,1992-06-19,6.945,6.3729,"Action, Fantasy",Fantasy Epic,1992
-258489,The Legend of Tarzan,2016-06-29,5.914,6.3704,"Fantasy, Action, Adventure",Sword and Sorcery,2016
-464052,Wonder Woman 1984,2020-12-16,6.369,6.3196,"Action, Adventure, Fantasy",Sword and Sorcery,2020
-620249,The Legend of Hei,2019-08-27,8.301,6.2745,"Animation, Fantasy, Action",Fairy Tale,2019
-49017,Dracula Untold,2014-10-01,6.451,6.2723,"Horror, Action, Fantasy",Dark Fantasy,2014
-417859,Puss in Boots,2011-10-27,6.594,5.8543,"Animation, Family, Fantasy, Adventure, Comedy",Fairy Tale,2011
-428045,Iron Mask,2019-08-16,6.077,6.2375,"Action, Adventure, Family, Fantasy",Fairy Tale,2019
-856289,Creation of the Gods I: Kingdom of Storms,2023-07-15,7.1,6.2079,"Action, Fantasy, 10752",Fantasy Epic,2023
-15370,The Cat Returns,2002-07-19,7.1,6.1948,"Adventure, Fantasy, Animation, Drama, Family",Fairy Tale,2002
-8009,Highlander,1986-03-07,6.9,6.1895,"Adventure, Action, Fantasy",Sword and Sorcery,1986
-425909,Ghostbusters: Afterlife,2021-11-18,7.326,6.1339,"Fantasy, Comedy, Adventure",Fairy Tale,2021
-1119090,I Am Frankelda,2025-10-23,8.3,5.5923,"Animation, Family, Fantasy, Horror",Dark Fantasy,2025
-10228,Pokémon: The First Movie,1998-07-18,6.95,6.1119,"Animation, Family, Adventure, Fantasy, Action",Fairy Tale,1998
-1405338,Demon City,2025-02-26,6.905,6.11,"Action, Crime, Fantasy, Thriller",Dark Fantasy,2025
-160642,Doraemon: Nobita and the Island of Miracles – Animal Adventure,2012-03-03,6.831,6.1087,"Family, Animation, Adventure, Fantasy, Comedy, Sci-Fi",Fairy Tale,2012
-496450,"Miraculous: Ladybug & Cat Noir, The Movie",2023-07-05,7.595,6.1084,"Animation, Fantasy, Action, Romance, Family",Fairy Tale,2023
-9738,Fantastic Four,2005-06-29,5.804,6.1065,"Action, Fantasy, Sci-Fi",Fantasy Epic,2005
-9334,The Scorpion King,2002-04-18,5.593,6.0772,"Action, Adventure, Fantasy",Sword and Sorcery,2002
-436931,Pokémon the Movie: I Choose You!,2017-07-15,7.1,6.0749,"Family, Animation, Adventure, Fantasy",Fairy Tale,2017
-42949,Arthur 3: The War of the Two Worlds,2010-08-22,5.781,6.0711,"Animation, Adventure, Fantasy, Family",Fairy Tale,2010
-11527,Excalibur,1981-04-10,6.948,6.0608,"Adventure, Fantasy",Fantasy Epic,1981
-798286,Beau Is Afraid,2023-04-14,6.705,6.0376,"Comedy, Adventure, Fantasy",Fairy Tale,2023
-594767,Shazam! Fury of the Gods,2023-03-15,6.429,6.0329,"Comedy, Action, Fantasy",Fairy Tale,2023
-11824,Teen Wolf,1985-08-23,6.2,6.0223,"Comedy, Fantasy, Romance",Fairy Tale,1985
-601796,Alienoid,2022-07-20,6.781,6.0062,"Sci-Fi, Action, Fantasy, Adventure",Sword and Sorcery,2022
-36586,Blade II,2002-03-22,6.6,5.9744,"Fantasy, Horror, Action, Thriller",Dark Fantasy,2002
-855302,Erotic Ghost Enamoured,1986-01-01,5.667,5.974,"Horror, Fantasy",Dark Fantasy,1986
-426543,The Nutcracker and the Four Realms,2018-10-26,6.1,5.9615,"Family, Fantasy, Adventure",Fairy Tale,2018
-901362,Trolls Band Together,2023-10-12,7.2,5.9549,"Animation, Family, 10402, Fantasy, Comedy, Adventure",Fairy Tale,2023
-2978,Ghostbusters II,1989-06-16,6.595,5.9475,"Comedy, Fantasy",Fairy Tale,1989
-49730,Red Riding Hood,2011-03-10,5.978,5.9441,"Thriller, Drama, Fantasy, 9648, Horror, Romance",Dark Fantasy,2011
-1155281,Creation of the Gods II: Demon Force,2025-01-29,6.3,5.9423,"Action, Fantasy, 10752",Fantasy Epic,2025
-2270,Stardust,2007-08-10,7.285,5.9204,"Adventure, Fantasy, Romance, Family",Fairy Tale,2007
-10693,Peter Pan,1953-02-05,7.187,5.9195,"Animation, Family, Adventure, Fantasy",Fairy Tale,1953
-987400,Aztec Batman: Clash of Empires,2025-09-18,7.7,5.9177,"Animation, Action, Adventure, Fantasy",Fairy Tale,2025
-7980,The Lovely Bones,2009-12-26,7.061,5.9163,"Fantasy, Drama",Fantasy Epic,2009
-876792,That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond,2022-11-25,7.365,5.9017,"Animation, Fantasy, Adventure",Fairy Tale,2022
-1832,Dogma,1999-10-04,6.923,5.9004,"Fantasy, Comedy, Adventure",Fairy Tale,1999
-957452,The Crow,2024-08-21,5.81,5.8959,"Action, Fantasy, Horror",Dark Fantasy,2024
-448119,Dolittle,2020-01-02,6.6,5.8766,"Family, Comedy, Fantasy, Adventure",Fairy Tale,2020
-12599,Pokémon the Movie 2000,1999-07-17,6.737,5.8685,"Adventure, Fantasy, Animation, Sci-Fi, Family",Fairy Tale,1999
-836225,The Exorcism of God,2022-03-11,7.087,5.8544,"Horror, Crime, Drama, Fantasy",Dark Fantasy,2022
-252,Willy Wonka & the Chocolate Factory,1971-06-29,7.483,5.85,"Family, Fantasy, Comedy",Fairy Tale,1971
-311324,The Great Wall,2016-12-16,6.025,5.8385,"Action, Adventure, Fantasy",Sword and Sorcery,2016
-110420,Wolf Children,2012-07-21,8.221,5.8312,"Animation, Family, Drama, Fantasy",Fairy Tale,2012
-12222,Horton Hears a Who!,2008-03-03,6.516,5.8003,"Animation, Comedy, Family, Adventure, Fantasy",Fairy Tale,2008
-9339,Click,2006-06-23,6.303,5.7892,"Comedy, Drama, Fantasy",Fairy Tale,2006
-136799,Trolls,2016-10-13,6.628,5.7809,"Family, Animation, Fantasy, Adventure, Comedy, 10402",Fairy Tale,2016
-176983,One Piece Film: Z,2012-12-15,7.5,5.759,"Animation, Fantasy, Action, Adventure",Fairy Tale,2012
-1181107,The King of Kings,2025-04-07,8.142,5.7489,"Animation, Family, Fantasy, Drama, Adventure",Fairy Tale,2025
-1487,Hellboy,2004-04-02,6.674,5.7481,"Fantasy, Action",Fantasy Epic,2004
-8871,How the Grinch Stole Christmas,2000-11-17,6.779,5.7419,"Family, Comedy, Fantasy",Fairy Tale,2000
-1116465,A Legend,2024-07-05,6.8,5.7215,"Action, Adventure, Fantasy",Sword and Sorcery,2024
-274857,King Arthur: Legend of the Sword,2017-05-10,6.552,5.6914,"Action, Drama, Fantasy",Fantasy Epic,2017
-14282,Ninja Scroll,1993-06-05,7.776,5.6836,"Fantasy, Animation, Action",Fairy Tale,1993
-555604,Guillermo del Toro's Pinocchio,2022-11-09,8.021,5.6702,"Animation, Fantasy, Adventure, Drama",Fairy Tale,2022
-223702,Sausage Party,2016-07-11,5.752,5.658,"Adventure, Animation, Comedy, Fantasy",Fairy Tale,2016
-667520,A Whisker Away,2020-06-18,7.876,5.6578,"Animation, Drama, Romance, Fantasy",Fairy Tale,2020
-1542261,Doraemon the Movie: New Nobita and the Castle of the Undersea Devil,2026-02-27,8.0,5.6527,"Animation, Adventure, Fantasy, Family",Fairy Tale,2026
-2454,The Chronicles of Narnia: Prince Caspian,2008-05-15,6.63,5.6499,"Adventure, Family, Fantasy",Fairy Tale,2008
-70841,Doraemon: Nobita's Dinosaur,2006-03-04,7.473,5.6353,"Animation, Adventure, Family, Fantasy, Sci-Fi",Fairy Tale,2006
-25475,Tinker Bell and the Lost Treasure,2009-09-03,6.815,5.6156,"Animation, Family, Adventure, Fantasy",Fairy Tale,2009
-41513,The Smurfs,2011-07-29,5.8,5.6043,"Animation, Family, Adventure, Comedy, Fantasy",Fairy Tale,2011
-9297,Monster House,2006-06-30,6.709,5.5871,"Animation, Comedy, Family, Fantasy",Fairy Tale,2006
-268896,Pacific Rim: Uprising,2018-03-21,6.1,5.5835,"Action, Fantasy, Sci-Fi, Adventure",Sword and Sorcery,2018
-839033,The Lord of the Rings: The War of the Rohirrim,2024-12-05,6.546,5.5475,"Animation, Fantasy, Adventure, Action",Fairy Tale,2024
-526896,Morbius,2022-03-30,5.9,5.5457,"Action, Sci-Fi, Fantasy",Fantasy Epic,2022
-375588,Robin Hood,2018-11-03,5.908,5.5378,"Adventure, Action, Thriller, Fantasy",Dark Fantasy,2018
-420814,Christopher Robin,2018-08-01,7.3,5.5348,"Adventure, Comedy, Family, Fantasy",Fairy Tale,2018
-639933,The Northman,2022-04-07,7.033,5.5315,"Action, Adventure, Fantasy",Sword and Sorcery,2022
-1304434,Nobody,2025-08-02,7.8,5.5285,"Animation, Adventure, Fantasy, Comedy",Fairy Tale,2025
-14069,The Girl Who Leapt Through Time,2006-07-15,7.778,5.5273,"Fantasy, Animation, Drama, Sci-Fi",Fairy Tale,2006
-11283,Nanny McPhee,2005-10-21,6.688,5.5204,"Fantasy, Comedy, Family",Fairy Tale,2005
-75,Mars Attacks!,1996-12-13,6.42,5.5198,"Comedy, Fantasy, Sci-Fi",Fairy Tale,1996
-515195,Yesterday,2019-06-26,6.683,5.5024,"Comedy, Fantasy, 10402, Romance",Fairy Tale,2019
-1491,The Illusionist,2006-08-18,7.297,5.5009,"Fantasy, Drama, Thriller, Romance",Dark Fantasy,2006
-508439,Onward,2020-02-29,7.642,5.4942,"Animation, Family, Fantasy, Adventure, Comedy",Fairy Tale,2020
-1263421,Baki Hanma VS Kengan Ashura,2024-06-05,7.433,5.4831,"Animation, Action, Fantasy",Fairy Tale,2024
-2907,The Addams Family,1991-11-22,7.065,5.4712,"Comedy, Fantasy",Fairy Tale,1991
-48624,Urotsukidōji: Legend of the Overfiend,1989-03-18,5.983,5.458,"Animation, Action, Horror, Fantasy",Dark Fantasy,1989
-13597,Labyrinth,1986-06-27,7.274,5.437,"Adventure, Family, Fantasy",Fairy Tale,1986
-4523,Enchanted,2007-11-20,6.84,5.437,"Comedy, Family, Fantasy, Romance",Fairy Tale,2007
-400106,Bright,2017-12-22,6.162,5.4333,"Fantasy, Action, Thriller",Dark Fantasy,2017
-9495,The Crow,1994-05-11,7.5,5.4301,"Fantasy, Action, Thriller",Dark Fantasy,1994
-967847,Ghostbusters: Frozen Empire,2024-03-20,6.454,5.4176,"Fantasy, Adventure, Comedy",Fairy Tale,2024
-277217,Descendants,2015-07-31,7.153,5.4169,"Family, Adventure, Fantasy, 10770, 10402",Fairy Tale,2015
-8839,Casper,1995-05-26,6.336,5.3913,"Fantasy, Comedy, Family",Fairy Tale,1995
-6978,Big Trouble in Little China,1986-05-30,7.208,5.3563,"Action, Comedy, Fantasy, Adventure",Fairy Tale,1986
-149871,The Tale of The Princess Kaguya,2013-11-23,8.096,5.3406,"Animation, Drama, Fantasy",Fairy Tale,2013
-10096,13 Going on 30,2004-04-13,6.77,5.3172,"Comedy, Fantasy, Romance",Fairy Tale,2004
-2300,Space Jam,1996-11-15,6.809,5.3104,"Family, Animation, Sci-Fi, Fantasy, Comedy",Fairy Tale,1996
-116711,Epic,2013-05-15,6.548,5.2979,"Animation, Adventure, Family, Fantasy",Fairy Tale,2013
-916192,"The Tunnel to Summer, the Exit of Goodbyes",2022-09-09,7.67,5.2926,"Animation, Drama, Romance, Fantasy, Sci-Fi",Fairy Tale,2022
-297021,"Recently, My Sister Is Unusual",2014-05-17,6.868,5.2909,"Comedy, Fantasy, Romance",Fairy Tale,2014
-1153714,Death of a Unicorn,2025-03-27,6.401,5.2741,"Horror, Fantasy, Comedy",Dark Fantasy,2025
-338970,Tomb Raider,2018-03-05,6.366,5.2735,"Action, Adventure, Fantasy",Sword and Sorcery,2018
-1139087,Once Upon a Studio,2023-09-24,8.279,5.2667,"Animation, Family, Fantasy, Drama, Comedy",Fairy Tale,2023
-503919,The Lighthouse,2019-10-18,7.477,5.2576,"Drama, Fantasy, Thriller",Dark Fantasy,2019
-2758,Addams Family Values,1993-11-19,6.97,5.2528,"Comedy, Family, Fantasy",Fairy Tale,1993
-64530,Chinese Erotic Ghost Story,1998-06-12,5.6,5.2488,Fantasy,Fantasy Epic,1998
-526051,Look Away,2018-10-12,6.56,5.2438,"Horror, Thriller, Fantasy",Dark Fantasy,2018
-10501,The Road to El Dorado,2000-03-31,7.257,5.2402,"Family, Adventure, Animation, Comedy, Fantasy",Fairy Tale,2000
-1147400,"Miraculous World: Paris, Tales of Shadybug and Claw Noir",2023-10-21,7.275,5.2393,"Animation, Family, Action, Fantasy",Fairy Tale,2023
-414,Batman Forever,1995-06-16,5.453,5.2357,"Action, Crime, Fantasy",Fantasy Epic,1995
-16996,17 Again,2009-03-11,6.314,5.1804,"Comedy, Fantasy, Drama, Romance",Fairy Tale,2009
-11976,Legend,1985-08-28,6.24,5.1721,"Adventure, Fantasy",Fantasy Epic,1985
-16321,Zu Warriors,2001-08-09,5.6,5.1671,"Fantasy, Action",Fantasy Epic,2001
-15999,Vampire Hunter D: Bloodlust,2001-04-21,7.658,5.1609,"Animation, Fantasy, Horror, Action, Adventure, Sci-Fi",Dark Fantasy,2001
-41498,One Piece Film: Strong World,2009-12-12,7.428,5.1542,"Animation, Fantasy, Adventure",Fairy Tale,2009
-1140521,The Magic Faraway Tree,2026-03-26,6.571,5.147,"Family, Fantasy, Adventure",Fairy Tale,2026
-9607,Super Mario Bros.,1993-05-28,4.5,5.1458,"Adventure, Fantasy, Comedy, Family",Fairy Tale,1993
-888,The Flintstones,1994-05-27,5.369,5.1441,"Fantasy, Comedy, Family",Fairy Tale,1994
-518068,Along with the Gods: The Last 49 Days,2018-08-01,8.1,5.1413,"Action, Adventure, Fantasy, Thriller",Dark Fantasy,2018
-856,Who Framed Roger Rabbit,1988-06-22,7.536,5.139,"Fantasy, Animation, Comedy, Crime",Fairy Tale,1988
-2897,Around the World in 80 Days,1956-10-17,6.6,5.1203,"Adventure, Comedy, Family, Fantasy, Romance",Fairy Tale,1956
-1098006,Fountain of Youth,2025-05-19,6.26,5.0981,"Adventure, Fantasy, 9648",Fantasy Epic,2025
-1241921,A Big Bold Beautiful Journey,2025-09-17,6.264,5.0912,"Romance, Fantasy, Drama",Fantasy Epic,2025
-1315772,Minions & Monsters,2026-06-24,0.0,5.0687,"Animation, Family, Comedy, Adventure, Fantasy",Fairy Tale,2026
-62213,Dark Shadows,2012-05-09,6.097,5.0677,"Comedy, Fantasy",Fairy Tale,2012
-1040148,"Ruby Gillman, Teenage Kraken",2023-06-28,7.167,5.0576,"Animation, Family, Fantasy, Comedy",Fairy Tale,2023
-277,Underworld,2003-09-19,6.848,5.0488,"Fantasy, Action, Thriller",Dark Fantasy,2003
-15283,Pom Poko,1994-07-16,7.172,5.0443,"Adventure, Animation, Fantasy",Fairy Tale,1994
-1996,Lara Croft: Tomb Raider - The Cradle of Life,2003-07-21,5.757,5.0311,"Adventure, Action, Fantasy",Sword and Sorcery,2003
-23398,Alvin and the Chipmunks: The Squeakquel,2009-12-21,5.655,5.0261,"Comedy, Family, Animation, Fantasy, 10402",Fairy Tale,2009
-57165,Wrath of the Titans,2012-03-28,5.758,5.0233,"Fantasy, Adventure, Action",Sword and Sorcery,2012
-476292,Maquia: When the Promised Flower Blooms,2018-02-24,8.158,5.0181,"Animation, Fantasy, Drama",Fairy Tale,2018
-2268,The Golden Compass,2007-12-04,6.082,5.0151,"Adventure, Fantasy",Fantasy Epic,2007
-10991,Pokémon 3: The Movie,2000-07-08,6.535,4.9962,"Adventure, Fantasy, Animation, Action, Family",Fairy Tale,2000
-106164,Doraemon: Nobita and the Galaxy Super-express,1996-03-02,7.5,4.9958,"Animation, Sci-Fi, Action, Family, Adventure, Fantasy",Fairy Tale,1996
-170657,Journey to the West: Conquering the Demons,2013-02-07,6.914,4.9883,"Action, Fantasy, Adventure, Comedy",Fairy Tale,2013
-60304,Hansel & Gretel: Witch Hunters,2013-01-17,6.098,4.9809,"Fantasy, Horror, Action",Dark Fantasy,2013
-230887,Witchcraft vs. Curse,1991-04-20,4.4,4.9742,"Fantasy, Drama, Horror",Dark Fantasy,1991
-35019,Nanny McPhee and the Big Bang,2010-03-26,6.312,4.9691,"Comedy, Fantasy, Family",Fairy Tale,2010
-123553,The Mortal Instruments: City of Bones,2013-08-21,6.429,4.9684,"Fantasy, Action, 9648",Fantasy Epic,2013
-9889,Shallow Hal,2001-11-01,6.165,4.9526,"Comedy, Romance, Fantasy, Drama",Fairy Tale,2001
-547016,The Old Guard,2020-07-09,7.101,4.944,"Action, Fantasy",Fantasy Epic,2020
-1214140,Monster Island,2025-05-08,5.99,4.9422,"Horror, Fantasy, Action, Thriller",Dark Fantasy,2025
-19576,One Piece: The Movie,2000-03-04,7.062,4.9415,"Action, Animation, Adventure, Comedy, Fantasy",Fairy Tale,2000
-1235431,Oshi no Ko -The Final Act-,2024-12-20,6.4,4.9344,"Drama, 10402, Fantasy",Fantasy Epic,2024
-5680,Elvira: Mistress of the Dark,1988-09-30,6.68,4.9091,"Comedy, Fantasy, Horror",Dark Fantasy,1988
-173122,Ghost Story of Kam Pin Mui,1991-06-22,2.2,4.9057,"Horror, Fantasy, Drama",Dark Fantasy,1991
-38321,Priest,2011-05-05,5.854,4.9043,"Action, Fantasy, Horror",Dark Fantasy,2011
-44730,One Piece: Giant Mecha Soldier of Karakuri Castle,2006-03-04,6.952,4.8987,"Animation, Adventure, Action, Comedy, Sci-Fi, Fantasy",Fairy Tale,2006
-59436,Midnight in Paris,2011-05-11,7.515,4.8953,"Fantasy, Comedy, Romance",Fairy Tale,2011
-15767,Godzilla: Final Wars,2004-12-04,7.1,4.885,"Action, Adventure, Sci-Fi, Fantasy, Thriller",Dark Fantasy,2004
-37958,Immortals,2011-11-10,6.042,4.8804,"Fantasy, Action, Drama",Fantasy Epic,2011
-2899,Asterix & Obelix: Mission Cleopatra,2002-01-30,7.372,4.8754,"Family, Fantasy, Comedy, Adventure",Fairy Tale,2002
-779782,The School for Good and Evil,2022-10-19,7.033,4.8708,"Fantasy, Comedy, Adventure",Fairy Tale,2022
-11845,Intimacy,2001-01-20,6.2,4.8641,"Romance, Drama, Fantasy",Fantasy Epic,2001
-58595,Snow White and the Huntsman,2012-05-30,5.987,4.8333,"Adventure, Fantasy, Drama",Fantasy Epic,2012
-1148677,Doraemon the Movie: Nobita's Earth Symphony,2024-03-01,6.75,4.8249,"Animation, Family, Fantasy, 10402, Adventure, Comedy, Sci-Fi",Fairy Tale,2024
-527435,The Christmas Chronicles,2018-11-22,7.162,4.8217,"Comedy, Adventure, Family, Fantasy",Fairy Tale,2018
-10719,Elf,2003-11-07,6.667,4.8207,"Comedy, Family, Fantasy",Fairy Tale,2003
-71676,Ghost Rider: Spirit of Vengeance,2011-12-10,5.009,4.8174,"Action, Fantasy, Thriller",Dark Fantasy,2011
-228326,The Book of Life,2014-10-01,7.53,4.8171,"Animation, Adventure, Comedy, Family, Fantasy",Fairy Tale,2014
-33320,Millennium Actress,2002-09-14,7.84,4.8099,"Drama, Animation, Romance, Fantasy",Fairy Tale,2002
-1072890,The Traveller,2024-07-26,6.4,4.8002,"Action, Fantasy",Fantasy Epic,2024
-2395,Asterix at the Olympic Games,2008-01-25,5.232,4.7951,"Fantasy, Adventure, Comedy, Family",Fairy Tale,2008
-384345,Doraemon: Nobita and the Birth of Japan,2016-03-05,6.813,4.7918,"Animation, Adventure, Fantasy, Sci-Fi, Family",Fairy Tale,2016
-481084,The Addams Family,2019-10-10,6.601,4.7644,"Family, Animation, Comedy, Fantasy",Fairy Tale,2019
-11428,Sleepwalkers,1992-04-10,6.0,4.7508,"Horror, Fantasy, Thriller",Dark Fantasy,1992
-30421,A Chinese Ghost Story,1987-07-18,7.3,4.7422,"Fantasy, Action",Fantasy Epic,1987
-893712,Sword Art Online the Movie – Progressive – Scherzo of Deep Night,2022-10-22,7.6,4.7287,"Animation, Action, Fantasy, Sci-Fi",Fairy Tale,2022
-451048,Jungle Cruise,2021-07-28,7.297,4.7277,"Fantasy, Adventure, Action",Sword and Sorcery,2021
-1995,Lara Croft: Tomb Raider,2001-06-15,5.909,4.7149,"Adventure, Action, Fantasy",Sword and Sorcery,2001
-37034,True Legend,2010-02-09,6.6,4.7106,"Action, Fantasy",Fantasy Epic,2010
-8204,The Spiderwick Chronicles,2008-02-14,6.684,4.6918,"Family, Adventure, Fantasy, Drama",Fairy Tale,2008
-912598,Bubble,2022-02-14,7.286,4.6831,"Animation, Adventure, Sci-Fi, Fantasy",Fairy Tale,2022
-1139829,Orion and the Dark,2024-02-01,6.527,4.6747,"Animation, Family, Comedy, Fantasy, Adventure",Fairy Tale,2024
-592983,Spellbound,2024-11-22,6.6,4.6653,"Animation, Fantasy, Family, Adventure, Comedy",Fairy Tale,2024
-532067,KONOSUBA – God's blessing on this wonderful world! Legend of Crimson,2019-08-30,8.0,4.6641,"Animation, Adventure, Comedy, Fantasy",Fairy Tale,2019
-2312,In the Name of the King: A Dungeon Siege Tale,2007-11-29,4.8,4.6602,"Adventure, Fantasy, Action, Drama",Sword and Sorcery,2007
-43074,Ghostbusters,2016-07-14,5.346,4.6413,"Action, Fantasy, Comedy",Fairy Tale,2016
-1064307,Spermageddon,2024-12-28,6.5,4.6391,"Animation, Adventure, Fantasy, Comedy",Fairy Tale,2024
-14784,The Fall,2006-09-09,7.6,4.6367,"Adventure, Fantasy, Drama",Fantasy Epic,2006
-492,Being John Malkovich,1999-10-29,7.416,4.6203,"Comedy, Drama, Fantasy",Fairy Tale,1999
-415381,Furious,2017-11-30,6.053,4.6108,"Fantasy, Action, Adventure",Sword and Sorcery,2017
-588648,Dragonkeeper,2024-04-11,7.653,4.6031,"Animation, Family, Action, Adventure, Fantasy",Fairy Tale,2024
-6435,Practical Magic,1998-10-16,6.763,4.5927,"Romance, Comedy, Fantasy",Fairy Tale,1998
-928,Gremlins 2: The New Batch,1990-06-15,6.523,4.5927,"Comedy, Horror, Fantasy",Dark Fantasy,1990
-506574,Descendants 3,2019-08-02,7.7,4.581,"Family, 10770, Adventure, Fantasy, 10402",Fairy Tale,2019
-961323,Nimona,2023-06-23,7.867,4.5727,"Animation, Family, Adventure, Fantasy, Comedy, Action, Drama, Sci-Fi",Fairy Tale,2023
-430447,Mary and The Witch's Flower,2017-07-08,7.135,4.5642,"Animation, Adventure, Family, Fantasy",Fairy Tale,2017
-10137,Stuart Little,1999-12-17,6.069,4.5635,"Family, Fantasy, Comedy, Adventure",Fairy Tale,1999
-127533,Rurouni Kenshin Part I: Origins,2012-08-25,7.53,4.5528,"Adventure, Action, Fantasy, 10752, 36",Sword and Sorcery,2012
-29826,The Legend of the Nahuala,2007-10-31,7.906,4.5495,"Family, Fantasy, Animation, Horror",Dark Fantasy,2007
-16007,Death Note,2006-06-17,7.061,4.5442,"Fantasy, 9648, Thriller",Dark Fantasy,2006
-2008,The Promise,2005-12-15,5.5,4.5425,"Fantasy, Drama, Action, Thriller, Romance",Dark Fantasy,2005
-593910,Cinderella,2021-09-03,6.33,4.5363,"Fantasy, Romance, Comedy",Fairy Tale,2021
-76285,Percy Jackson: Sea of Monsters,2013-08-07,6.027,4.5284,"Adventure, Family, Fantasy",Fairy Tale,2013
-18360,Night at the Museum: Battle of the Smithsonian,2009-05-20,6.153,4.5265,"Adventure, Fantasy, Action, Comedy, Family",Fairy Tale,2009
-37933,Tales from Earthsea,2006-07-29,6.528,4.5259,"Animation, Fantasy, Adventure",Fairy Tale,2006
-10330,Freaky Friday,2003-08-05,6.6,4.5249,"Family, Fantasy, Comedy, Romance",Fairy Tale,2003
-9678,Little Nicky,2000-11-10,5.845,4.5216,"Comedy, Fantasy",Fairy Tale,2000
-25278,One Piece: The Desert Princess and the Pirates: Adventure in Alabasta,2007-03-03,6.9,4.5211,"Action, Adventure, Animation, Comedy, Fantasy",Fairy Tale,2007
-30959,Kwaidan,1965-01-06,7.7,4.5181,"Horror, Fantasy, Drama",Dark Fantasy,1965
-13688,CJ7,2008-01-30,7.305,4.5163,"Comedy, Drama, Family, Fantasy, Sci-Fi",Fairy Tale,2008
-10280,Thinner,1996-10-25,5.881,4.5151,"Fantasy, Horror",Dark Fantasy,1996
-329996,Dumbo,2019-03-27,6.59,4.5084,"Family, Fantasy, Adventure",Fairy Tale,2019
-36685,The Rocky Horror Picture Show,1975-08-14,7.4,4.5055,"Comedy, Sci-Fi, Fantasy, Horror",Dark Fantasy,1975
-49524,R.I.P.D.,2013-07-18,5.854,4.4962,"Fantasy, Action, Comedy",Fairy Tale,2013
-847,Willow,1988-05-20,7.004,4.493,"Fantasy, Adventure, Action",Sword and Sorcery,1988
-1364904,A Useful Ghost,2025-08-27,6.3,4.4877,"Comedy, Drama, Fantasy",Fairy Tale,2025
-21835,A Chinese Odyssey Part Two: Cinderella,1995-02-04,7.7,4.486,"Action, Adventure, Fantasy, Comedy, Romance",Fairy Tale,1995
-592350,My Hero Academia: Heroes Rising,2019-12-20,8.13,4.4836,"Animation, Action, Fantasy, Adventure",Fairy Tale,2019
-154524,The Happy Ghost,1984-07-14,6.5,4.4801,"Comedy, Fantasy",Fairy Tale,1984
-2698,Evan Almighty,2007-06-09,5.585,4.4781,"Fantasy, Comedy, Family",Fairy Tale,2007
-13345,A Chinese Odyssey Part One: Pandora's Box,1995-01-21,7.6,4.469,"Action, Adventure, Fantasy, Comedy, Romance",Fairy Tale,1995
-843241,The Seven Deadly Sins: Cursed by Light,2021-07-02,7.702,4.4544,"Animation, Fantasy",Fairy Tale,2021
-46498,Candy,1968-12-17,5.175,4.4529,"Adventure, Comedy, Fantasy",Fairy Tale,1968
-1367125,Gaua (The Night),2025-11-13,6.1,4.4515,"Drama, Horror, Fantasy",Dark Fantasy,2025
-337703,The Red Turtle,2016-03-27,7.444,4.4382,"Animation, Drama, Fantasy, Family",Fairy Tale,2016
-27022,The Sorcerer's Apprentice,2010-07-13,6.136,4.4298,"Fantasy, Adventure, Action",Sword and Sorcery,2010
-1086747,The Watchers,2024-06-06,6.351,4.4278,"Fantasy, Horror, 9648",Dark Fantasy,2024
-1729,The Forbidden Kingdom,2008-04-17,6.63,4.4171,"Action, Adventure, Fantasy",Sword and Sorcery,2008
-9598,Babe,1995-07-18,6.267,4.4169,"Fantasy, Drama, Comedy, Family",Fairy Tale,1995
-10658,Howard the Duck,1986-08-01,5.421,4.4109,"Fantasy, Comedy, Action, Adventure, Romance, Sci-Fi",Fairy Tale,1986
-8698,The League of Extraordinary Gentlemen,2003-07-11,5.975,4.4099,"Fantasy, Action, Thriller, Sci-Fi",Dark Fantasy,2003
-40096,A Dog's Will,2000-09-15,8.421,4.4077,"Comedy, Drama, Fantasy, Romance",Fairy Tale,2000
+movie_id,title,release_date,rating,popularity,genre_ids,genres,category,release_year
+1226863,The Super Mario Galaxy Movie,2026-04-01,6.8,629.9843,"[10751, 35, 12, 14, 16]","Family, Comedy, Adventure, Fantasy, Animation",Fairy Tale,2026
+83533,Avatar: Fire and Ash,2025-12-17,7.4,335.6523,"[878, 12, 14]","Sci-Fi, Adventure, Fantasy",Fantasy Epic,2025
+502356,The Super Mario Bros. Movie,2023-04-05,7.6,285.3416,"[10751, 35, 12, 14, 16]","Family, Comedy, Adventure, Fantasy, Animation",Fairy Tale,2023
+1159831,The Bride!,2026-03-04,6.2,126.3257,"[878, 27, 14]","Sci-Fi, Horror, Fantasy",Dark Fantasy,2026
+1311031,Demon Slayer: Kimetsu no Yaiba Infinity Castle,2025-07-18,7.7,127.9521,"[16, 28, 14]","Animation, Action, Fantasy",Sword and Sorcery,2025
+980431,"Avatar: Aang, The Last Airbender",2026-10-09,0.0,99.0487,"[28, 12, 16, 14, 10751]","Action, Adventure, Animation, Fantasy, Family",Fairy Tale,2026
+1539104,JUJUTSU KAISEN: Execution,2025-11-07,5.9,45.2556,"[16, 28, 14]","Animation, Action, Fantasy",Sword and Sorcery,2025
+803796,KPop Demon Hunters,2025-06-20,8.0,41.6015,"[14, 10402, 35, 16]","Fantasy, Comedy, Animation",Fantasy Epic,2025
+330457,Frozen II,2019-11-20,7.2,33.745,"[10751, 16, 12, 35, 14]","Family, Animation, Adventure, Comedy, Fantasy",Fairy Tale,2019
+1246049,Dracula,2025-07-30,7.1,36.2406,"[27, 14, 10749]","Horror, Fantasy, Romance",Dark Fantasy,2025
+50619,The Twilight Saga: Breaking Dawn - Part 1,2011-11-16,6.2,34.7249,"[12, 14, 10749]","Adventure, Fantasy, Romance",Fantasy Epic,2011
+991494,The SpongeBob Movie: Search for SquarePants,2025-12-16,6.8,32.405,"[16, 10751, 35, 12, 14]","Animation, Family, Comedy, Adventure, Fantasy",Fairy Tale,2025
+1117857,In Your Dreams,2025-11-07,7.0,31.4843,"[16, 10751, 35, 12, 14]","Animation, Family, Comedy, Adventure, Fantasy",Fairy Tale,2025
+1011985,Kung Fu Panda 4,2024-03-02,7.0,32.5068,"[16, 10751, 28, 35, 12, 14]","Animation, Family, Action, Comedy, Adventure, Fantasy",Fairy Tale,2024
+402431,Wicked,2024-10-16,6.9,29.9922,"[18, 10749, 14]","Drama, Romance, Fantasy",Fantasy Epic,2024
+1218925,Chainsaw Man - The Movie: Reze Arc,2025-09-19,8.3,28.0989,"[16, 28, 10749, 14]","Animation, Action, Romance, Fantasy",Sword and Sorcery,2025
+671,Harry Potter and the Philosopher's Stone,2001-11-16,7.9,28.8197,"[12, 14]","Adventure, Fantasy",Fantasy Epic,2001
+120,The Lord of the Rings: The Fellowship of the Ring,2001-12-18,8.4,28.8964,"[12, 14, 28]","Adventure, Fantasy, Action",Sword and Sorcery,2001
+1019420,Irish Wish,2024-03-14,6.1,22.5608,"[10749, 35, 14]","Romance, Comedy, Fantasy",Fantasy Epic,2024
+129,Spirited Away,2001-07-20,8.5,31.1599,"[16, 10751, 14]","Animation, Family, Fantasy",Fairy Tale,2001
+1241982,Moana 2,2024-11-21,7.0,25.6955,"[16, 12, 10751, 35, 14]","Animation, Adventure, Family, Comedy, Fantasy",Fairy Tale,2024
+122,The Lord of the Rings: The Return of the King,2003-12-17,8.5,28.8167,"[12, 14, 28]","Adventure, Fantasy, Action",Sword and Sorcery,2003
+14836,Coraline,2009-02-05,7.9,25.8634,"[16, 10751, 14]","Animation, Family, Fantasy",Fairy Tale,2009
+1062722,Frankenstein,2025-10-17,7.6,25.0827,"[18, 14, 27]","Drama, Fantasy, Horror",Dark Fantasy,2025
+950387,A Minecraft Movie,2025-03-31,6.3,23.461,"[10751, 14, 35, 12]","Family, Fantasy, Comedy, Adventure",Fantasy Epic,2025
+1087192,How to Train Your Dragon,2025-06-06,7.9,22.8275,"[14, 10751, 28, 12]","Fantasy, Family, Action, Adventure",Fantasy Epic,2025
+497,The Green Mile,1999-12-10,8.5,25.6354,"[14, 18, 80]","Fantasy, Drama, Crime",Fantasy Epic,1999
+808,Shrek,2001-05-18,7.8,24.6872,"[16, 35, 14, 12, 10751]","Animation, Comedy, Fantasy, Adventure, Family",Fairy Tale,2001
+508947,Turning Red,2022-03-10,7.3,21.6351,"[16, 10751, 35, 14]","Animation, Family, Comedy, Fantasy",Fairy Tale,2022
+980477,Ne Zha 2,2025-01-29,8.1,20.0836,"[16, 14, 12]","Animation, Fantasy, Adventure",Fantasy Epic,2025
+4935,Howl's Moving Castle,2004-09-09,8.4,20.775,"[14, 16, 12]","Fantasy, Animation, Adventure",Fantasy Epic,2004
+1497970,Tom and Jerry: Forbidden Compass,2025-08-02,6.2,20.4676,"[16, 35, 10751, 14, 12]","Animation, Comedy, Family, Fantasy, Adventure",Fairy Tale,2025
+672,Harry Potter and the Chamber of Secrets,2002-11-13,7.7,19.8938,"[12, 14]","Adventure, Fantasy",Fantasy Epic,2002
+517302,Hatching,2022-03-04,6.3,14.2518,"[27, 14, 18]","Horror, Fantasy, Drama",Dark Fantasy,2022
+121,The Lord of the Rings: The Two Towers,2002-12-18,8.4,19.0433,"[12, 14, 28]","Adventure, Fantasy, Action",Sword and Sorcery,2002
+673,Harry Potter and the Prisoner of Azkaban,2004-05-31,8.0,19.4009,"[12, 14]","Adventure, Fantasy",Fantasy Epic,2004
+1020969,Teddy's Christmas,2022-11-05,7.0,17.9939,"[10751, 12, 14]","Family, Adventure, Fantasy",Fantasy Epic,2022
+1401778,Turbulence,2025-11-26,6.4,17.4883,"[53, 28, 12, 18, 14]","Thriller, Action, Adventure, Drama, Fantasy",Dark Fantasy,2025
+12445,Harry Potter and the Deathly Hallows: Part 2,2011-07-12,8.1,18.1468,"[12, 14]","Adventure, Fantasy",Fantasy Epic,2011
+767,Harry Potter and the Half-Blood Prince,2009-07-15,7.7,18.2375,"[12, 14]","Adventure, Fantasy",Fantasy Epic,2009
+214756,Ted 2,2015-06-25,6.3,18.5208,"[35, 14]","Comedy, Fantasy",Fantasy Epic,2015
+1180831,Troll 2,2025-11-30,6.4,16.0422,"[28, 14, 53]","Action, Fantasy, Thriller",Dark Fantasy,2025
+675,Harry Potter and the Order of the Phoenix,2007-07-08,7.7,17.3256,"[12, 14]","Adventure, Fantasy",Fantasy Epic,2007
+8966,Twilight,2008-11-20,6.3,16.7715,"[14, 18, 10749]","Fantasy, Drama, Romance",Fantasy Epic,2008
+23544,The Point,1971-02-02,6.9,12.6992,"[16, 10751, 14, 12]","Animation, Family, Fantasy, Adventure",Fairy Tale,1971
+1357633,Solo Leveling -ReAwakening-,2024-11-26,7.1,18.2482,"[28, 12, 14, 16]","Action, Adventure, Fantasy, Animation",Sword and Sorcery,2024
+109445,Frozen,2013-11-20,7.2,16.2379,"[16, 10751, 12, 14]","Animation, Family, Adventure, Fantasy",Fairy Tale,2013
+674,Harry Potter and the Goblet of Fire,2005-11-16,7.8,20.3253,"[12, 14]","Adventure, Fantasy",Fantasy Epic,2005
+564,The Mummy,1999-04-16,7.0,17.6059,"[12, 28, 14]","Adventure, Action, Fantasy",Sword and Sorcery,1999
+12444,Harry Potter and the Deathly Hallows: Part 1,2010-11-17,7.7,16.3751,"[12, 14]","Adventure, Fantasy",Fantasy Epic,2010
+58,Pirates of the Caribbean: Dead Man's Chest,2006-07-06,7.4,17.288,"[12, 14, 28]","Adventure, Fantasy, Action",Sword and Sorcery,2006
+122917,The Hobbit: The Battle of the Five Armies,2014-12-10,7.3,17.4067,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2014
+411,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005-12-07,7.1,16.4334,"[12, 10751, 14]","Adventure, Family, Fantasy",Fantasy Epic,2005
+22,Pirates of the Caribbean: The Curse of the Black Pearl,2003-07-09,7.8,16.333,"[12, 14, 28]","Adventure, Fantasy, Action",Sword and Sorcery,2003
+823219,Flow,2024-08-29,8.1,14.9967,"[16, 12, 14, 10751]","Animation, Adventure, Fantasy, Family",Fairy Tale,2024
+812,Aladdin,1992-11-25,7.7,15.5336,"[16, 10751, 12, 14, 10749]","Animation, Family, Adventure, Fantasy, Romance",Fairy Tale,1992
+1575337,Cosmic Princess Kaguya!,2026-01-22,8.5,15.5758,"[16, 14, 10402, 878]","Animation, Fantasy, Sci-Fi",Fantasy Epic,2026
+2062,Ratatouille,2007-06-28,7.8,13.1921,"[16, 35, 10751, 14]","Animation, Comedy, Family, Fantasy",Fairy Tale,2007
+967941,Wicked: For Good,2025-11-19,6.6,16.1367,"[14, 12, 10749]","Fantasy, Adventure, Romance",Fantasy Epic,2025
+128,Princess Mononoke,1997-07-12,8.3,13.3166,"[12, 14, 16]","Adventure, Fantasy, Animation",Fantasy Epic,1997
+315162,Puss in Boots: The Last Wish,2022-12-07,8.2,15.1515,"[16, 12, 14, 35, 10751]","Animation, Adventure, Fantasy, Comedy, Family",Fairy Tale,2022
+1083637,Kantara - A Legend: Chapter 1,2025-10-01,7.0,12.8036,"[28, 18, 14]","Action, Drama, Fantasy",Sword and Sorcery,2025
+209112,Batman v Superman: Dawn of Justice,2016-03-23,6.0,13.3512,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2016
+447273,Snow White,2025-03-19,4.3,13.7481,"[10751, 14]","Family, Fantasy",Fantasy Epic,2025
+931285,Mortal Kombat II,2026-05-06,0.0,12.3913,"[28, 14, 12]","Action, Fantasy, Adventure",Sword and Sorcery,2026
+453395,Doctor Strange in the Multiverse of Madness,2022-05-04,7.2,13.6148,"[14, 28, 12]","Fantasy, Action, Adventure",Sword and Sorcery,2022
+49051,The Hobbit: An Unexpected Journey,2012-12-12,7.4,12.9561,"[12, 14, 28]","Adventure, Fantasy, Action",Sword and Sorcery,2012
+809,Shrek 2,2004-05-19,7.3,13.66,"[16, 10751, 35, 14, 10749]","Animation, Family, Comedy, Fantasy, Romance",Fairy Tale,2004
+285,Pirates of the Caribbean: At World's End,2007-05-19,7.3,12.3949,"[12, 14, 28]","Adventure, Fantasy, Action",Sword and Sorcery,2007
+10020,Beauty and the Beast,1991-10-22,7.7,12.99,"[10749, 10751, 16, 14]","Romance, Family, Animation, Fantasy",Fairy Tale,1991
+810693,Jujutsu Kaisen 0,2021-12-24,8.1,12.5894,"[16, 28, 14]","Animation, Action, Fantasy",Sword and Sorcery,2021
+1865,Pirates of the Caribbean: On Stranger Tides,2011-05-15,6.6,12.5131,"[12, 28, 14]","Adventure, Action, Fantasy",Sword and Sorcery,2011
+1489187,You Drive Me Crazy,2025-10-09,8.2,11.2962,"[35, 10749, 14]","Comedy, Romance, Fantasy",Fantasy Epic,2025
+420817,Aladdin,2019-05-22,7.1,11.4458,"[12, 14, 10749, 10751]","Adventure, Fantasy, Romance, Family",Fantasy Epic,2019
+11970,Hercules,1997-06-13,7.5,12.3148,"[16, 10751, 14, 12, 35, 10749]","Animation, Family, Fantasy, Adventure, Comedy, Romance",Fairy Tale,1997
+976573,Elemental,2023-06-14,7.6,11.6877,"[16, 10751, 10749, 14, 35]","Animation, Family, Romance, Fantasy, Comedy",Fairy Tale,2023
+8392,My Neighbor Totoro,1988-04-16,8.1,10.6177,"[14, 16, 10751]","Fantasy, Animation, Family",Fairy Tale,1988
+616037,Thor: Love and Thunder,2022-07-06,6.4,12.1179,"[14, 28, 35]","Fantasy, Action, Comedy",Sword and Sorcery,2022
+1500099,Versa,2025-04-15,7.8,10.1873,"[16, 10751, 18, 14]","Animation, Family, Drama, Fantasy",Fairy Tale,2025
+16859,Kiki's Delivery Service,1989-07-29,7.8,17.9818,"[16, 10751, 14, 18]","Animation, Family, Fantasy, Drama",Fairy Tale,1989
+601,E.T. the Extra-Terrestrial,1982-06-11,7.5,11.3587,"[878, 12, 10751, 14]","Sci-Fi, Adventure, Family, Fantasy",Fantasy Epic,1982
+18491,Neon Genesis Evangelion: The End of Evangelion,1997-07-19,8.3,11.1877,"[16, 878, 18, 14]","Animation, Sci-Fi, Drama, Fantasy",Fantasy Epic,1997
+1144107,The Legend of Hei 2,2025-07-18,8.5,12.781,"[16, 14, 28]","Animation, Fantasy, Action",Sword and Sorcery,2025
+1043197,Dust Bunny,2025-12-11,6.6,11.3626,"[14, 28, 27]","Fantasy, Action, Horror",Dark Fantasy,2025
+10195,Thor,2011-04-21,6.8,12.162,"[12, 14, 28]","Adventure, Fantasy, Action",Sword and Sorcery,2011
+508883,The Boy and the Heron,2023-07-14,7.4,11.9616,"[16, 14, 18]","Animation, Fantasy, Drama",Fantasy Epic,2023
+13494,Red Sonja,2025-07-31,5.7,11.063,"[12, 28, 14, 18]","Adventure, Action, Fantasy, Drama",Sword and Sorcery,2025
+9470,Kung Fu Hustle,2004-02-10,7.5,12.1406,"[28, 35, 80, 14]","Action, Comedy, Crime, Fantasy",Sword and Sorcery,2004
+72105,Ted,2012-06-29,6.4,10.8191,"[35, 14]","Comedy, Fantasy",Fantasy Epic,2012
+297762,Wonder Woman,2017-05-30,7.2,13.1646,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2017
+447277,The Little Mermaid,2023-05-18,6.3,10.9341,"[12, 10751, 14, 10749]","Adventure, Family, Fantasy, Romance",Fantasy Epic,2023
+508442,Soul,2020-12-25,8.1,11.1742,"[16, 10751, 18, 10402, 14]","Animation, Family, Drama, Fantasy",Fairy Tale,2020
+804370,Arco,2025-10-22,7.5,10.5972,"[16, 12, 14, 10751, 878]","Animation, Adventure, Fantasy, Family, Sci-Fi",Fairy Tale,2025
+635302,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,2020-10-16,8.2,10.9151,"[16, 28, 14]","Animation, Action, Fantasy",Sword and Sorcery,2020
+1147411,"Miraculous World: Tokyo, Stellar Force",2025-12-07,8.2,10.2754,"[16, 10751, 28, 12, 14]","Animation, Family, Action, Adventure, Fantasy",Fairy Tale,2025
+408,Snow White and the Seven Dwarfs,1938-01-14,7.1,10.2964,"[14, 16, 10751]","Fantasy, Animation, Family",Fairy Tale,1938
+936108,Smurfs,2025-06-30,5.8,10.186,"[16, 10751, 14]","Animation, Family, Fantasy",Fairy Tale,2025
+1108427,Moana,2026-07-08,0.0,12.0383,"[10751, 14, 35, 12]","Family, Fantasy, Comedy, Adventure",Fantasy Epic,2026
+10191,How to Train Your Dragon,2010-03-18,7.9,12.1932,"[14, 12, 16, 10751]","Fantasy, Adventure, Animation, Family",Fairy Tale,2010
+57158,The Hobbit: The Desolation of Smaug,2013-12-11,7.6,9.4456,"[14, 12, 28]","Fantasy, Adventure, Action",Sword and Sorcery,2013
+284052,Doctor Strange,2016-10-25,7.4,11.8893,"[14, 12, 28]","Fantasy, Adventure, Action",Sword and Sorcery,2016
+1368337,The Odyssey,2026-07-15,0.0,11.7905,"[12, 18, 14]","Adventure, Drama, Fantasy",Fantasy Epic,2026
+791373,Zack Snyder's Justice League,2021-03-18,8.1,10.8401,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2021
+62177,Brave,2012-06-21,7.0,10.9515,"[16, 10751, 14, 12]","Animation, Family, Fantasy, Adventure",Fairy Tale,2012
+82702,How to Train Your Dragon 2,2014-06-05,7.7,9.705,"[14, 28, 12, 16, 10751]","Fantasy, Action, Adventure, Animation, Family",Fairy Tale,2014
+76492,Hotel Transylvania,2012-09-20,7.0,10.8006,"[16, 35, 10751, 14]","Animation, Comedy, Family, Fantasy",Fairy Tale,2012
+630,The Wizard of Oz,1939-08-15,7.6,11.2174,"[12, 14, 10751]","Adventure, Fantasy, Family",Fantasy Epic,1939
+568124,Encanto,2021-10-13,7.6,10.89,"[16, 35, 10751, 14]","Animation, Comedy, Family, Fantasy",Fairy Tale,2021
+11688,The Emperor's New Groove,2000-12-15,7.6,11.0999,"[12, 16, 35, 10751, 14]","Adventure, Animation, Comedy, Family, Fantasy",Fairy Tale,2000
+1734,The Mummy Returns,2001-05-04,6.4,11.228,"[12, 28, 14]","Adventure, Action, Fantasy",Sword and Sorcery,2001
+12155,Alice in Wonderland,2010-03-03,6.6,10.6062,"[10751, 14, 12]","Family, Fantasy, Adventure",Fantasy Epic,2010
+76757,Jupiter Ascending,2015-02-04,5.5,9.7713,"[878, 14, 28]","Sci-Fi, Fantasy, Action",Sword and Sorcery,2015
+585511,Luck,2022-08-05,7.7,10.5134,"[16, 12, 35, 14]","Animation, Adventure, Comedy, Fantasy",Fantasy Epic,2022
+297802,Aquaman,2018-12-07,6.9,10.2167,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2018
+321612,Beauty and the Beast,2017-03-16,7.0,10.339,"[10751, 14, 10749]","Family, Fantasy, Romance",Fantasy Epic,2017
+854,The Mask,1994-07-29,7.0,10.0018,"[35, 14, 80, 10749]","Comedy, Fantasy, Crime, Romance",Fantasy Epic,1994
+105825,Erotic Ghost Story III,1992-03-05,5.5,9.8398,"[27, 18, 14]","Horror, Drama, Fantasy",Dark Fantasy,1992
+11976,Legend,1985-08-28,6.2,6.6524,"[12, 14]","Adventure, Fantasy",Fantasy Epic,1985
+3933,Corpse Bride,2005-09-12,7.6,10.9313,"[10749, 14, 16]","Romance, Fantasy, Animation",Fantasy Epic,2005
+268,Batman,1989-06-21,7.2,9.2488,"[14, 28, 80]","Fantasy, Action, Crime",Sword and Sorcery,1989
+11224,Cinderella,1950-02-22,7.0,9.9235,"[10751, 14, 16, 10749]","Family, Fantasy, Animation, Romance",Fairy Tale,1950
+18239,The Twilight Saga: New Moon,2009-11-18,6.0,9.4595,"[12, 14, 18, 10749]","Adventure, Fantasy, Drama, Romance",Fantasy Epic,2009
+447404,Pokémon Detective Pikachu,2019-05-03,6.9,9.1811,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2019
+10192,Shrek Forever After,2010-05-20,6.4,9.1998,"[35, 12, 14, 16, 10751]","Comedy, Adventure, Fantasy, Animation, Family",Fairy Tale,2010
+141,Donnie Darko,2001-01-19,7.8,10.6439,"[14, 18, 9648]","Fantasy, Drama",Fantasy Epic,2001
+102651,Maleficent,2014-05-28,7.1,10.6909,"[14, 12, 28, 10751, 10749]","Fantasy, Adventure, Action, Family, Romance",Fantasy Epic,2014
+10144,The Little Mermaid,1989-11-17,7.4,9.4987,"[16, 10751, 14]","Animation, Family, Fantasy",Fairy Tale,1989
+246655,X-Men: Apocalypse,2016-05-18,6.5,10.6083,"[878, 14, 28]","Sci-Fi, Fantasy, Action",Sword and Sorcery,2016
+118,Charlie and the Chocolate Factory,2005-07-13,7.0,9.9064,"[12, 35, 10751, 14]","Adventure, Comedy, Family, Fantasy",Fantasy Epic,2005
+150689,Cinderella,2015-03-06,6.8,10.6805,"[10749, 14, 10751, 18]","Romance, Fantasy, Family, Drama",Fantasy Epic,2015
+587,Big Fish,2003-12-10,7.8,8.251,"[12, 14, 18]","Adventure, Fantasy, Drama",Fantasy Epic,2003
+81,Nausicaä of the Valley of the Wind,1984-03-11,7.9,9.6984,"[12, 16, 14]","Adventure, Animation, Fantasy",Fantasy Epic,1984
+566525,Shang-Chi and the Legend of the Ten Rings,2021-09-01,7.5,8.6166,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2021
+10830,Matilda,1996-08-02,7.2,10.613,"[35, 10751, 14]","Comedy, Family, Fantasy",Fantasy Epic,1996
+1417,Pan's Labyrinth,2006-10-11,7.8,9.4523,"[14, 18, 10752]","Fantasy, Drama",Fantasy Epic,2006
+162,Edward Scissorhands,1990-12-07,7.7,7.9894,"[14, 18, 10749]","Fantasy, Drama, Romance",Fantasy Epic,1990
+572802,Aquaman and the Lost Kingdom,2023-12-20,6.5,10.1254,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2023
+10198,The Princess and the Frog,2009-12-08,7.2,10.1228,"[16, 10749, 14, 10751]","Animation, Romance, Fantasy, Family",Fairy Tale,2009
+24021,The Twilight Saga: Eclipse,2010-06-23,6.2,9.0003,"[12, 14, 18, 10749]","Adventure, Fantasy, Drama, Romance",Fantasy Epic,2010
+181533,Night at the Museum: Secret of the Tomb,2014-12-17,6.2,8.7305,"[12, 35, 14, 10751]","Adventure, Comedy, Fantasy, Family",Fantasy Epic,2014
+460465,Mortal Kombat,2021-04-07,7.0,9.0814,"[28, 14, 12]","Action, Fantasy, Adventure",Sword and Sorcery,2021
+512200,Jumanji: The Next Level,2019-12-04,6.9,9.661,"[12, 35, 14]","Adventure, Comedy, Fantasy",Fantasy Epic,2019
+5255,The Polar Express,2004-11-10,6.7,7.3912,"[16, 10751, 14, 12]","Animation, Family, Fantasy, Adventure",Fairy Tale,2004
+508943,Luca,2021-06-17,7.8,9.0218,"[16, 10751, 14, 35, 18]","Animation, Family, Fantasy, Comedy, Drama",Fairy Tale,2021
+410119,Yu Pui Tsuen II,1987-10-15,5.2,9.5502,"[18, 14, 10749]","Drama, Fantasy, Romance",Fantasy Epic,1987
+561,Constantine,2005-02-08,7.1,9.0548,"[14, 28, 27]","Fantasy, Action, Horror",Dark Fantasy,2005
+787699,Wonka,2023-12-06,7.0,8.8904,"[35, 10751, 14]","Comedy, Family, Fantasy",Fantasy Epic,2023
+166426,Pirates of the Caribbean: Dead Men Tell No Tales,2017-05-23,6.7,9.5515,"[12, 28, 14]","Adventure, Action, Fantasy",Sword and Sorcery,2017
+1359607,Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved,2025-06-27,8.0,7.8865,"[16, 35, 14]","Animation, Comedy, Fantasy",Fantasy Epic,2025
+793387,Holy Night: Demon Hunters,2025-04-30,6.8,8.0525,"[28, 14, 27, 53]","Action, Fantasy, Horror, Thriller",Dark Fantasy,2025
+549649,Dancing With Ghosts,2018-09-27,3.0,6.8128,"[14, 18, 35]","Fantasy, Drama, Comedy",Fantasy Epic,2018
+656908,Ramayana,2026-11-08,0.0,7.7583,"[18, 14, 28]","Drama, Fantasy, Action",Sword and Sorcery,2026
+845781,Red One,2024-10-31,7.0,9.5773,"[28, 35, 14]","Action, Comedy, Fantasy",Sword and Sorcery,2024
+1131759,Omniscient Reader: The Prophecy,2025-07-23,6.8,8.1682,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2025
+1250,Ghost Rider,2007-01-15,5.6,8.4911,"[53, 28, 14]","Thriller, Action, Fantasy",Dark Fantasy,2007
+426063,Nosferatu,2024-12-25,6.7,9.3371,"[27, 14]","Horror, Fantasy",Dark Fantasy,2024
+1585,It's a Wonderful Life,1946-12-20,8.3,9.2535,"[18, 10751, 14]","Drama, Family, Fantasy",Fantasy Epic,1946
+35552,The Extraordinary Adventures of Adèle Blanc-Sec,2010-04-09,6.2,8.372,"[14, 12, 28, 9648]","Fantasy, Adventure, Action",Sword and Sorcery,2010
+10515,Castle in the Sky,1986-08-02,8.0,8.1293,"[12, 14, 16, 28, 10751]","Adventure, Fantasy, Animation, Action, Family",Fairy Tale,1986
+568160,Weathering with You,2019-07-19,8.0,8.4429,"[16, 18, 14, 10749]","Animation, Drama, Fantasy, Romance",Fantasy Epic,2019
+493529,Dungeons & Dragons: Honor Among Thieves,2023-03-23,7.3,8.2615,"[12, 14, 35]","Adventure, Fantasy, Comedy",Fantasy Epic,2023
+218726,Doraemon: Nobita's Secret Gadget Museum,2013-03-09,6.4,6.6196,"[12, 10751, 16, 35, 14, 878]","Adventure, Family, Animation, Comedy, Fantasy, Sci-Fi",Fairy Tale,2013
+293167,Kong: Skull Island,2017-03-08,6.6,9.0256,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2017
+76338,Thor: The Dark World,2013-10-30,6.5,9.0642,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2013
+2493,The Princess Bride,1987-09-25,7.7,8.5015,"[12, 10751, 14, 35, 10749]","Adventure, Family, Fantasy, Comedy, Romance",Fantasy Epic,1987
+879,Hook,1991-04-10,6.8,7.2789,"[12, 14, 35, 10751]","Adventure, Fantasy, Comedy, Family",Fantasy Epic,1991
+122906,About Time,2013-09-04,7.9,10.4798,"[18, 10749, 14]","Drama, Romance, Fantasy",Fantasy Epic,2013
+10882,Sleeping Beauty,1959-02-17,6.9,6.9078,"[14, 16, 10749, 10751]","Fantasy, Animation, Romance, Family",Fairy Tale,1959
+1014505,OVERLORD: The Sacred Kingdom,2024-09-20,7.9,8.0474,"[28, 12, 16, 14]","Action, Adventure, Animation, Fantasy",Sword and Sorcery,2024
+259316,Fantastic Beasts and Where to Find Them,2016-11-16,7.3,8.3416,"[14, 12]","Fantasy, Adventure",Fantasy Epic,2016
+346672,Underworld: Blood Wars,2016-11-24,5.9,7.5335,"[14, 28, 53, 878, 27]","Fantasy, Action, Thriller, Sci-Fi, Horror",Dark Fantasy,2016
+32657,Percy Jackson & the Olympians: The Lightning Thief,2010-02-01,6.2,8.1407,"[12, 14, 10751]","Adventure, Fantasy, Family",Fantasy Epic,2010
+585083,Hotel Transylvania: Transformania,2022-01-31,7.0,8.5086,"[16, 35, 10751, 12, 14]","Animation, Comedy, Family, Adventure, Fantasy",Fairy Tale,2022
+68735,Warcraft,2016-05-25,6.4,7.1533,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2016
+287947,Shazam!,2019-03-29,7.0,8.1066,"[28, 35, 14]","Action, Comedy, Fantasy",Sword and Sorcery,2019
+12429,Ponyo,2008-07-19,7.8,8.9007,"[16, 14, 10751]","Animation, Fantasy, Family",Fairy Tale,2008
+192904,Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey,2004-03-06,7.3,6.2331,"[16, 12, 10751, 878, 14]","Animation, Adventure, Family, Sci-Fi, Fantasy",Fairy Tale,2004
+1253000,Deathstalker,2025-10-10,5.9,7.4397,"[14, 28, 12]","Fantasy, Action, Adventure",Sword and Sorcery,2025
+137106,The Lego Movie,2014-02-06,7.4,8.5046,"[16, 10751, 12, 35, 14]","Animation, Family, Adventure, Comedy, Fantasy",Fairy Tale,2014
+50620,The Twilight Saga: Breaking Dawn - Part 2,2012-11-13,6.5,7.7968,"[14, 18, 10749]","Fantasy, Drama, Romance",Fantasy Epic,2012
+877703,Teen Wolf: The Movie,2023-01-18,7.5,7.4638,"[28, 14, 10770]","Action, Fantasy",Sword and Sorcery,2023
+353486,Jumanji: Welcome to the Jungle,2017-12-09,6.8,7.9574,"[12, 35, 14, 28]","Adventure, Comedy, Fantasy, Action",Sword and Sorcery,2017
+60898,Erotic Ghost Story,1990-05-19,6.2,7.7524,"[14, 18, 27]","Fantasy, Drama, Horror",Dark Fantasy,1990
+620,Ghostbusters,1984-06-08,7.5,7.8798,"[35, 14]","Comedy, Fantasy",Fantasy Epic,1984
+842924,The Life of Chuck,2025-06-05,7.3,7.8399,"[14, 18]","Fantasy, Drama",Fantasy Epic,2025
+251,Ghost,1990-07-13,7.2,6.9158,"[14, 10749, 53]","Fantasy, Romance, Thriller",Dark Fantasy,1990
+917496,Beetlejuice Beetlejuice,2024-09-04,6.9,7.0978,"[35, 14, 27]","Comedy, Fantasy, Horror",Dark Fantasy,2024
+916224,Suzume,2022-11-11,7.9,7.7895,"[16, 18, 12, 14]","Animation, Drama, Adventure, Fantasy",Fantasy Epic,2022
+81005,Jack the Giant Slayer,2013-02-27,5.9,7.5864,"[14, 28, 12, 18]","Fantasy, Action, Adventure, Drama",Sword and Sorcery,2013
+1125257,Freakier Friday,2025-08-06,6.9,7.742,"[35, 14, 10751]","Comedy, Fantasy, Family",Fantasy Epic,2025
+297,Meet Joe Black,1998-11-12,7.4,9.3168,"[14, 18, 10749]","Fantasy, Drama, Romance",Fantasy Epic,1998
+454639,Masters of the Universe,2026-06-03,0.0,7.6223,"[28, 14, 878]","Action, Fantasy, Sci-Fi",Sword and Sorcery,2026
+527774,Raya and the Last Dragon,2021-03-03,7.8,7.8979,"[16, 10751, 14, 12, 28]","Animation, Family, Fantasy, Adventure, Action",Fairy Tale,2021
+639720,IF,2024-05-08,7.0,9.646,"[35, 14, 10751]","Comedy, Fantasy, Family",Fantasy Epic,2024
+615453,Ne Zha,2019-07-26,7.9,7.6865,"[16, 14, 12]","Animation, Fantasy, Adventure",Fantasy Epic,2019
+267935,The BFG,2016-06-01,6.3,7.0697,"[12, 10751, 14]","Adventure, Family, Fantasy",Fantasy Epic,2016
+456740,Hellboy,2019-04-10,5.6,6.5576,"[14, 27, 28, 12]","Fantasy, Horror, Action, Adventure",Dark Fantasy,2019
+810,Shrek the Third,2007-05-17,6.3,9.251,"[14, 12, 16, 35, 10751]","Fantasy, Adventure, Animation, Comedy, Family",Fairy Tale,2007
+293863,The Age of Adaline,2015-04-16,7.5,8.0259,"[10749, 14, 18]","Romance, Fantasy, Drama",Fantasy Epic,2015
+338952,Fantastic Beasts: The Crimes of Grindelwald,2018-11-14,6.8,7.2935,"[14, 12]","Fantasy, Adventure",Fantasy Epic,2018
+812225,Black Clover: Sword of the Wizard King,2023-06-16,8.1,7.1825,"[16, 14, 28, 12]","Animation, Fantasy, Action, Adventure",Sword and Sorcery,2023
+337401,Mulan,2020-09-04,6.8,7.9514,"[12, 14, 28]","Adventure, Fantasy, Action",Sword and Sorcery,2020
+10895,Pinocchio,1940-02-23,7.1,7.7451,"[16, 10751, 14]","Animation, Family, Fantasy",Fairy Tale,1940
+4011,Beetlejuice,1988-03-30,7.4,7.3107,"[14, 35]","Fantasy, Comedy",Fantasy Epic,1988
+9479,The Nightmare Before Christmas,1993-10-09,7.8,6.2359,"[14, 16, 10751]","Fantasy, Animation, Family",Fairy Tale,1993
+639933,The Northman,2022-04-07,7.0,6.4624,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2022
+274854,The Last Witch Hunter,2015-10-21,6.0,8.8278,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2015
+533514,Violet Evergarden: The Movie,2020-09-18,8.3,7.9919,"[16, 18, 14, 10749]","Animation, Drama, Fantasy, Romance",Fantasy Epic,2020
+310,Bruce Almighty,2003-05-23,6.7,8.3186,"[14, 35]","Fantasy, Comedy",Fantasy Epic,2003
+11639,The Dark Crystal,1982-12-17,7.1,5.1206,"[12, 10751, 14]","Adventure, Family, Fantasy",Fantasy Epic,1982
+572154,Rascal Does Not Dream of a Dreaming Girl,2019-06-15,8.3,6.7884,"[16, 10749, 18, 14]","Animation, Romance, Drama, Fantasy",Fantasy Epic,2019
+763215,Damsel,2024-03-07,7.0,6.6853,"[14, 28, 12]","Fantasy, Action, Adventure",Sword and Sorcery,2024
+12092,Alice in Wonderland,1951-07-28,7.2,7.2818,"[16, 10751, 14, 12]","Animation, Family, Fantasy, Adventure",Fairy Tale,1951
+137,Groundhog Day,1993-02-11,7.6,7.6176,"[10749, 14, 35]","Romance, Fantasy, Comedy",Fantasy Epic,1993
+1735,The Mummy: Tomb of the Dragon Emperor,2008-07-01,5.5,7.6571,"[12, 28, 14]","Adventure, Action, Fantasy",Sword and Sorcery,2008
+360920,The Grinch,2018-11-08,6.9,6.5554,"[10751, 35, 16, 14]","Family, Comedy, Animation, Fantasy",Fairy Tale,2018
+400155,Hotel Transylvania 3: Summer Vacation,2018-06-28,6.8,7.2057,"[16, 35, 10751, 14]","Animation, Comedy, Family, Fantasy",Fairy Tale,2018
+495925,Doraemon: Nobita's Treasure Island,2018-03-03,7.0,5.8841,"[16, 12, 14, 878, 35, 10751]","Animation, Adventure, Fantasy, Sci-Fi, Comedy, Family",Fairy Tale,2018
+11621,Porco Rosso,1992-07-18,7.8,7.2448,"[16, 12, 14]","Animation, Adventure, Fantasy",Fantasy Epic,1992
+282035,The Mummy,2017-06-06,5.5,7.2703,"[14, 53, 28, 12, 27]","Fantasy, Thriller, Action, Adventure, Horror",Dark Fantasy,2017
+338953,Fantastic Beasts: The Secrets of Dumbledore,2022-04-06,6.6,7.2228,"[14, 12]","Fantasy, Adventure",Fantasy Epic,2022
+615925,The Water Monster,2019-07-12,5.4,6.656,"[14, 27]","Fantasy, Horror",Dark Fantasy,2019
+324544,In the Lost Lands,2025-02-27,6.3,7.3163,"[28, 14, 37]","Action, Fantasy",Sword and Sorcery,2025
+9387,Conan the Barbarian,1982-03-16,6.8,7.1858,"[12, 14, 28]","Adventure, Fantasy, Action",Sword and Sorcery,1982
+297761,Suicide Squad,2016-08-03,5.9,7.4744,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2016
+927,Gremlins,1984-06-08,7.1,7.0159,"[14, 27, 35]","Fantasy, Horror, Comedy",Dark Fantasy,1984
+10140,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010-12-02,6.4,6.8846,"[12, 10751, 14]","Adventure, Family, Fantasy",Fantasy Epic,2010
+628,Interview with the Vampire,1994-11-11,7.4,7.0875,"[27, 18, 14]","Horror, Drama, Fantasy",Dark Fantasy,1994
+51739,The Secret World of Arrietty,2010-07-16,7.7,5.8138,"[14, 16, 10751]","Fantasy, Animation, Family",Fairy Tale,2010
+900667,One Piece Film Red,2022-08-06,7.2,6.363,"[16, 12, 28, 14]","Animation, Adventure, Action, Fantasy",Sword and Sorcery,2022
+283366,Miss Peregrine's Home for Peculiar Children,2016-09-28,6.8,6.949,"[14, 12, 18, 10751]","Fantasy, Adventure, Drama, Family",Fantasy Epic,2016
+2668,Sleepy Hollow,1999-11-19,7.2,6.3695,"[14, 53, 9648, 27]","Fantasy, Thriller, Horror",Dark Fantasy,1999
+634492,Madame Web,2024-02-14,5.3,6.6502,"[28, 14]","Action, Fantasy",Sword and Sorcery,2024
+762,Monty Python and the Holy Grail,1975-04-03,7.8,7.1768,"[12, 35, 14]","Adventure, Comedy, Fantasy",Fantasy Epic,1975
+278927,The Jungle Book,2016-04-07,6.9,6.6902,"[10751, 12, 14]","Family, Adventure, Fantasy",Fantasy Epic,2016
+9480,Daredevil,2003-02-14,5.3,6.4258,"[14, 28]","Fantasy, Action",Sword and Sorcery,2003
+1571470,The Rats: A Witcher Tale,2025-10-29,5.4,5.8369,"[14, 18, 12]","Fantasy, Drama, Adventure",Fantasy Epic,2025
+615677,We Can Be Heroes,2020-12-25,6.0,6.6566,"[10751, 28, 14, 35]","Family, Action, Fantasy, Comedy",Fantasy Epic,2020
+420809,Maleficent: Mistress of Evil,2019-10-16,7.3,6.696,"[10751, 14, 12]","Family, Fantasy, Adventure",Fantasy Epic,2019
+310131,The Witch,2016-02-19,7.0,7.8772,"[27, 14, 18]","Horror, Fantasy, Drama",Dark Fantasy,2016
+846422,The Old Guard 2,2025-07-01,5.9,6.5196,"[28, 14]","Action, Fantasy",Sword and Sorcery,2025
+159824,Hotel Transylvania 2,2015-09-21,6.8,6.8421,"[16, 35, 10751, 14]","Animation, Comedy, Family, Fantasy",Fairy Tale,2015
+433,Mary Poppins,1964-12-17,7.5,8.6606,"[35, 10751, 14]","Comedy, Family, Fantasy",Fantasy Epic,1964
+34584,The NeverEnding Story,1984-04-06,7.2,6.9634,"[12, 14, 10751, 18]","Adventure, Fantasy, Family, Drama",Fantasy Epic,1984
+2270,Stardust,2007-08-10,7.3,6.2572,"[12, 14, 10749, 10751]","Adventure, Fantasy, Romance, Family",Fantasy Epic,2007
+9444,Anastasia,1997-11-20,7.6,6.5761,"[16, 10751, 14, 12]","Animation, Family, Fantasy, Adventure",Fairy Tale,1997
+1022796,Wish,2023-11-13,6.2,6.9826,"[16, 10751, 14, 12]","Animation, Family, Fantasy, Adventure",Fairy Tale,2023
+9374,Death Becomes Her,1992-07-30,6.8,5.9765,"[35, 14, 27]","Comedy, Fantasy, Horror",Dark Fantasy,1992
+22894,Legion,2010-01-21,5.9,6.6604,"[28, 14, 27]","Action, Fantasy, Horror",Dark Fantasy,2010
+4922,The Curious Case of Benjamin Button,2008-12-25,7.6,7.2799,"[18, 14, 10749]","Drama, Fantasy, Romance",Fantasy Epic,2008
+397567,Along with the Gods: The Two Worlds,2017-12-20,8.0,6.5519,"[28, 12, 18, 14, 53]","Action, Adventure, Drama, Fantasy, Thriller",Dark Fantasy,2017
+425909,Ghostbusters: Afterlife,2021-11-18,7.3,6.7233,"[14, 35, 12]","Fantasy, Comedy, Adventure",Fantasy Epic,2021
+160642,Doraemon: Nobita and the Island of Miracles – Animal Adventure,2012-03-03,6.8,6.2422,"[10751, 16, 12, 14, 35, 878]","Family, Animation, Adventure, Fantasy, Comedy, Sci-Fi",Fairy Tale,2012
+9016,Treasure Planet,2002-11-26,7.6,6.2389,"[878, 12, 16, 10751, 14]","Sci-Fi, Adventure, Animation, Family, Fantasy",Fairy Tale,2002
+364,Batman Returns,1992-06-19,6.9,7.0696,"[28, 14]","Action, Fantasy",Sword and Sorcery,1992
+436931,Pokémon the Movie: I Choose You!,2017-07-15,7.1,5.4909,"[10751, 16, 12, 14]","Family, Animation, Adventure, Fantasy",Fairy Tale,2017
+399055,The Shape of Water,2017-12-01,7.2,6.5391,"[18, 14, 10749]","Drama, Fantasy, Romance",Fantasy Epic,2017
+228161,Home,2015-03-18,6.8,5.8874,"[14, 35, 16, 878, 10751]","Fantasy, Comedy, Animation, Sci-Fi, Family",Fairy Tale,2015
+116745,The Secret Life of Walter Mitty,2013-12-18,7.2,6.0832,"[12, 35, 18, 14]","Adventure, Comedy, Drama, Fantasy",Fantasy Epic,2013
+5994,The Family Man,2000-12-12,6.8,6.3497,"[35, 18, 10749, 14]","Comedy, Drama, Romance, Fantasy",Fantasy Epic,2000
+820232,Demon Slayer: Kimetsu no Yaiba - Sibling's Bond,2019-03-29,7.9,5.4911,"[16, 28, 14, 53]","Animation, Action, Fantasy, Thriller",Dark Fantasy,2019
+1593,Night at the Museum,2006-12-20,6.6,7.7246,"[14, 10751, 35]","Fantasy, Family, Comedy",Fantasy Epic,2006
+529203,The Croods: A New Age,2020-11-25,7.4,6.5479,"[16, 10751, 12, 14, 35]","Animation, Family, Adventure, Fantasy, Comedy",Fairy Tale,2020
+1114967,Good Fortune,2025-10-14,6.9,6.1849,"[35, 14]","Comedy, Fantasy",Fantasy Epic,2025
+620249,The Legend of Hei,2019-08-27,8.3,6.3703,"[16, 14, 28]","Animation, Fantasy, Action",Sword and Sorcery,2019
+241259,Alice Through the Looking Glass,2016-05-25,6.6,7.3053,"[12, 10751, 14]","Adventure, Family, Fantasy",Fantasy Epic,2016
+258489,The Legend of Tarzan,2016-06-29,5.9,7.1511,"[14, 28, 12]","Fantasy, Action, Adventure",Sword and Sorcery,2016
+9992,Arthur and the Invisibles,2006-12-13,6.4,6.4243,"[12, 14, 16, 10751]","Adventure, Fantasy, Animation, Family",Fairy Tale,2006
+311324,The Great Wall,2016-12-16,6.0,6.037,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2016
+8009,Highlander,1986-03-07,6.9,5.4085,"[12, 28, 14]","Adventure, Action, Fantasy",Sword and Sorcery,1986
+464052,Wonder Woman 1984,2020-12-16,6.4,6.1798,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2020
+974262,Descendants: The Rise of Red,2024-07-11,6.7,6.4152,"[14, 12, 10751, 35]","Fantasy, Adventure, Family, Comedy",Fantasy Epic,2024
+9738,Fantastic Four,2005-06-29,5.8,6.219,"[28, 14, 878]","Action, Fantasy, Sci-Fi",Sword and Sorcery,2005
+836225,The Exorcism of God,2022-03-11,7.1,6.2447,"[27, 80, 18, 14]","Horror, Crime, Drama, Fantasy",Dark Fantasy,2022
+1550797,Prep & Landing: The Snowball Protocol,2025-11-27,7.2,6.2557,"[16, 35, 14, 10751]","Animation, Comedy, Fantasy, Family",Fairy Tale,2025
+765,Evil Dead II,1987-03-13,7.5,5.8531,"[27, 35, 14]","Horror, Comedy, Fantasy",Dark Fantasy,1987
+1487,Hellboy,2004-04-02,6.7,5.7622,"[14, 28]","Fantasy, Action",Sword and Sorcery,2004
+14128,Cinderella II: Dreams Come True,2002-02-23,6.1,5.5887,"[10751, 16, 10749, 14]","Family, Animation, Romance, Fantasy",Fairy Tale,2002
+205584,Gods of Egypt,2016-02-25,5.7,6.2342,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2016
+11824,Teen Wolf,1985-08-23,6.2,6.1459,"[35, 14, 10749]","Comedy, Fantasy, Romance",Fantasy Epic,1985
+1022453,The Rajasaab,2026-01-08,5.2,7.5034,"[35, 27, 14]","Comedy, Horror, Fantasy",Dark Fantasy,2026
+8960,Hancock,2008-07-01,6.4,5.9869,"[14, 28]","Fantasy, Action",Sword and Sorcery,2008
+1155281,Creation of the Gods II: Demon Force,2025-01-29,6.3,6.5128,"[28, 14, 10752]","Action, Fantasy",Sword and Sorcery,2025
+1147416,"Miraculous World: London, At the Edge of Time",2024-11-14,7.5,5.7579,"[16, 10751, 28, 14]","Animation, Family, Action, Fantasy",Fairy Tale,2024
+798286,Beau Is Afraid,2023-04-14,6.7,5.4085,"[35, 12, 14]","Comedy, Adventure, Fantasy",Fantasy Epic,2023
+75,Mars Attacks!,1996-12-13,6.4,5.9385,"[35, 14, 878]","Comedy, Fantasy, Sci-Fi",Fantasy Epic,1996
+446893,Trolls World Tour,2020-03-11,7.2,6.2059,"[10751, 16, 35, 14, 12, 10402]","Family, Animation, Comedy, Fantasy, Adventure",Fairy Tale,2020
+136799,Trolls,2016-10-13,6.6,6.0367,"[10751, 16, 14, 12, 35, 10402]","Family, Animation, Fantasy, Adventure, Comedy",Fairy Tale,2016
+448119,Dolittle,2020-01-02,6.6,5.4837,"[10751, 35, 14, 12]","Family, Comedy, Fantasy, Adventure",Fantasy Epic,2020
+1233199,Exorcism Chronicles: The Beginning,2025-02-21,6.9,5.5428,"[16, 14, 27, 28]","Animation, Fantasy, Horror, Action",Dark Fantasy,2025
+601796,Alienoid,2022-07-20,6.8,5.3827,"[878, 28, 14, 12]","Sci-Fi, Action, Fantasy, Adventure",Sword and Sorcery,2022
+36586,Blade II,2002-03-22,6.6,6.1329,"[14, 27, 28, 53]","Fantasy, Horror, Action, Thriller",Dark Fantasy,2002
+81188,Rise of the Guardians,2012-11-21,7.4,5.9731,"[16, 10751, 14, 28, 12]","Animation, Family, Fantasy, Action, Adventure",Fairy Tale,2012
+1519448,Demon Slayer: Kimetsu no Yaiba Special Edition Swordsmith Village Arc Part 2,2025-06-13,10.0,3.205,"[16, 28, 14, 53]","Animation, Action, Fantasy, Thriller",Dark Fantasy,2025
+11836,The SpongeBob SquarePants Movie,2004-11-19,7.1,6.242,"[10751, 35, 12, 16, 14]","Family, Comedy, Adventure, Animation, Fantasy",Fairy Tale,2004
+428045,Iron Mask,2019-08-16,6.1,6.5685,"[28, 12, 10751, 14]","Action, Adventure, Family, Fantasy",Fantasy Epic,2019
+496450,"Miraculous: Ladybug & Cat Noir, The Movie",2023-07-05,7.6,5.1939,"[16, 14, 28, 10749, 10751]","Animation, Fantasy, Action, Romance, Family",Fairy Tale,2023
+223702,Sausage Party,2016-07-11,5.8,5.4685,"[12, 16, 35, 14]","Adventure, Animation, Comedy, Fantasy",Fantasy Epic,2016
+10228,Pokémon: The First Movie,1998-07-18,7.0,6.1033,"[16, 10751, 12, 14, 28]","Animation, Family, Adventure, Fantasy, Action",Fairy Tale,1998
+927254,The Twits,2025-10-17,6.0,5.6104,"[16, 35, 10751, 14]","Animation, Comedy, Family, Fantasy",Fairy Tale,2025
+555604,Guillermo del Toro's Pinocchio,2022-11-09,8.0,5.9578,"[16, 14, 12, 18]","Animation, Fantasy, Adventure, Drama",Fantasy Epic,2022
+856289,Creation of the Gods I: Kingdom of Storms,2023-07-15,7.1,5.8441,"[28, 14, 10752]","Action, Fantasy",Sword and Sorcery,2023
+9339,Click,2006-06-23,6.3,5.0983,"[35, 18, 14]","Comedy, Drama, Fantasy",Fantasy Epic,2006
+338970,Tomb Raider,2018-03-05,6.4,7.0415,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2018
+1374686,Light of the World,2025-09-04,8.4,5.2623,"[16, 14, 18, 10402]","Animation, Fantasy, Drama",Fantasy Epic,2025
+1427,Perfume: The Story of a Murderer,2006-09-13,7.4,6.1065,"[80, 14, 18]","Crime, Fantasy, Drama",Fantasy Epic,2006
+49730,Red Riding Hood,2011-03-10,6.0,5.2379,"[53, 18, 14, 9648, 27, 10749]","Thriller, Drama, Fantasy, Horror, Romance",Dark Fantasy,2011
+18823,Clash of the Titans,2010-03-26,5.9,6.5762,"[12, 14, 28]","Adventure, Fantasy, Action",Sword and Sorcery,2010
+957452,The Crow,2024-08-21,5.8,5.8942,"[28, 14, 27]","Action, Fantasy, Horror",Dark Fantasy,2024
+274857,King Arthur: Legend of the Sword,2017-05-10,6.6,6.3051,"[28, 18, 14]","Action, Drama, Fantasy",Sword and Sorcery,2017
+876792,That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond,2022-11-25,7.4,5.1928,"[16, 14, 12]","Animation, Fantasy, Adventure",Fantasy Epic,2022
+2978,Ghostbusters II,1989-06-16,6.6,6.3043,"[35, 14]","Comedy, Fantasy",Fantasy Epic,1989
+10501,The Road to El Dorado,2000-03-31,7.3,5.1842,"[10751, 12, 16, 35, 14]","Family, Adventure, Animation, Comedy, Fantasy",Fairy Tale,2000
+10693,Peter Pan,1953-02-05,7.2,6.3108,"[16, 10751, 12, 14]","Animation, Family, Adventure, Fantasy",Fairy Tale,1953
+15283,Pom Poko,1994-07-16,7.2,4.727,"[12, 16, 14]","Adventure, Animation, Fantasy",Fantasy Epic,1994
+110420,Wolf Children,2012-07-21,8.2,5.4915,"[16, 10751, 18, 14]","Animation, Family, Drama, Fantasy",Fairy Tale,2012
+1832,Dogma,1999-10-04,6.9,5.2979,"[14, 35, 12]","Fantasy, Comedy, Adventure",Fantasy Epic,1999
+161822,Doraemon: Nobita and the Tin Labyrinth,1993-03-06,7.1,3.8749,"[12, 16, 10751, 878, 35, 14]","Adventure, Animation, Family, Sci-Fi, Comedy, Fantasy",Fairy Tale,1993
+277217,Descendants,2015-07-31,7.2,5.3715,"[10751, 12, 14, 10770, 10402]","Family, Adventure, Fantasy",Fantasy Epic,2015
+417859,Puss in Boots,2011-10-27,6.6,5.6009,"[16, 10751, 14, 12, 35]","Animation, Family, Fantasy, Adventure, Comedy",Fairy Tale,2011
+38321,Priest,2011-05-05,5.9,5.0277,"[28, 14, 27]","Action, Fantasy, Horror",Dark Fantasy,2011
+901362,Trolls Band Together,2023-10-12,7.2,5.8143,"[16, 10751, 10402, 14, 35, 12]","Animation, Family, Fantasy, Comedy, Adventure",Fairy Tale,2023
+12599,Pokémon the Movie 2000,1999-07-17,6.7,5.5291,"[12, 14, 16, 878, 10751]","Adventure, Fantasy, Animation, Sci-Fi, Family",Fairy Tale,1999
+8871,How the Grinch Stole Christmas,2000-11-17,6.8,6.4792,"[10751, 35, 14]","Family, Comedy, Fantasy",Fantasy Epic,2000
+64530,Chinese Erotic Ghost Story,1998-06-12,5.6,5.1965,[14],Fantasy,Fantasy Epic,1998
+176983,One Piece Film: Z,2012-12-15,7.5,4.955,"[16, 14, 28, 12]","Animation, Fantasy, Action, Adventure",Sword and Sorcery,2012
+252,Willy Wonka & the Chocolate Factory,1971-06-29,7.5,6.1075,"[10751, 14, 35]","Family, Fantasy, Comedy",Fantasy Epic,1971
+15370,The Cat Returns,2002-07-19,7.1,5.6551,"[12, 14, 16, 18, 10751]","Adventure, Fantasy, Animation, Drama, Family",Fairy Tale,2002
+49017,Dracula Untold,2014-10-01,6.5,5.4575,"[27, 28, 14]","Horror, Action, Fantasy",Dark Fantasy,2014
+11527,Excalibur,1981-04-10,6.9,5.4356,"[12, 14]","Adventure, Fantasy",Fantasy Epic,1981
+1995,Lara Croft: Tomb Raider,2001-06-15,5.9,5.2669,"[12, 28, 14]","Adventure, Action, Fantasy",Sword and Sorcery,2001
+868794,Legend of the Ocean,2023-07-01,0.0,2.5392,"[10751, 14]","Family, Fantasy",Fantasy Epic,2023
+560057,The Sea Beast,2022-06-24,7.3,6.153,"[16, 12, 28, 10751, 14]","Animation, Adventure, Action, Family, Fantasy",Fairy Tale,2022
+77931,The Smurfs 2,2013-07-30,5.8,4.1435,"[14, 10751, 35, 16]","Fantasy, Family, Comedy, Animation",Fairy Tale,2013
+2280,Big,1988-06-03,7.2,7.0105,"[14, 18, 35]","Fantasy, Drama, Comedy",Fantasy Epic,1988
+384345,Doraemon: Nobita and the Birth of Japan,2016-03-05,6.8,4.7199,"[16, 12, 14, 878, 10751]","Animation, Adventure, Fantasy, Sci-Fi, Family",Fairy Tale,2016
+1542261,Doraemon the Movie: New Nobita and the Castle of the Undersea Devil,2026-02-27,8.0,5.2045,"[16, 12, 14, 10751]","Animation, Adventure, Fantasy, Family",Fairy Tale,2026
+594767,Shazam! Fury of the Gods,2023-03-15,6.4,5.9992,"[35, 28, 14]","Comedy, Action, Fantasy",Sword and Sorcery,2023
+48624,Urotsukidōji: Legend of the Overfiend,1989-03-18,6.0,5.5044,"[16, 28, 27, 14]","Animation, Action, Horror, Fantasy",Dark Fantasy,1989
+6477,Alvin and the Chipmunks,2007-12-13,5.8,6.3999,"[35, 10751, 14, 16]","Comedy, Family, Fantasy, Animation",Fairy Tale,2007
+48624,Urotsukidōji: Legend of the Overfiend,1989-03-18,6.0,5.5044,"[16, 28, 27, 14]","Animation, Action, Horror, Fantasy",Dark Fantasy,1989
+6477,Alvin and the Chipmunks,2007-12-13,5.8,6.3999,"[35, 10751, 14, 16]","Comedy, Family, Fantasy, Animation",Fairy Tale,2007
+9889,Shallow Hal,2001-11-01,6.2,5.3243,"[35, 10749, 14, 18]","Comedy, Romance, Fantasy, Drama",Fantasy Epic,2001
+9334,The Scorpion King,2002-04-18,5.6,5.6785,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2002
+501170,Doctor Sleep,2019-10-30,7.1,7.3428,"[27, 14]","Horror, Fantasy",Dark Fantasy,2019
+9495,The Crow,1994-05-11,7.5,5.7855,"[14, 28, 53]","Fantasy, Action, Thriller",Dark Fantasy,1994
+14282,Ninja Scroll,1993-06-05,7.8,4.8621,"[14, 16, 28]","Fantasy, Animation, Action",Sword and Sorcery,1993
+667520,A Whisker Away,2020-06-18,7.9,5.2139,"[16, 18, 10749, 14]","Animation, Drama, Romance, Fantasy",Fantasy Epic,2020
+70841,Doraemon: Nobita's Dinosaur,2006-03-04,7.5,4.7413,"[16, 12, 10751, 14, 878]","Animation, Adventure, Family, Fantasy, Sci-Fi",Fairy Tale,2006
+426543,The Nutcracker and the Four Realms,2018-10-26,6.1,5.1583,"[10751, 14, 12]","Family, Fantasy, Adventure",Fantasy Epic,2018
+414,Batman Forever,1995-06-16,5.5,5.2512,"[28, 80, 14]","Action, Crime, Fantasy",Sword and Sorcery,1995
+12222,Horton Hears a Who!,2008-03-03,6.5,6.1069,"[16, 35, 10751, 12, 14]","Animation, Comedy, Family, Adventure, Fantasy",Fairy Tale,2008
+2300,Space Jam,1996-11-15,6.8,5.7209,"[10751, 16, 878, 14, 35]","Family, Animation, Sci-Fi, Fantasy, Comedy",Fairy Tale,1996
+503919,The Lighthouse,2019-10-18,7.5,5.6979,"[18, 14, 53]","Drama, Fantasy, Thriller",Dark Fantasy,2019
+1116465,A Legend,2024-07-05,6.8,4.7881,"[28, 12, 14]","Action, Adventure, Fantasy",Sword and Sorcery,2024
+26505,Arthur and the Revenge of Maltazard,2009-11-26,5.7,5.7099,"[12, 14, 16, 10751]","Adventure, Fantasy, Animation, Family",Fairy Tale,2009
+515195,Yesterday,2019-06-26,6.7,5.4413,"[35, 14, 10402, 10749]","Comedy, Fantasy, Romance",Fantasy Epic,2019
+7980,The Lovely Bones,2009-12-26,7.1,6.5892,"[14, 18]","Fantasy, Drama",Fantasy Epic,2009
+9297,Monster House,2006-06-30,6.7,6.3346,"[16, 35, 10751, 14]","Animation, Comedy, Family, Fantasy",Fairy Tale,2006
+228165,The SpongeBob Movie: Sponge Out of Water,2015-01-28,6.1,5.3727,"[10751, 16, 12, 14, 35]","Family, Animation, Adventure, Fantasy, Comedy",Fairy Tale,2015
+2907,The Addams Family,1991-11-22,7.1,6.0817,"[35, 14]","Comedy, Fantasy",Fantasy Epic,1991
+441130,Wolfwalkers,2020-10-26,8.2,4.6119,"[16, 10751, 12, 14]","Animation, Family, Adventure, Fantasy",Fairy Tale,2020
+508439,Onward,2020-02-29,7.6,5.6961,"[16, 10751, 14, 12, 35]","Animation, Family, Fantasy, Adventure, Comedy",Fairy Tale,2020
+41513,The Smurfs,2011-07-29,5.8,5.5469,"[16, 10751, 12, 35, 14]","Animation, Family, Adventure, Comedy, Fantasy",Fairy Tale,2011
+10991,Pokémon 3: The Movie,2000-07-08,6.5,4.6473,"[12, 14, 16, 28, 10751]","Adventure, Fantasy, Animation, Action, Family",Fairy Tale,2000
+375588,Robin Hood,2018-11-03,5.9,4.6796,"[12, 28, 53, 14]","Adventure, Action, Thriller, Fantasy",Dark Fantasy,2018
+420814,Christopher Robin,2018-08-01,7.3,4.6986,"[12, 35, 10751, 14]","Adventure, Comedy, Family, Fantasy",Fantasy Epic,2018
+16321,Zu Warriors,2001-08-09,5.6,4.6974,"[14, 28]","Fantasy, Action",Sword and Sorcery,2001
+268896,Pacific Rim: Uprising,2018-03-21,6.1,5.863,"[28, 14, 878, 12]","Action, Fantasy, Sci-Fi, Adventure",Sword and Sorcery,2018
+1181107,The King of Kings,2025-04-07,8.2,5.1483,"[16, 10751, 14, 18, 12]","Animation, Family, Fantasy, Drama, Adventure",Fairy Tale,2025
+413594,Sword Art Online the Movie: Ordinal Scale,2017-02-18,7.7,4.5176,"[16, 28, 12, 14, 878]","Animation, Action, Adventure, Fantasy, Sci-Fi",Sword and Sorcery,2017
+1315772,Minions & Monsters,2026-06-24,0.0,5.2997,"[16, 10751, 35, 12, 14]","Animation, Family, Comedy, Adventure, Fantasy",Fairy Tale,2026
+13597,Labyrinth,1986-06-27,7.3,6.2718,"[12, 10751, 14]","Adventure, Family, Fantasy",Fantasy Epic,1986
+16996,17 Again,2009-03-11,6.3,6.0431,"[35, 14, 18, 10749]","Comedy, Fantasy, Drama, Romance",Fantasy Epic,2009
+1263421,Baki Hanma VS Kengan Ashura,2024-06-05,7.4,4.8239,"[16, 28, 14]","Animation, Action, Fantasy",Sword and Sorcery,2024
+518068,Along with the Gods: The Last 49 Days,2018-08-01,8.1,4.7283,"[28, 12, 14, 53]","Action, Adventure, Fantasy, Thriller",Dark Fantasy,2018
+896536,The Legend of Ochi,2025-04-18,6.1,5.2936,"[10751, 14, 12]","Family, Fantasy, Adventure",Fantasy Epic,2025
+1140521,The Magic Faraway Tree,2026-03-26,6.6,5.4332,"[10751, 14, 12]","Family, Fantasy, Adventure",Fantasy Epic,2026
+967847,Ghostbusters: Frozen Empire,2024-03-20,6.5,5.5366,"[14, 12, 35]","Fantasy, Adventure, Comedy",Fantasy Epic,2024
+66942,Griff the Invisible,2011-03-01,5.7,4.1397,"[10749, 35, 18, 14]","Romance, Comedy, Drama, Fantasy",Fantasy Epic,2011
+1098006,Fountain of Youth,2025-05-19,6.3,5.6698,"[12, 14, 9648]","Adventure, Fantasy",Fantasy Epic,2025
+559907,The Green Knight,2021-07-29,6.6,5.1804,"[12, 18, 14]","Adventure, Drama, Fantasy",Fantasy Epic,2021
+839033,The Lord of the Rings: The War of the Rohirrim,2024-12-05,6.5,5.0777,"[16, 14, 12, 28]","Animation, Fantasy, Adventure, Action",Sword and Sorcery,2024
+893712,Sword Art Online the Movie – Progressive – Scherzo of Deep Night,2022-10-22,7.6,4.3479,"[16, 28, 14, 878]","Animation, Action, Fantasy, Sci-Fi",Sword and Sorcery,2022
+476292,Maquia: When the Promised Flower Blooms,2018-02-24,8.2,5.0043,"[16, 14, 18]","Animation, Fantasy, Drama",Fantasy Epic,2018
+1072890,The Traveller,2024-07-26,6.4,4.56,"[28, 14]","Action, Fantasy",Sword and Sorcery,2024
+149871,The Tale of The Princess Kaguya,2013-11-23,8.1,6.6309,"[16, 18, 14]","Animation, Drama, Fantasy",Fantasy Epic,2013
+57165,Wrath of the Titans,2012-03-28,5.8,4.8569,"[14, 12, 28]","Fantasy, Adventure, Action",Sword and Sorcery,2012
+6978,Big Trouble in Little China,1986-05-30,7.2,5.123,"[28, 35, 14, 12]","Action, Comedy, Fantasy, Adventure",Sword and Sorcery,1986
+4523,Enchanted,2007-11-20,6.8,4.9232,"[35, 10751, 14, 10749]","Comedy, Family, Fantasy, Romance",Fantasy Epic,2007
+1491,The Illusionist,2006-08-18,7.3,5.2917,"[14, 18, 53, 10749]","Fantasy, Drama, Thriller, Romance",Dark Fantasy,2006
+916192,"The Tunnel to Summer, the Exit of Goodbyes",2022-09-09,7.7,4.606,"[16, 18, 10749, 14, 878]","Animation, Drama, Romance, Fantasy, Sci-Fi",Fantasy Epic,2022
+547016,The Old Guard,2020-07-09,7.1,5.0814,"[28, 14]","Action, Fantasy",Sword and Sorcery,2020
+11283,Nanny McPhee,2005-10-21,6.7,5.427,"[14, 35, 10751]","Fantasy, Comedy, Family",Fantasy Epic,2005
+1304434,Nobody,2025-08-02,7.8,4.466,"[16, 12, 14, 35]","Animation, Adventure, Fantasy, Comedy",Fantasy Epic,2025
+10330,Freaky Friday,2003-08-05,6.6,5.2261,"[10751, 14, 35, 10749]","Family, Fantasy, Comedy, Romance",Fantasy Epic,2003
+8839,Casper,1995-05-26,6.3,5.8709,"[14, 35, 10751]","Fantasy, Comedy, Family",Fantasy Epic,1995
+1153714,Death of a Unicorn,2025-03-27,6.4,5.1526,"[27, 14, 35]","Horror, Fantasy, Comedy",Dark Fantasy,2025
+44730,One Piece: Giant Mecha Soldier of Karakuri Castle,2006-03-04,7.0,4.3691,"[16, 12, 28, 35, 878, 14]","Animation, Adventure, Action, Comedy, Sci-Fi, Fantasy",Sword and Sorcery,2006
+37958,Immortals,2011-11-10,6.0,5.532,"[14, 28, 18]","Fantasy, Action, Drama",Sword and Sorcery,2011
+25475,Tinker Bell and the Lost Treasure,2009-09-03,6.8,4.519,"[16, 10751, 12, 14]","Animation, Family, Adventure, Fantasy",Fairy Tale,2009
+2268,The Golden Compass,2007-12-04,6.1,4.2007,"[12, 14]","Adventure, Fantasy",Fantasy Epic,2007
+1405338,Demon City,2025-02-26,6.9,4.9772,"[28, 80, 14, 53]","Action, Crime, Fantasy, Thriller",Dark Fantasy,2025
+62213,Dark Shadows,2012-05-09,6.1,5.2591,"[35, 14]","Comedy, Fantasy",Fantasy Epic,2012
+2454,The Chronicles of Narnia: Prince Caspian,2008-05-15,6.6,5.4398,"[12, 10751, 14]","Adventure, Family, Fantasy",Fantasy Epic,2008
+14069,The Girl Who Leapt Through Time,2006-07-15,7.8,4.6574,"[14, 16, 18, 878]","Fantasy, Animation, Drama, Sci-Fi",Fantasy Epic,2006
+1241921,A Big Bold Beautiful Journey,2025-09-17,6.2,4.9109,"[10749, 14, 18]","Romance, Fantasy, Drama",Fantasy Epic,2025
+1148677,Doraemon the Movie: Nobita's Earth Symphony,2024-03-01,6.8,5.0505,"[16, 10751, 14, 10402, 12, 35, 878]","Animation, Family, Fantasy, Adventure, Comedy, Sci-Fi",Fairy Tale,2024
+9607,Super Mario Bros.,1993-05-28,4.5,4.2927,"[12, 14, 35, 10751]","Adventure, Fantasy, Comedy, Family",Fantasy Epic,1993
+277,Underworld,2003-09-19,6.8,4.7092,"[14, 28, 53]","Fantasy, Action, Thriller",Dark Fantasy,2003
+987400,Aztec Batman: Clash of Empires,2025-09-18,7.7,4.3541,"[16, 28, 12, 14]","Animation, Action, Adventure, Fantasy",Sword and Sorcery,2025
+28609,Dragon Ball Z: Dead Zone,1989-07-15,6.9,4.3835,"[16, 28, 14]","Animation, Action, Fantasy",Sword and Sorcery,1989
+532067,KONOSUBA – God's blessing on this wonderful world! Legend of Crimson,2019-08-30,8.0,4.9342,"[16, 12, 35, 14]","Animation, Adventure, Comedy, Fantasy",Fantasy Epic,2019
+10719,Elf,2003-11-07,6.7,4.2627,"[35, 10751, 14]","Comedy, Family, Fantasy",Fantasy Epic,2003
+9678,Little Nicky,2000-11-10,5.8,4.4368,"[35, 14]","Comedy, Fantasy",Fantasy Epic,2000
+230887,Witchcraft vs. Curse,1991-04-20,4.4,4.4042,"[14, 18, 27]","Fantasy, Drama, Horror",Dark Fantasy,1991
+526896,Morbius,2022-03-30,5.9,5.1896,"[28, 878, 14]","Action, Sci-Fi, Fantasy",Sword and Sorcery,2022
+35019,Nanny McPhee and the Big Bang,2010-03-26,6.3,4.5173,"[35, 14, 10751]","Comedy, Fantasy, Family",Fantasy Epic,2010
+856,Who Framed Roger Rabbit,1988-06-22,7.5,6.0189,"[14, 16, 35, 80]","Fantasy, Animation, Comedy, Crime",Fantasy Epic,1988
+57165,Wrath of the Titans,2012-03-28,5.8,4.8569,"[14, 12, 28]","Fantasy, Adventure, Action",Sword and Sorcery,2012
+400106,Bright,2017-12-22,6.2,5.7548,"[14, 28, 53]","Fantasy, Action, Thriller",Dark Fantasy,2017
+430447,Mary and The Witch's Flower,2017-07-08,7.1,3.9515,"[16, 12, 10751, 14]","Animation, Adventure, Family, Fantasy",Fairy Tale,2017
+855302,Erotic Ghost Enamoured,1986-01-01,5.7,3.7638,"[27, 14]","Horror, Fantasy",Dark Fantasy,1986
+123553,The Mortal Instruments: City of Bones,2013-08-21,6.4,4.7486,"[14, 28, 9648]","Fantasy, Action",Sword and Sorcery,2013
+5680,Elvira: Mistress of the Dark,1988-09-30,6.7,3.9345,"[35, 14, 27]","Comedy, Fantasy, Horror",Dark Fantasy,1988
+15999,Vampire Hunter D: Bloodlust,2001-04-21,7.7,4.836,"[16, 14, 27, 28, 12, 878]","Animation, Fantasy, Horror, Action, Adventure, Sci-Fi",Dark Fantasy,2001
+1119090,I Am Frankelda,2025-10-23,8.3,4.6043,"[16, 10751, 14, 27]","Animation, Family, Fantasy, Horror",Dark Fantasy,2025
+11845,Intimacy,2001-01-20,6.2,4.2526,"[10749, 18, 14]","Romance, Drama, Fantasy",Fantasy Epic,2001
+11428,Sleepwalkers,1992-04-10,6.1,4.1571,"[27, 14, 53]","Horror, Fantasy, Thriller",Dark Fantasy,1992
+49524,R.I.P.D.,2013-07-18,5.9,4.6003,"[14, 28, 35]","Fantasy, Action, Comedy",Sword and Sorcery,2013
+451048,Jungle Cruise,2021-07-28,7.3,5.7752,"[14, 12, 28]","Fantasy, Adventure, Action",Sword and Sorcery,2021
+60304,Hansel & Gretel: Witch Hunters,2013-01-17,6.1,5.0776,"[14, 27, 28]","Fantasy, Horror, Action",Dark Fantasy,2013
+19576,One Piece: The Movie,2000-03-04,7.1,3.969,"[28, 16, 12, 35, 14]","Action, Animation, Adventure, Comedy, Fantasy",Sword and Sorcery,2000
+127533,Rurouni Kenshin Part I: Origins,2012-08-25,7.5,4.8564,"[12, 28, 14, 10752, 36]","Adventure, Action, Fantasy",Sword and Sorcery,2012
+1139087,Once Upon a Studio,2023-09-24,8.3,5.4717,"[16, 10751, 14, 18, 35]","Animation, Family, Fantasy, Drama, Comedy",Fairy Tale,2023
+1040148,"Ruby Gillman, Teenage Kraken",2023-06-28,7.2,4.6046,"[16, 10751, 14, 35]","Animation, Family, Fantasy, Comedy",Fairy Tale,2023
+11852,The Hot Chick,2002-12-13,6.4,4.8329,"[35, 14]","Comedy, Fantasy",Fantasy Epic,2002
+43074,Ghostbusters,2016-07-14,5.3,4.6368,"[28, 14, 35]","Action, Fantasy, Comedy",Sword and Sorcery,2016
+173122,Ghost Story of Kam Pin Mui,1991-06-22,2.2,4.7612,"[27, 14, 18]","Horror, Fantasy, Drama",Dark Fantasy,1991
+462677,Doraemon: Nobita's Great Adventure in the Antarctic Kachi Kochi,2017-03-04,6.5,3.9173,"[16, 12, 14, 10751, 878, 35]","Animation, Adventure, Fantasy, Family, Sci-Fi, Comedy",Fairy Tale,2017
+76285,Percy Jackson: Sea of Monsters,2013-08-07,6.0,4.5038,"[12, 10751, 14]","Adventure, Family, Fantasy",Fantasy Epic,2013
+41498,One Piece Film: Strong World,2009-12-12,7.4,4.3034,"[16, 14, 12]","Animation, Fantasy, Adventure",Fantasy Epic,2009
+492,Being John Malkovich,1999-10-29,7.4,4.0864,"[35, 18, 14]","Comedy, Drama, Fantasy",Fantasy Epic,1999
+849,Krull,1983-07-29,6.0,4.1312,"[28, 12, 14, 878]","Action, Adventure, Fantasy, Sci-Fi",Sword and Sorcery,1983
+961323,Nimona,2023-06-23,7.9,4.6482,"[16, 10751, 12, 14, 35, 28, 18, 878]","Animation, Family, Adventure, Fantasy, Comedy, Action, Drama, Sci-Fi",Fairy Tale,2023
+37933,Tales from Earthsea,2006-07-29,6.5,5.2858,"[16, 14, 12]","Animation, Fantasy, Adventure",Fantasy Epic,2006
+228326,The Book of Life,2014-10-01,7.5,4.6138,"[16, 12, 35, 10751, 14]","Animation, Adventure, Comedy, Family, Fantasy",Fairy Tale,2014
+531219,Roald Dahl's The Witches,2020-10-26,6.3,7.1324,"[35, 14, 10751, 27]","Comedy, Fantasy, Family, Horror",Dark Fantasy,2020
+9598,Babe,1995-07-18,6.3,4.0228,"[14, 18, 35, 10751]","Fantasy, Drama, Comedy, Family",Fantasy Epic,1995
+221731,Rurouni Kenshin Part II: Kyoto Inferno,2014-08-01,7.6,5.3148,"[28, 12, 18, 14]","Action, Adventure, Drama, Fantasy",Sword and Sorcery,2014
+888,The Flintstones,1994-05-27,5.4,4.4943,"[14, 35, 10751]","Fantasy, Comedy, Family",Fantasy Epic,1994
+928,Gremlins 2: The New Batch,1990-06-15,6.5,3.7955,"[35, 27, 14]","Comedy, Horror, Fantasy",Dark Fantasy,1990
+239651,Naveena Saraswathi Sabatham,2013-11-29,4.2,2.525,"[35, 14]","Comedy, Fantasy",Fantasy Epic,2013
+297021,"Recently, My Sister Is Unusual",2014-05-17,6.9,4.3761,"[35, 14, 10749]","Comedy, Fantasy, Romance",Fantasy Epic,2014
+33320,Millennium Actress,2002-09-14,7.8,4.3552,"[18, 16, 10749, 14]","Drama, Animation, Romance, Fantasy",Fantasy Epic,2002
+1338799,JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie,2025-05-30,8.3,4.6839,"[16, 28, 14]","Animation, Action, Fantasy",Sword and Sorcery,2025
+801688,Kalki 2898-AD,2024-06-26,6.4,4.0929,"[18, 28, 14, 878]","Drama, Action, Fantasy, Sci-Fi",Sword and Sorcery,2024
+756,Fantasia,1940-11-13,7.3,5.0326,"[16, 10751, 14]","Animation, Family, Fantasy",Fairy Tale,1940
+755566,Day Shift,2022-08-12,6.7,4.3396,"[28, 14, 27, 35, 53]","Action, Fantasy, Horror, Comedy, Thriller",Dark Fantasy,2022
+106164,Doraemon: Nobita and the Galaxy Super-express,1996-03-02,7.5,3.9889,"[16, 878, 28, 10751, 12, 14]","Animation, Sci-Fi, Action, Family, Adventure, Fantasy",Fairy Tale,1996
+1303162,Cells at Work!,2024-12-13,7.8,3.806,"[12, 28, 35, 14]","Adventure, Action, Comedy, Fantasy",Sword and Sorcery,2024
+1064307,Spermageddon,2024-12-28,6.5,4.2983,"[16, 12, 14, 35]","Animation, Adventure, Fantasy, Comedy",Fantasy Epic,2024
+9312,Mortal Kombat,1995-08-18,5.9,5.0299,"[28, 14]","Action, Fantasy",Sword and Sorcery,1995
+10137,Stuart Little,1999-12-17,6.1,5.6015,"[10751, 14, 35, 12]","Family, Fantasy, Comedy, Adventure",Fantasy Epic,1999
+59436,Midnight in Paris,2011-05-11,7.5,5.2265,"[14, 35, 10749]","Fantasy, Comedy, Romance",Fantasy Epic,2011
+40096,A Dog's Will,2000-09-15,8.4,5.0236,"[35, 18, 14, 10749]","Comedy, Drama, Fantasy, Romance",Fantasy Epic,2000
+80518,Fullmetal Alchemist: The Sacred Star of Milos,2011-07-02,6.8,3.5074,"[12, 14, 16, 28, 878]","Adventure, Fantasy, Animation, Action, Sci-Fi",Sword and Sorcery,2011
+116711,Epic,2013-05-15,6.5,4.1488,"[16, 12, 10751, 14]","Animation, Adventure, Family, Fantasy",Fairy Tale,2013
+445030,No Game No Life: Zero,2017-07-15,7.8,4.29,"[12, 16, 18, 14, 10749]","Adventure, Animation, Drama, Fantasy, Romance",Fantasy Epic,2017
+506574,Descendants 3,2019-08-02,7.7,4.511,"[10751, 10770, 12, 14, 10402]","Family, Adventure, Fantasy",Fantasy Epic,2019
+1086591,Rascal Does Not Dream of a Knapsack Kid,2023-12-01,7.8,4.1574,"[16, 18, 14]","Animation, Drama, Fantasy",Fantasy Epic,2023
+337703,The Red Turtle,2016-03-27,7.4,4.7759,"[16, 18, 14, 10751]","Animation, Drama, Fantasy, Family",Fairy Tale,2016
+315465,The Boy and the Beast,2015-07-11,7.9,4.7069,"[28, 12, 16, 18, 10751, 14]","Action, Adventure, Animation, Drama, Family, Fantasy",Fairy Tale,2015
+30421,A Chinese Ghost Story,1987-07-18,7.3,4.2958,"[14, 28]","Fantasy, Action",Sword and Sorcery,1987
+526051,Look Away,2018-10-12,6.6,3.7752,"[27, 53, 14]","Horror, Thriller, Fantasy",Dark Fantasy,2018
+847,Willow,1988-05-20,7.0,4.531,"[14, 12, 28]","Fantasy, Adventure, Action",Sword and Sorcery,1988
+58595,Snow White and the Huntsman,2012-05-30,6.0,4.7719,"[12, 14, 18]","Adventure, Fantasy, Drama",Fantasy Epic,2012
+170657,Journey to the West: Conquering the Demons,2013-02-07,6.9,4.5426,"[28, 14, 12, 35]","Action, Fantasy, Adventure, Comedy",Sword and Sorcery,2013
+11653,The Myth,2005-05-11,6.4,8.3324,"[28, 12, 35, 18, 14]","Action, Adventure, Comedy, Drama, Fantasy",Sword and Sorcery,2005
+21835,A Chinese Odyssey Part Two: Cinderella,1995-02-04,7.7,4.3777,"[28, 12, 14, 35, 10749]","Action, Adventure, Fantasy, Comedy, Romance",Sword and Sorcery,1995
+481084,The Addams Family,2019-10-10,6.6,4.4455,"[10751, 16, 35, 14]","Family, Animation, Comedy, Fantasy",Fairy Tale,2019
+16007,Death Note,2006-06-17,7.1,4.7153,"[14, 9648, 53]","Fantasy, Thriller",Dark Fantasy,2006
+430214,"Night Is Short, Walk On Girl",2017-04-07,7.4,3.1333,"[35, 10749, 16, 14]","Comedy, Romance, Animation, Fantasy",Fantasy Epic,2017
+78428,Erotic Ghost Story II,1991-01-23,4.8,4.0154,"[27, 14]","Horror, Fantasy",Dark Fantasy,1991
+1235431,Oshi no Ko -The Final Act-,2024-12-20,6.4,4.2169,"[18, 10402, 14]","Drama, Fantasy",Fantasy Epic,2024
+1147400,"Miraculous World: Paris, Tales of Shadybug and Claw Noir",2023-10-21,7.3,4.6635,"[16, 10751, 28, 14]","Animation, Family, Action, Fantasy",Fairy Tale,2023
+88625,Doraemon: Nobita and the Steel Troops,1986-03-15,6.6,4.2417,"[16, 12, 10751, 14, 878]","Animation, Adventure, Family, Fantasy, Sci-Fi",Fairy Tale,1986
+2897,Around the World in 80 Days,1956-10-17,6.6,4.4817,"[12, 35, 10751, 14, 10749]","Adventure, Comedy, Family, Fantasy, Romance",Fantasy Epic,1956
+23398,Alvin and the Chipmunks: The Squeakquel,2009-12-21,5.7,4.489,"[35, 10751, 16, 14, 10402]","Comedy, Family, Animation, Fantasy",Fairy Tale,2009
+10588,The Cat in the Hat,2003-11-21,5.3,3.8077,"[10751, 35, 12, 14]","Family, Comedy, Adventure, Fantasy",Fantasy Epic,2003
+431819,Fireworks,2017-08-18,6.6,4.6848,"[16, 10749, 14, 18]","Animation, Romance, Fantasy, Drama",Fantasy Epic,2017
+575222,Doraemon: Nobita's Chronicle of the Moon Exploration,2019-03-01,7.3,3.9178,"[16, 12, 35, 878, 14, 10751]","Animation, Adventure, Comedy, Sci-Fi, Fantasy, Family",Fairy Tale,2019
+152044,Puella Magi Madoka Magica the Movie Part II: Eternal,2012-10-13,7.5,3.7488,"[53, 16, 14]","Thriller, Animation, Fantasy",Dark Fantasy,2012
+77742,Our Masha and the Magic Nut,2009-12-10,2.7,2.2358,"[16, 14, 12, 10751]","Animation, Fantasy, Adventure, Family",Fairy Tale,2009
+460885,Mandy,2018-09-13,6.2,3.6457,"[14, 28, 27]","Fantasy, Action, Horror",Dark Fantasy,2018
+20982,Naruto Shippuden the Movie,2007-08-04,7.4,5.2221,"[16, 28, 14]","Animation, Action, Fantasy",Sword and Sorcery,2007
+1353117,Home Sweet Home: Rebirth,2025-03-20,5.9,3.7219,"[27, 14, 53, 9648, 28]","Horror, Fantasy, Thriller, Action",Dark Fantasy,2025
+37034,True Legend,2010-02-09,6.6,6.3214,"[28, 14]","Action, Fantasy",Sword and Sorcery,2010
+1214140,Monster Island,2025-05-08,6.0,4.4703,"[27, 14, 28, 53]","Horror, Fantasy, Action, Thriller",Dark Fantasy,2025
+357786,Kizumonogatari Part 1: Tekketsu,2016-01-08,7.7,3.656,"[16, 14, 18, 9648, 28]","Animation, Fantasy, Drama, Action",Sword and Sorcery,2016
