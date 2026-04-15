@@ -18,6 +18,11 @@ class MovieRepository:
         self.create_tables()
         self.seed_genres()
 
+    def __enter__(self):
+        return self
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        self.close()
     # SCHEMA
 
     def create_tables(self):
