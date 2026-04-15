@@ -6,10 +6,4 @@ class Extract:
         self.service = TMDBService()
 
     def fetch_movies(self, pages=25):
-        all_movies = []
-        for page in range(1, pages + 1):
-            data = self.service.get_fantasy_movies(page=page)
-            all_movies.extend(data)
-            print(f"Hämtade sida {page} – totalt {len(all_movies)} filmer")
-            time.sleep(0.3)
-        return all_movies
+        return self.service.get_all_fantasy_movies(max_pages=pages)

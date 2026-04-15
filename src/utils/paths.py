@@ -1,5 +1,6 @@
-import os
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 def project_path(*args):
-    project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-    return os.path.join(project_root, *args)
+    return PROJECT_ROOT.joinpath(*args)

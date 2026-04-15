@@ -5,6 +5,6 @@ class Load:
         self.repo = MovieRepository()
 
     def load_movies(self, df):
-        self.repo.create_table()
-        self.repo.insert_dataframe(df)
+        self.repo.insert_movies(df)
+        self.repo.insert_movie_genres(df)
         self.repo.close()
