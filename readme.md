@@ -16,3 +16,5 @@ reset_database()
 
 You can execute this in an EDA cell.
 Just remove it after executing it so you don't end up wiping the database, everytime you run your EDA
+
+And then just run ***main.py*** to create a fresh set.
