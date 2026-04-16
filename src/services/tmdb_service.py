@@ -4,19 +4,24 @@ import sys
 from src.core.config import TMDB_API_KEY, BASE_URL
 from src.repository.movie_repository import MovieRepository
 from src.utils.movie_details import parse_movie_details
-from src.schemas.movie_details_schema import MovieDetailsSchema
+from src.schemas.movie_details_schema import MovieDetailsSchema, CastMember, CrewMember
 
 class TMDBService:
     def __init__(self):
         self.repo = MovieRepository()
 
     """Fetches fantasy movies from TMDB"""
+    ## "vote_count.gte": xxx,
+    # hur många votes från folk som krävs, 10 000votes ca 70filmer,
+    # 420ganska exakt 1000filmer.
 
     def get_fantasy_movies(self, page=1):
         url = f"{BASE_URL}/discover/movie"
         params = {
             "api_key": TMDB_API_KEY,
             "with_genres": 14,
+            "sort_by": "vote_average.desc",
+            "vote_count.gte": 410,
             "page": page
         }
         return self._safe_request(url, params)
@@ -62,9 +67,19 @@ class TMDBService:
         data = self._safe_request(url, params)
 
         parsed = parse_movie_details(data)
-        validated = MovieDetailsSchema(**parsed)
+
+        movie_details = parsed["movie"]
+        validated = MovieDetailsSchema(**movie_details)
         self.repo.insert_movie_details(validated.model_dump())
 
+        cast = [CastMember(**c).model_dump() for c in parsed["cast"]]
+        self.repo.insert_movie_cast(cast)
+        crew = [CrewMember(**c).model_dump() for c in parsed["crew"]]
+        self.repo.insert_movie_crew(crew)
+
+        print("HAS CREDITS:", "credits" in data)
+        print("CAST COUNT:", len(data.get("credits", {}).get("cast", [])))
+        print("CREW COUNT:", len(data.get("credits", {}).get("crew", [])))
         return validated
 
 

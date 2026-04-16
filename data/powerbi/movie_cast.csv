@@ -1,0 +1,541 @@
+movie_id,actor_name,character,cast_order
+129,Rumi Hiiragi,Chihiro (voice),0
+129,Miyu Irino,Haku (voice),1
+129,Mari Natsuki,Yubaba / Zeniba (voice),2
+129,Takashi Naito,Father (voice),3
+129,Yasuko Sawaguchi,Mother (voice),4
+129,Tatsuya Gashûin,Aogaeru (voice),5
+129,Ryunosuke Kamiki,Boh (voice),6
+129,Yumi Tamai,Rin (voice),7
+129,Yo Oizumi,Bandai Frog (voice),8
+129,Koba Hayashi,River Spirit (voice),9
+129,Tsunehiko Kamijô,Chichiyaku (voice),10
+129,Takehiko Ono,Aniyaku (voice),11
+129,Bunta Sugawara,Kamaji (voice),12
+129,Shigeru Wakita,(voice),13
+129,Shirou Saitou,(voice),14
+129,Michiko Yamamoto,(voice),15
+129,Keiko Tsukamoto,(voice),16
+129,Akio Nakamura,Kaonashi (voice),17
+129,Shinji Tokumaru,(voice),18
+129,Kaori Yamagata,(voice),19
+129,Tsuzuki Kayako,(voice),20
+129,Masahiro Asano,(voice),21
+129,Kazutaka Hayashida,(voice),22
+129,Ikuko Yamamoto,(voice),23
+129,Mina Meguro,(voice),24
+129,Tetsurô Ishibashi,(voice),25
+129,Katsutomo Shîbara,(voice),26
+129,Shinobu Katabuchi,(voice),27
+129,Noriko Kitou,(voice),28
+129,Naoto Kaji,(voice),29
+129,Yoshitaka Sukegawa,(voice),30
+129,Aki Tachikawa,(voice),31
+129,Noriko Yamaya,(voice),32
+129,Katsuhisa Matsuo,(voice),33
+129,Masayuki Kizu,(voice),34
+129,Yôko Ôno,(voice),35
+129,Sachie Azuma,(voice),36
+129,Ken Yasuda,Oshira-sama (voice),37
+129,Shigeyuki Totsugi,Kashira (voice),38
+129,Mayumi Saco,(voice),39
+129,Sonoko Soeda,(voice),40
+129,Akiko Tomihira,(voice),41
+129,Minako Masuda,(voice),42
+129,Orika Ono,(voice),43
+129,Rina Yamada,(voice),44
+129,Miwa Takachi,(voice),45
+129,Hiromi Takeuchi,(voice),46
+129,Makiko Oku,(voice),47
+497,Tom Hanks,Paul Edgecomb,0
+497,David Morse,Brutus 'Brutal' Howell,1
+497,Bonnie Hunt,Jan Edgecomb,2
+497,Michael Clarke Duncan,John Coffey,3
+497,James Cromwell,Warden Hal Moores,4
+497,Michael Jeter,Eduard Delacroix,5
+497,Graham Greene,Arlen Bitterbuck,6
+497,Doug Hutchison,Percy Wetmore,7
+497,Sam Rockwell,'Wild Bill' Wharton,8
+497,Barry Pepper,Dean Stanton,9
+497,Jeffrey DeMunn,Harry Terwilliger,10
+497,Patricia Clarkson,Melinda Moores,11
+497,Harry Dean Stanton,Toot-Toot,12
+497,Dabbs Greer,Old Paul Edgecomb,13
+497,Eve Brent,Elaine Connelly,14
+497,William Sadler,Klaus Detterick,15
+497,Mack Miles,Orderly Hector,16
+497,Rai Tasco,Man in Nursing Home,17
+497,Edrie Warner,Lady in Nursing Home,18
+497,Paula Malcomson,Marjorie Detterick,19
+497,Christopher Joel Ives,Howie Detterick,20
+497,Evanne Drucker,Kathe Detterick,21
+497,Bailey Drucker,Cora Detterick,22
+497,Brian Libby,Sheriff McGee,23
+497,Brent Briscoe,Bill Dodge,24
+497,Bill McKinney,Jack Van Hay,25
+497,Gary Sinise,Burt Hammersmith,26
+497,Rachel Singer,Cynthia Hammersmith,27
+497,Scotty Leavenworth,Hammersmith's Son,28
+497,Katelyn Leavenworth,Hammersmith's Daughter,29
+497,Bill Gratton,Earl the Plumber,30
+497,Dee Croxton,Woman at Del's Execution,31
+497,Rebecca Klingler,Wife at Del's Execution,32
+497,Gary Imhoff,Husband at Del's Execution,33
+497,Van Epperson,Police Officer,34
+497,David E. Browning,Reverend at Funeral,35
+497,Tommy Barnes,Tower Guard (uncredited),36
+497,Wes Hall,Prisoner (uncredited),37
+497,Phil Hawn,Police Photographer (uncredited),38
+497,Judy Herrera,Bitterbuck's Daughter (uncredited),39
+497,Gower Mills,Inmate (uncredited),40
+497,Garth Shaw,Inmate (uncredited),41
+497,Jared Stovall,Inmate (uncredited),42
+497,Todd Thompson,Prison Guard (uncredited),43
+122,Elijah Wood,Frodo,0
+122,Ian McKellen,Gandalf,1
+122,Viggo Mortensen,Aragorn,2
+122,Sean Astin,Sam,3
+122,Andy Serkis,Gollum / Smeagol,4
+122,Dominic Monaghan,Merry,5
+122,Billy Boyd,Pippin,6
+122,John Noble,Denethor,7
+122,David Wenham,Faramir,8
+122,Miranda Otto,Éowyn,9
+122,Bernard Hill,Théoden,10
+122,John Rhys-Davies,Gimli,11
+122,Orlando Bloom,Legolas,12
+122,Hugo Weaving,Elrond,13
+122,Liv Tyler,Arwen,14
+122,Cate Blanchett,Galadriel,15
+122,Karl Urban,Éomer,16
+122,Ian Holm,Bilbo,17
+122,Sean Bean,Boromir,18
+122,Lawrence Makoare,Witchking / Gothmog,19
+122,Marton Csokas,Celeborn,20
+122,Paul Norell,King of the Dead,21
+122,Noel Appleby,Everard Proudfoot,22
+122,Sarah McLeod,Rosie Cotton,23
+122,Ali Astin,Elanor Gamgee,24
+122,Maisy McLeod-Riera,Baby Gamgee,25
+122,David Aston,Gondorian Soldier 3,26
+122,John Bach,Madril,27
+122,Sadwyn Brophy,Eldarion,28
+122,Alistair Browning,Damrod,29
+122,Richard Edge,Gondorian Soldier 1,30
+122,Jason Fitch,Uruk 2,31
+122,Bruce Hopkins,Gamling,32
+122,Ian Hughes,Irolas,33
+122,Bret McKenzie,Elf Escort,34
+122,Bruce Phillips,Grimbold,35
+122,Shane Rangi,Harad Leader 2,36
+122,Todd Rippon,Harad Leader 1,37
+122,Thomas Robins,Déagol,38
+122,Harry Sinclair,Isildur,39
+122,Peter Tait,Shagrat,40
+122,Joel Tobeck,Orc Lieutenant 1,41
+122,Stephen Ure,Gorbag,42
+122,Sala Baker,Featured Orc,43
+122,Robert Pollock,Featured Orc,44
+122,Ross Duncan,Featured Orc,45
+122,Pete Smith,Featured Orc,46
+122,Jed Brophy,Featured Orc,47
+122,Lee Hartley,Featured Orc,48
+122,Billy Jackson,Featured Child,49
+122,Katie Jackson,Featured Child,50
+122,Alan Howard,The Ring (voice),51
+122,Jane Abbott,Coronation Elf (uncredited),52
+122,Gino Acevedo,Corsair of Umbar (uncredited),53
+122,Aidan Bell,Orc (uncredited),54
+122,Jarl Benzon,Coronation Elf (uncredited),55
+122,Jørn Benzon,Rivendell Elf (uncredited),56
+122,Emma Deakin,Diamond of Long Cleave (uncredited),57
+122,Michael Elsworth,Círdan the Shipwright (uncredited),58
+122,Clint Elvy,Haradrim Warrior (uncredited),59
+122,Zo Hartley,Orc Helper (uncredited),60
+122,Peter Jackson,Corsair Bosun (uncredited),61
+122,Sandro Kopp,Coronation Elf (uncredited),62
+122,Andrew Lesnie,Corsair of Umbar (uncredited),63
+122,Joseph Mika-Hunt,Orc (uncredited),64
+122,Henry Mortensen,Pelennor Orc (uncredited),65
+122,Craig Parker,Gothmog / Orc Lieutenant 1 (voice) (uncredited),66
+122,Rick Porras,Corsair of Umbar / Beacon Guard (uncredited),67
+122,Christian Rivers,Corsair of Umbar / Beacon Guard (uncredited),68
+122,Michael Semanick,Drinking Rohan Soldier (uncredited),69
+122,Howard Shore,Drinking Rohan Soldier (uncredited),70
+122,John Stephenson,Witchking (voice) (uncredited),71
+122,Richard Taylor,Corsair of Umbar (uncredited),72
+122,Royd Tolkien,Gondorian Ranger (uncredited),73
+122,Sam Kelly,Coronation Elf/Gondorian Soldier (uncredited),74
+120,Elijah Wood,Frodo,0
+120,Ian McKellen,Gandalf,1
+120,Viggo Mortensen,Aragorn,2
+120,Sean Astin,Sam,3
+120,Ian Holm,Bilbo,4
+120,Liv Tyler,Arwen,5
+120,Christopher Lee,Saruman,6
+120,Sean Bean,Boromir,7
+120,Billy Boyd,Pippin,8
+120,Dominic Monaghan,Merry,9
+120,John Rhys-Davies,Gimli,10
+120,Orlando Bloom,Legolas,11
+120,Cate Blanchett,Galadriel,12
+120,Hugo Weaving,Elrond,13
+120,Andy Serkis,Gollum,14
+120,Marton Csokas,Celeborn,15
+120,Craig Parker,Haldir,16
+120,Lawrence Makoare,Lurtz,17
+120,Brent McIntyre,Witch-King,18
+120,Sala Baker,Sauron,19
+120,Peter McKenzie,Elendil,20
+120,Mark Ferguson,Gil-Galad,21
+120,Harry Sinclair,Isildur,22
+120,Noel Appleby,Everard Proudfoot,23
+120,Megan Edwards,Mrs. Proudfoot,24
+120,Sarah McLeod,Rosie Cotton,25
+120,David Weatherley,Barliman Butterbur,26
+120,Ian Mune,Bounder,27
+120,Michael Elsworth,Gondorian Archivist,28
+120,Cameron Rhodes,Farmer Maggot,29
+120,Martyn Sanderson,Gate Keeper,30
+120,Billy Jackson,Cute Hobbit Child,31
+120,Katie Jackson,Cute Hobbit Child,32
+120,Alan Howard,The Ring (voice),33
+120,Victoria Beynon-Cole,Hero Orc / Goblin / Uruk-hai / Ringwraith,34
+120,Lee Hartley,Hero Orc / Goblin / Uruk-hai / Ringwraith,35
+120,Sam La Hood,Hero Orc / Goblin / Uruk-hai / Ringwraith,36
+120,Chris Streeter,Hero Orc / Goblin / Uruk-hai / Ringwraith,37
+120,Phil Grieve,Hero Orc / Goblin / Uruk-hai / Ringwraith,38
+120,Jonathan Jordan,Hero Orc / Goblin / Uruk-hai / Ringwraith,39
+120,Semi Kuresa,Hero Orc / Goblin / Uruk-hai / Ringwraith,40
+120,Clinton Ulyatt,Hero Orc / Goblin / Uruk-hai / Ringwraith,41
+120,Paul Bryson,Hero Orc / Goblin / Uruk-hai / Ringwraith,42
+120,Lance Fabian Kemp,Hero Orc / Goblin / Uruk-hai / Ringwraith,43
+120,Jono Manks,Hero Orc / Goblin / Uruk-hai / Ringwraith,44
+120,Ben Price,Hero Orc / Goblin / Uruk-hai / Ringwraith,45
+120,Peter Jackson,Albert Dreary / Painting of Bungo Baggins (uncredited),46
+120,Chris Ryan,Breelander (uncredited),47
+120,Bret McKenzie,Figwit (uncredited),48
+120,Betty Adams,Hobbit (uncredited),49
+120,Timothy Bartlett,Hobbit (uncredited),50
+120,Bob Blackwell,Hobbit (uncredited),51
+120,David Houma,Hobbit (uncredited),52
+120,Jo Surgison,Hobbit (uncredited),53
+120,Liz Merton,Hobbit Band Member (uncredited),54
+120,Zo Hartley,Kissing Hobbit (uncredited),55
+120,Norman Cates,Party Hobbit (uncredited),56
+120,Jeff Kingsford-Brown,Party Hobbit (uncredited),57
+120,Marta Martí,Village Female Hobbit (uncredited),58
+120,Riley Brophy,Cute Hobbit Child (uncredited),59
+120,Phoebe Gittins,Cute Hobbit Child (uncredited),60
+120,Taea Hartwell,Cute Hobbit Child (uncredited),61
+120,Shane Rangi,Witch-King (uncredited),62
+120,Jed Brophy,Ringwraith (uncredited),63
+120,Paul Shapcott,Burning Ringwraith (uncredited),64
+120,Alan Lee,Ring King of Men (uncredited),65
+120,Larry Rew,Ring King of Men (uncredited),66
+120,Gino Acevedo,Ring Dwarf-Lord (uncredited),67
+120,Xander Forterie,Ring Dwarf-Lord (uncredited),68
+120,Richard Maybery,Ring Dwarf-Lord (uncredited),69
+120,Sabine Crossen,Rivendell Elf (uncredited),70
+120,Gareth Jensen,Rivendell Elf (uncredited),71
+120,Ben Britton,Last Alliance Elf / Rivendell Elf (uncredited),72
+120,Kester Fordham,Last Alliance Elf / Rivendell Elf (uncredited),73
+120,Jarl Benzon,Last Alliance Elf (uncredited),74
+120,Sam Kelly,Last Alliance Elf / Council Elf  (uncredited),75
+120,Matt Appleton,Council Elf (uncredited),76
+120,Blair Morton,Council Elf (uncredited),77
+120,Ray Henwood,Council Man (uncredited),78
+120,Ralph Johnson,Council Man / Orc (uncredited),79
+120,Jonathan Harding,Council Elf / Lothlorien Elf (uncredited),80
+120,Jørn Benzon,Lothlorien Elf (uncredited),81
+120,Ben Fransham,Lothlorien Elf / Goblin / Uruk-hai (uncredited),82
+120,Tim Kano,Gondorian Citizen (uncredited),83
+120,Sacha Lee,Arms of Gollum (uncredited),84
+120,Thomas Robins,Hand of Gollum (uncredited),85
+120,Randall William Cook,Cave Troll (uncredited),86
+120,Rachel Clentworth,Goblin (uncredited),87
+120,Lani Jackson,Goblin (uncredited),88
+120,Sharon Maxwell,Goblin (uncredited),89
+120,David J. Muzzerall,Goblin (uncredited),90
+120,Winham Hammond,Goblin / Orc / Uruk-hai (uncredited),91
+120,Mana Hira Davis,Goblin / Orc / Uruk-hai (uncredited),92
+120,Warren Green,Isengard Orc Blacksmith (uncredited),93
+120,Stu Johnson,Isengard Orc Blacksmith (uncredited),94
+120,Peter Lyon,Isengard Orc Blacksmith (uncredited),95
+120,Peter Daube,Khai (uncredited),96
+120,Samuel E. Shore,Refugee / Orc (uncredited),97
+120,Rodney Bane,Orc (uncredited),98
+120,Siaosi Fonua,Orc / Uruk-hai (uncredited),99
+120,Ken Stratton,Isengard Orc / Last Alliance Soldier / Morgul Orc / Uruk-hai (uncredited),100
+120,Lynden Berrymen,Uruk-hai at Amon Hen (uncredited),101
+120,Ryan Carey,Uruk-hai (uncredited),102
+120,Tack Daniel,Uruk-hai (uncredited),103
+120,Shane Dawson,Uruk-hai (uncredited),104
+120,Branko Dordevich,Uruk-hai (uncredited),105
+120,Greg Lane,Uruk-Hai (uncredited),106
+120,Tim McLachlan,Uruk-hai (uncredited),107
+120,Dean Morganty,Uruk-hai (uncredited),108
+120,Greg Morrison,Uruk-hai (uncredited),109
+120,Andrew Munro,Uruk-hai (uncredited),110
+120,Grant Roa,Uruk-hai (uncredited),111
+120,Vincent Roxburgh,Uruk-hai (uncredited),112
+120,Mike Stearne,Uruk-hai (uncredited),113
+120,Andrew Stehlin,Uruk-hai (uncredited),114
+120,Tim Wong,Uruk-hai (uncredited),115
+120,Daniel Andrews,Orc / Uruk-hai (uncredited),116
+40096,Matheus Nachtergaele,João Grilo,0
+40096,Selton Mello,Chicó,1
+40096,Fernanda Montenegro,Compadecida,2
+40096,Rogério Cardoso,Padre João,3
+40096,Denise Fraga,Dora,4
+40096,Diogo Vilela,Eurico,5
+40096,Luís Melo,Diabo,6
+40096,Virginia Cavendish,Rosinha,7
+40096,Bruno Garcia,Vicentão,8
+40096,Enrique Díaz,Joaquim Brejeiro,9
+40096,Maurício Gonçalves,Jesus Cristo / Emanuel,10
+40096,Aramis Trindade,Cabo 70,11
+40096,Marco Nanini,Severino de Aracaju,12
+40096,Paulo Goulart,Major Antônio Moraes,13
+40096,Lima Duarte,Bispo,14
+121,Elijah Wood,Frodo,0
+121,Ian McKellen,Gandalf,1
+121,Viggo Mortensen,Aragorn,2
+121,Sean Astin,Sam,3
+121,Andy Serkis,Gollum,4
+121,John Rhys-Davies,Gimli / Treebeard (voice),5
+121,Orlando Bloom,Legolas,6
+121,Bernard Hill,Théoden,7
+121,Miranda Otto,Éowyn,8
+121,Dominic Monaghan,Merry,9
+121,Billy Boyd,Pippin,10
+121,Christopher Lee,Saruman,11
+121,Cate Blanchett,Galadriel,12
+121,Liv Tyler,Arwen,13
+121,Hugo Weaving,Elrond,14
+121,David Wenham,Faramir,15
+121,Brad Dourif,Wormtongue,16
+121,Karl Urban,Éomer,17
+121,Craig Parker,Haldir,18
+121,Bruce Allpress,Aldor,19
+121,John Bach,Madril,20
+121,Sala Baker,Man Flesh Uruk,21
+121,Jed Brophy,Sharku / Snaga,22
+121,Sam Comery,Eothain,23
+121,Calum Gittins,Haleth,24
+121,Phil Grieve,Hero Orc,25
+121,Bruce Hopkins,Gamling,26
+121,Paris Howe Strewe,Théodred,27
+121,Nathaniel Lees,Ugluk,28
+121,John Leigh,Háma,29
+121,Robbie Magasiva,Mauhúr,30
+121,Robyn Malcolm,Morwen,31
+121,Bruce Phillips,Rohan Soldier,32
+121,Robert Pollock,Mordor Orc,33
+121,Olivia Tennet,Freda,34
+121,Raymond Trickitt,Bereg,35
+121,Stephen Ure,Grishnakh,36
+121,Billy Jackson,Cute Rohan Refugee Child,37
+121,Katie Jackson,Cute Rohan Refugee Child,38
+121,Victoria Beynon-Cole,Hero Orc (uncredited),39
+121,Lee Hartley,Hero Orc (uncredited),40
+121,Frazer Anderson,Orc / Ranger (uncredited),41
+121,Ben Barrington,Gondorian Soldier / Ranger / Orc (uncredited),42
+121,Jarl Benzon,Elf Warrior / Rohan Stable Boy (uncredited),43
+121,Jørn Benzon,Orolonn (uncredited),44
+121,Owen Black,Rivendell Elf (uncredited),45
+121,Dorothy Anne Bonner,Rohan Woman (uncredited),46
+121,Ben Britton,Fereveldir (uncredited),47
+121,Riley Brophy,Rohan Refugee Child (uncredited),48
+121,Alistair Browning,Damrod (uncredited),49
+121,Alix Bushnell,Rohan Refugee (uncredited),50
+121,Sean Button,Uruk-hai (uncredited),51
+121,Ryan Carey,Uruk-hai (uncredited),52
+121,Rodney Cook,Uruk-hai (uncredited),53
+121,Augie Davis,Uruk-hai (uncredited),54
+121,Mana Hira Davis,Gondorian Soldier / Harad Warrior / Orc / Rohan Soldier / Uruk-hai (uncredited),55
+121,Shane Dawson,Harad Warrior / Uruk-hai (uncredited),56
+121,Karlos Drinkwater,Easterling Warrior (uncredited),57
+121,Aron Eastwood,Rohan Soldier (uncredited),58
+121,Frank Edwards,Rohan Man (uncredited),59
+121,Clint Elvy,Harad Warrior (uncredited),60
+121,Alexia Fairbrother,Elf Warrior (uncredited),61
+121,Daniel Falconer,Elf Warrior / Rivendell Elf (uncredited),62
+121,Siaosi Fonua,Orc / Uruk-hai (uncredited),63
+121,Kester Fordham,Anglor (uncredited),64
+121,Michael Fowler,Elf (uncredited),65
+121,Ben Fransham,Anendel / Thandronen (uncredited),66
+121,Frank Goldingham,Rohan Refugee (uncredited),67
+121,Winham Hammond,Uruk-hai (uncredited),68
+121,Jonathan Harding,Elf Warrior (uncredited),69
+121,Lucas Hayward,Rohan Boy (uncredited),70
+121,Dan Hennah,Rohan Recruit (uncredited),71
+121,Jason Hood,Théoden's Royal Guard (uncredited),72
+121,Lani Jackson,Uruk-hai (uncredited),73
+121,Peter Jackson,Spear-Throwing Rohan Soldier (uncredited),74
+121,Gareth Jensen,Elf Warrior (uncredited),75
+121,Sam Kelly,Elf Warrior / Uruk-hai (uncredited),76
+121,Richard Knowles,Rohan Soldier (uncredited),77
+121,Sandro Kopp,Elven Warrior (uncredited),78
+121,Sam La Hood,Orc Pitmaster (uncredited),79
+121,Don Langridge,Rohan Guard (uncredited),80
+121,Michael Lawrence,Wildman (uncredited),81
+121,Alan Lee,Rohan Recruit (uncredited),82
+121,Dra McKay,Rohan Woman (uncredited),83
+121,Joseph Mika-Hunt,Uruk-hai / Gondorian Soldier (uncredited),84
+121,Dean Morganty,Haradrim Warrior / Ranger / Uruk-hai (uncredited),85
+121,Henry Mortensen,Rohan Boy Recruit (uncredited),86
+121,Francis Mountjoy,Elf / Gondorian Soldier / Orc / Uruk-hai (uncredited),87
+121,Paul Norell,Easterling (uncredited),88
+121,Barrie M. Osborne,Rock-throwing Rohan Soldier (uncredited),89
+121,Allan Poppleton,Uruk-hai (uncredited),90
+121,Gareth Reeves,Fighting Elf (uncredited),91
+121,Miranda Rivers,Rohan Refugee (uncredited),92
+121,Campbell Rousselle,Tree-cutting Orc (uncredited),93
+121,Matthew J. Saville,Gondorian Soldier (uncredited),94
+121,Samuel E. Shore,Rohan Refugee / Elf (uncredited),95
+121,Allan Smith,Dead Marshes Elf (uncredited),96
+121,Greg Tozer,Conscripting Rohan Soldier (uncredited),97
+121,Piripi Waretini,Uruk-hai Warrior (uncredited),98
+121,Tim Wong,Uruk-hai (uncredited),99
+121,John Wraight,Stable Hand (uncredited),100
+121,Kelley Kerr Young,Rohan Refugee (uncredited),101
+121,Robert Young,Uruk-hai (uncredited),102
+121,Caleb Ross,Rohan Helms Deep Warrior (uncredited),103
+121,Sean Bean,Boromir (uncredited),104
+121,John Noble,Denethor (Extended Cut),105
+4935,Chieko Baisho,Sophie (voice),0
+4935,Takuya Kimura,Howl (voice),1
+4935,Akihiro Miwa,Witch of the Waste (voice),2
+4935,Tatsuya Gashûin,Calcifer (voice),3
+4935,Ryunosuke Kamiki,Markl (voice),4
+4935,Mitsunori Isaki,Kosho (voice),5
+4935,Yo Oizumi,Prince Justin / Turnip Head (voice),6
+4935,Akio Otsuka,King of Ingary (voice),7
+4935,Daijirō Harada,Heen (voice),8
+4935,Haruko Katō,Madame Suliman (voice),9
+4935,Makoto Yasumura,(voice),10
+4935,Manabu Muraji,(voice),11
+4935,Keiko Tsukamoto,(voice),12
+4935,Tsuzuki Kayako,(voice),13
+4935,Seiji Sasaki,(voice),14
+4935,Hiroshi Takahashi,(voice),15
+4935,Mayuno Yasokawa,(voice),16
+4935,Rio Kanno,(voice),17
+4935,Kojiro Takahashi,(voice),18
+4935,Akiyoshi Sakurai,(voice),19
+4935,Momoko Kurita,(voice),20
+4935,Mina Meguro,(voice),21
+4935,Yasuhiro Ohara,(voice),22
+4935,Akio Tanaka,(voice),23
+4935,Rina Yamada,(voice),24
+4935,Tomoe Hanba,(voice),25
+4935,Naoto Kaji,(voice),26
+4935,Teruo Seki,(voice),27
+4935,Shinobu Katabuchi,(voice),28
+4935,Masako Inui,(voice),29
+4935,Yohei Ohbayashi,(voice),30
+4935,Takeshi Miyajima,(voice),31
+4935,Yukiko Mizuochi,(voice),32
+4935,Maki Koizumi,(voice),33
+4935,Nobito Nishioka,(voice),34
+4935,Teppei Akashi,(voice),35
+4935,Reiko Onishi,(voice),36
+4935,Yumiko Ogata,(voice),37
+4935,Hiroyuki Kamikawaji,(voice),38
+4935,Tomohiko Kiyota,(voice),39
+4935,Kaori Kaneko,(voice),40
+4935,Aiko Nakajima,(voice),41
+4935,Jun Kuwahara,(voice),42
+4935,Yuta Kobayashi,(voice),43
+4935,Yuko Nomura,(voice),44
+4935,Tamayo Fukushi,(voice),45
+4935,Atsushi Takeya,(voice),46
+4935,Yoshifumi Nakagawa,(voice),47
+4935,Hiroki Tanaka,(voice),48
+4935,Yohei Matsukado,(voice),49
+4935,Akane Fujisaki,(voice),50
+4935,Izumi Matsuoka,(voice),51
+4935,Tomonori Yanagibashi,(voice),52
+4935,Ken Yasuda,(voice),53
+4935,Hiroyuki Morisaki,(voice),54
+4935,Shigeyuki Totsugi,(voice),55
+4935,Takuma Otoo,(voice),56
+128,Yoji Matsuda,Ashitaka (voice),0
+128,Yuriko Ishida,San / Kaya (voice),1
+128,Yuko Tanaka,Eboshi Gozen (voice),2
+128,Kaoru Kobayashi,Jikobo (voice),3
+128,Masahiko Nishimura,Kouroku (voice),4
+128,Tsunehiko Kamijô,Gonza (voice),5
+128,Akihiro Miwa,Mrs. Moro (voice),6
+128,Mitsuko Mori,Mrs. Hii (voice),7
+128,Hisaya Morishige,Chief of Affairs (voice),8
+128,Sumi Shimamoto,Toki (voice),9
+128,Tetsu Watanabe,Wild Dog (voice),10
+128,Makoto Satō,Tatari God (voice),11
+128,Akira Nagoya,Cowherd (voice),12
+128,Kei Iinuma,Chief of the Sick (voice),13
+128,Tsuzuki Kayako,Kiyo (voice),14
+128,Kimihiro Reizei,Cattleman (voice),15
+128,Yoshimasa Kondo,Cattleman (voice),16
+128,Akira Sakamoto,Cattleman (voice),17
+128,Shirou Saitou,Cattleman (voice),18
+128,Daikichi Sugawara,Cattleman (voice),19
+128,Takako Katou,Tataraba Woman (voice),20
+128,Ikuko Yamamoto,Tataraba Woman (voice),21
+128,Kiho Iinuma,Emishi Girl (voice),22
+128,Michiko Yamamoto,(voice),23
+1218925,Kikunosuke Toya,Denji (voice),0
+1218925,Reina Ueda,Reze (voice),1
+1218925,Tomori Kusunoki,Makima (voice),2
+1218925,Shogo Sakata,Aki (voice),3
+1218925,Maaya Uchida,Angel Devil (voice),4
+1218925,Natsuki Hanae,Beam (voice),5
+1218925,Karin Takahashi,Kobeni (voice),6
+1218925,Fairouz Ai,Power (voice),7
+1218925,Yuuya Uchida,The Violence Fiend (voice),8
+1218925,Shiori Izawa,Pochita (voice),9
+1218925,Kenjiro Tsuda,Kishibe (voice),10
+1218925,Marina Inoue,Child Denji (voice),11
+1218925,Hidenori Takahashi,Vice Captain (voice),12
+1218925,Kenji Akabane,Nomo (voice),13
+1218925,Kenji Nomura,Mysterious Man (voice),14
+1218925,Eri Kitamura,Typhoon Devil (voice),15
+1218925,Kenichi Ono,Owner of Crossroads (voice),16
+1218925,Yuhko Kaida,Fox Devil (voice),17
+1218925,Kento Shiraishi,Kato (voice),18
+1218925,Taro Kiuchi,Tanabe (voice),19
+1218925,Akihiro Mine,Masaki Ando (voice),20
+1218925,Misano Sakai,(voice),21
+1218925,Hikari Aomi,(voice),22
+1218925,Hayato Kimura,(voice),23
+1218925,Takeo Motoi,(voice),24
+1218925,Ryo Nishitani,(voice),25
+1218925,Takahiro Sumi,(voice),26
+1218925,Chihiro Ikki,(voice),27
+533514,Yui Ishikawa,Violet Evergarden (voice),0
+533514,Daisuke Namikawa,Gilbert Bougainvillea (voice),1
+533514,Takehito Koyasu,Claudia Hodgins (voice),2
+533514,Hidenobu Kiuchi,Dietfried Bougainvillea (voice),3
+533514,Haruka Tomatsu,Iris Cannary (voice),4
+533514,Koki Uchiyama,Benedict Blue (voice),5
+533514,Aya Endo,Cattleya Baudelaire (voice),6
+533514,Minori Chihara,Erica Brown (voice),7
+533514,Kaori Mizuhashi,Ulysses (voice),8
+533514,Rina Sato,Luca (voice),9
+533514,Daichi Endo,Ulysses' Father (voice),10
+533514,Mayuno Yasokawa,Ulysses' Mother (voice),11
+533514,Megumi Matsumoto,Shion (voice),12
+533514,Jouji Nakata,Lord Bougainvillea (voice),13
+533514,Mugihito,Old Man (voice),14
+533514,Yasuhiro Mamiya,Mayor (voice),15
+533514,Yuuki Sanpei,Moderator (voice),16
+533514,Kozue Harashima,Mother (voice),17
+533514,Kanako Sakuragi,Mother (voice),18
+533514,Aya Saito,Child (voice),19
+533514,Rie Hikisaka,Child (voice),20
+533514,Sumire Morohoshi,Daisy Magnolia (voice),21
+533514,Mitsuru Miyamoto,Daisy's Father (voice),22
+533514,Emi Shinohara,Daisy's Mother (voice),23
+533514,Hisako Kyoda,Nerine (voice),24
+533514,Ayako Kawasumi,Clara Magnolia (voice),25
