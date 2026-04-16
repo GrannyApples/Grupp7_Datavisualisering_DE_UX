@@ -7,4 +7,3 @@ class Load:
     def load_movies(self, df):
         self.repo.insert_movies(df)
         self.repo.insert_movie_genres(df)
-        self.repo.close()

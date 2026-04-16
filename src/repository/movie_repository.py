@@ -23,6 +23,9 @@ class MovieRepository:
 
     def __exit__(self, exc_type, exc_val, exc_tb):
         self.close()
+
+
+
     # SCHEMA
 
     def create_tables(self):
@@ -65,11 +68,44 @@ class MovieRepository:
             )
         """)
 
+        self.conn.execute("""
+            CREATE TABLE IF NOT EXISTS movie_cast (
+                movie_id INTEGER,
+                actor_name VARCHAR,
+                character VARCHAR,
+                cast_order INTEGER
+            )
+        """)
+
+        self.conn.execute("""
+            CREATE TABLE IF NOT EXISTS movie_crew (
+                movie_id INTEGER,
+                name VARCHAR,
+                job VARCHAR
+            )
+        """)
+
+
+    def drop_all_tables(self):
+        tables = [
+            "movie_cast",
+            "movie_crew",
+            "movie_details",
+            "movies",
+            "movie_genres",
+            "genres"
+        ]
+
+        for table in tables:
+            try:
+                self.conn.execute(f"DROP TABLE IF EXISTS {table}")
+                print(f"Dropped table: {table}")
+            except Exception as e:
+                print(f"Could not drop {table}: {e}")
 
     # SEED DATA
-
     def seed_genres(self):
-        existing = self.conn.execute("SELECT COUNT(*) FROM genres").fetchdf().iloc[0].to_dict()
+        existing = self.conn.execute("SELECT COUNT(*) FROM genres").fetchone()[0]
 
         if existing == 0:
             for gid, name in GENRE_MAP.items():
@@ -108,6 +144,54 @@ class MovieRepository:
                 pass
 
 
+    def insert_movie_details(self, details):
+        self.conn.execute("""
+            INSERT OR REPLACE INTO movie_details (
+                movie_id, runtime, budget, revenue, overview, director
+            )
+            VALUES (?, ?, ?, ?, ?, ?)
+        """, [
+            details["movie_id"],
+            details["runtime"],
+            details["budget"],
+            details["revenue"],
+            details["overview"],
+            details["director"]
+        ])
+
+
+    def insert_movie_cast(self, cast_list):
+        if not cast_list:
+            return
+
+        self.conn.executemany("""
+            INSERT INTO movie_cast (movie_id, actor_name, character, cast_order)
+            VALUES (?, ?, ?, ?)
+        """, [
+            (
+                c["movie_id"],
+                c["actor_name"],
+                c["character"],
+                c["cast_order"]
+            )
+            for c in cast_list
+        ])
+
+    def insert_movie_crew(self, crew_list):
+        if not crew_list:
+            return
+
+        self.conn.executemany("""
+            INSERT INTO movie_crew (movie_id, name, job)
+            VALUES (?, ?, ?)
+        """, [
+            (
+                c["movie_id"],
+                c["name"],
+                c["job"]
+            )
+            for c in crew_list
+        ])
     # CACHE (MOVIE DETAILS)
 
     def get_movie_details(self, movie_id):
@@ -122,21 +206,32 @@ class MovieRepository:
 
         return MovieDetailsSchema.model_validate(row)
 
-    def insert_movie_details(self, details):
-        self.conn.execute("""
-            INSERT INTO movie_details (
-                movie_id, runtime, budget, revenue, overview, director
-            )
-            VALUES (?, ?, ?, ?, ?, ?)
-            ON CONFLICT(movie_id) DO NOTHING
-        """, [
-            details["movie_id"],
-            details["runtime"],
-            details["budget"],
-            details["revenue"],
-            details["overview"],
-            details["director"]
-        ])
+    ##Analytics for EDA
+
+    def get_full_movie_details(self, movie_id: int):
+        movie = self.get_movie_details(movie_id)
+
+        cast = self.conn.execute("""
+            SELECT actor_name, character, cast_order
+            FROM movie_cast
+            WHERE movie_id = ?
+            ORDER BY cast_order
+        """, [movie_id]).fetchdf()
+
+        crew = self.conn.execute("""
+            SELECT name, job
+            FROM movie_crew
+            WHERE movie_id = ?
+        """, [movie_id]).fetchdf()
+
+        return {
+            "movie": movie.model_dump() if movie else None,
+            "cast": cast,
+            "crew": crew
+        }
+
+
+
 
     def close(self):
         self.conn.close()
