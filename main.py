@@ -23,6 +23,12 @@ def run_pipeline():
     loader = Load()
     loader.load_movies(df)
 
+    x = 10 #change this for how many movies to grab details for.
+    #Just to fill top X with some data in the database
+    service = extractor.service
+    for movie in raw_data[:x]:
+        service.get_movie_details(movie["id"])
+
     export_for_powerbi(loader.repo)
 
     loader.repo.close()
