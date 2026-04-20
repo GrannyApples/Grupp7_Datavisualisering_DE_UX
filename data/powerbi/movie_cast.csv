@@ -461,30 +461,6 @@ movie_id,actor_name,character,cast_order
 4935,Hiroyuki Morisaki,(voice),54
 4935,Shigeyuki Totsugi,(voice),55
 4935,Takuma Otoo,(voice),56
-128,Yoji Matsuda,Ashitaka (voice),0
-128,Yuriko Ishida,San / Kaya (voice),1
-128,Yuko Tanaka,Eboshi Gozen (voice),2
-128,Kaoru Kobayashi,Jikobo (voice),3
-128,Masahiko Nishimura,Kouroku (voice),4
-128,Tsunehiko Kamijô,Gonza (voice),5
-128,Akihiro Miwa,Mrs. Moro (voice),6
-128,Mitsuko Mori,Mrs. Hii (voice),7
-128,Hisaya Morishige,Chief of Affairs (voice),8
-128,Sumi Shimamoto,Toki (voice),9
-128,Tetsu Watanabe,Wild Dog (voice),10
-128,Makoto Satō,Tatari God (voice),11
-128,Akira Nagoya,Cowherd (voice),12
-128,Kei Iinuma,Chief of the Sick (voice),13
-128,Tsuzuki Kayako,Kiyo (voice),14
-128,Kimihiro Reizei,Cattleman (voice),15
-128,Yoshimasa Kondo,Cattleman (voice),16
-128,Akira Sakamoto,Cattleman (voice),17
-128,Shirou Saitou,Cattleman (voice),18
-128,Daikichi Sugawara,Cattleman (voice),19
-128,Takako Katou,Tataraba Woman (voice),20
-128,Ikuko Yamamoto,Tataraba Woman (voice),21
-128,Kiho Iinuma,Emishi Girl (voice),22
-128,Michiko Yamamoto,(voice),23
 1218925,Kikunosuke Toya,Denji (voice),0
 1218925,Reina Ueda,Reze (voice),1
 1218925,Tomori Kusunoki,Makima (voice),2
@@ -513,6 +489,37 @@ movie_id,actor_name,character,cast_order
 1218925,Ryo Nishitani,(voice),25
 1218925,Takahiro Sumi,(voice),26
 1218925,Chihiro Ikki,(voice),27
+128,Yoji Matsuda,Ashitaka (voice),0
+128,Yuriko Ishida,San / Kaya (voice),1
+128,Yuko Tanaka,Eboshi Gozen (voice),2
+128,Kaoru Kobayashi,Jikobo (voice),3
+128,Masahiko Nishimura,Kouroku (voice),4
+128,Tsunehiko Kamijô,Gonza (voice),5
+128,Akihiro Miwa,Mrs. Moro (voice),6
+128,Mitsuko Mori,Mrs. Hii (voice),7
+128,Hisaya Morishige,Chief of Affairs (voice),8
+128,Sumi Shimamoto,Toki (voice),9
+128,Tetsu Watanabe,Wild Dog (voice),10
+128,Makoto Satō,Tatari God (voice),11
+128,Akira Nagoya,Cowherd (voice),12
+128,Kei Iinuma,Chief of the Sick (voice),13
+128,Tsuzuki Kayako,Kiyo (voice),14
+128,Kimihiro Reizei,Cattleman (voice),15
+128,Yoshimasa Kondo,Cattleman (voice),16
+128,Akira Sakamoto,Cattleman (voice),17
+128,Shirou Saitou,Cattleman (voice),18
+128,Daikichi Sugawara,Cattleman (voice),19
+128,Takako Katou,Tataraba Woman (voice),20
+128,Ikuko Yamamoto,Tataraba Woman (voice),21
+128,Kiho Iinuma,Emishi Girl (voice),22
+128,Michiko Yamamoto,(voice),23
+620249,Shan Xin,Luo Xiaohei / Nezha (voice),0
+620249,Liu Mingyue,Wuxian (voice),1
+620249,Hao Xianghai,Fengxi (voice),2
+620249,Ding Dang,Luozhu (voice),3
+620249,Yuntu Cao,Xuhuai (voice),4
+620249,Sheng Feng,Tianhu (voice),5
+620249,Chen Siyu,Jiulao (voice),6
 533514,Yui Ishikawa,Violet Evergarden (voice),0
 533514,Daisuke Namikawa,Gilbert Bougainvillea (voice),1
 533514,Takehito Koyasu,Claudia Hodgins (voice),2
@@ -539,13 +546,6 @@ movie_id,actor_name,character,cast_order
 533514,Emi Shinohara,Daisy's Mother (voice),23
 533514,Hisako Kyoda,Nerine (voice),24
 533514,Ayako Kawasumi,Clara Magnolia (voice),25
-620249,Shan Xin,Luo Xiaohei / Nezha (voice),0
-620249,Liu Mingyue,Wuxian (voice),1
-620249,Hao Xianghai,Fengxi (voice),2
-620249,Ding Dang,Luozhu (voice),3
-620249,Yuntu Cao,Xuhuai (voice),4
-620249,Sheng Feng,Tianhu (voice),5
-620249,Chen Siyu,Jiulao (voice),6
 1585,James Stewart,George Bailey,0
 1585,Donna Reed,Mary Hatch,1
 1585,Lionel Barrymore,Mr. Potter,2

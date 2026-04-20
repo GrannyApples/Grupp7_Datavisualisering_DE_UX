@@ -13,7 +13,7 @@ class TMDBService:
     """Fetches fantasy movies from TMDB"""
     ## "vote_count.gte": xxx,
     # hur många votes från folk som krävs, 10 000votes ca 70filmer,
-    # 420ganska exakt 1000filmer.
+    # 420 ganska exakt 1000filmer.
 
     def get_fantasy_movies(self, page=1):
         url = f"{BASE_URL}/discover/movie"
@@ -55,8 +55,7 @@ class TMDBService:
         #Check cache
         cached = self.repo.get_movie_details(movie_id)
         if cached:
-            print(f"Cache hit for movie {movie_id}")
-            return cached
+            return "cached"
 
 
         url = f"{BASE_URL}/movie/{movie_id}"
@@ -77,10 +76,8 @@ class TMDBService:
         crew = [CrewMember(**c).model_dump() for c in parsed["crew"]]
         self.repo.insert_movie_crew(crew)
 
-        print("HAS CREDITS:", "credits" in data)
-        print("CAST COUNT:", len(data.get("credits", {}).get("cast", [])))
-        print("CREW COUNT:", len(data.get("credits", {}).get("crew", [])))
-        return validated
+
+        return "fetched"
 
 
     def _safe_request(self, url, params, retries=3):

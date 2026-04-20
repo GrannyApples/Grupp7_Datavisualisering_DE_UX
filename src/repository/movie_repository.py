@@ -122,24 +122,26 @@ class MovieRepository:
             "movie_id", "title", "release_date", "rating",
             "popularity", "release_year", "genres", "category"
         ]]
-
         self.conn.register("temp_movies", movies_df)
         self.conn.execute("""
             INSERT INTO movies
             SELECT * FROM temp_movies
+            WHERE movie_id NOT IN (SELECT movie_id FROM movies)
         """)
 
     def insert_movie_genres(self, df):
         import ast
-
         for _, row in df.iterrows():
             try:
                 genre_ids = ast.literal_eval(str(row["genre_ids"]))
-
                 for gid in genre_ids:
                     self.conn.execute("""
-                        INSERT INTO movie_genres VALUES (?, ?)
-                    """, [row["movie_id"], gid])
+                        INSERT INTO movie_genres
+                        SELECT ?, ?
+                        WHERE NOT EXISTS (
+                            SELECT 1 FROM movie_genres WHERE movie_id = ? AND genre_id = ?
+                        )
+                    """, [row["movie_id"], gid, row["movie_id"], gid])
             except:
                 pass
 
@@ -159,39 +161,29 @@ class MovieRepository:
             details["director"]
         ])
 
-
     def insert_movie_cast(self, cast_list):
         if not cast_list:
             return
-
         self.conn.executemany("""
-            INSERT INTO movie_cast (movie_id, actor_name, character, cast_order)
-            VALUES (?, ?, ?, ?)
-        """, [
-            (
-                c["movie_id"],
-                c["actor_name"],
-                c["character"],
-                c["cast_order"]
+            INSERT INTO movie_cast
+            SELECT ?, ?, ?, ?
+            WHERE NOT EXISTS (
+                SELECT 1 FROM movie_cast WHERE movie_id = ? AND cast_order = ?
             )
-            for c in cast_list
-        ])
+        """, [(c["movie_id"], c["actor_name"], c["character"], c["cast_order"],
+               c["movie_id"], c["cast_order"]) for c in cast_list])
 
     def insert_movie_crew(self, crew_list):
         if not crew_list:
             return
-
         self.conn.executemany("""
-            INSERT INTO movie_crew (movie_id, name, job)
-            VALUES (?, ?, ?)
-        """, [
-            (
-                c["movie_id"],
-                c["name"],
-                c["job"]
+            INSERT INTO movie_crew
+            SELECT ?, ?, ?
+            WHERE NOT EXISTS (
+                SELECT 1 FROM movie_crew WHERE movie_id = ? AND name = ? AND job = ?
             )
-            for c in crew_list
-        ])
+        """, [(c["movie_id"], c["name"], c["job"],
+               c["movie_id"], c["name"], c["job"]) for c in crew_list])
     # CACHE (MOVIE DETAILS)
 
     def get_movie_details(self, movie_id):

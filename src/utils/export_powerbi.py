@@ -31,7 +31,7 @@ def export_for_powerbi_joined():
 
     conn.execute(f"""
         COPY (
-            SELECT
+            SELECT DISTINCT ON (m.movie_id)
                 m.movie_id, m.title, m.release_date, m.release_year,
                 m.rating, m.popularity, m.category,
                 d.runtime, d.budget, d.revenue, d.director, d.overview,
@@ -42,6 +42,7 @@ def export_for_powerbi_joined():
                 END AS roi_percent
             FROM movies m
             LEFT JOIN movie_details d ON m.movie_id = d.movie_id
+            ORDER BY m.movie_id
         ) TO '{joined}/movies_enriched.csv' (HEADER, DELIMITER ',')
     """)
     print("✅ movies_enriched.csv")
@@ -94,7 +95,7 @@ def export_for_powerbi_joined():
     print("✅ genre_summary.csv")
 
     conn.close()
-    print("\n🎬 Joined exports done → {joined}/")
+    print("\n🎬 Joined exports done → powerbi/joined/")
 
 if __name__ == "__main__":
 

@@ -4,6 +4,8 @@ from src.etl.load import Load
 from src.utils.file_utils import ensure_folder
 from src.utils.export_powerbi import export_for_powerbi,export_for_powerbi_joined
 import pandas as pd
+import time
+from src.utils.progress_bar import print_progress
 
 def run_pipeline():
     ensure_folder("data/raw")
@@ -26,8 +28,35 @@ def run_pipeline():
     x = 10 #change this for how many movies to grab details for.
     #Just to fill top X with some data in the database
     service = extractor.service
-    for movie in raw_data:
-        service.get_movie_details(movie["id"])
+
+    uncached_ids = [
+        m["id"] for m in raw_data
+        if not service.repo.get_movie_details(m["id"])
+    ]
+
+    total_movies = len(raw_data)
+    total_uncached = len(uncached_ids)
+
+## counter to check amount of movies left to enrich overengineered with AI, but it looks nicer and doesnt spam.
+    start_time = time.time()
+    fetched_count = 0
+
+    for index, movie in enumerate(raw_data, start=1):
+        result = service.get_movie_details(movie["id"])
+
+        if result == "fetched":
+            fetched_count += 1
+
+        print_progress(
+            index,
+            total_movies,
+            fetched_count,
+            total_uncached,
+            start_time
+        )
+
+    print()  # newline after loop
+
 
     export_for_powerbi(loader.repo)
     export_for_powerbi_joined()
