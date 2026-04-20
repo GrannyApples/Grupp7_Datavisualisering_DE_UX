@@ -2,7 +2,7 @@ from src.etl.extract import Extract
 from src.etl.transform import Transform
 from src.etl.load import Load
 from src.utils.file_utils import ensure_folder
-from src.utils.export_powerbi import export_for_powerbi
+from src.utils.export_powerbi import export_for_powerbi,export_for_powerbi_joined
 import pandas as pd
 
 def run_pipeline():
@@ -26,11 +26,11 @@ def run_pipeline():
     x = 10 #change this for how many movies to grab details for.
     #Just to fill top X with some data in the database
     service = extractor.service
-    for movie in raw_data[:x]:
+    for movie in raw_data:
         service.get_movie_details(movie["id"])
 
     export_for_powerbi(loader.repo)
-
+    export_for_powerbi_joined()
     loader.repo.close()
     print("ETL pipeline finished!")
 
