@@ -97,3 +97,8 @@ class Transform:
         df["rating"] = df["rating"].round(1)
 
         return df
+
+    def clean_value(v):
+        if v == "" or v == "null":
+            return None
+        return v

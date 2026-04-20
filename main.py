@@ -2,7 +2,7 @@ from src.etl.extract import Extract
 from src.etl.transform import Transform
 from src.etl.load import Load
 from src.utils.file_utils import ensure_folder
-from src.utils.export_powerbi import export_for_powerbi,export_for_powerbi_joined
+from src.utils.export_powerbi import export_for_powerbi
 import pandas as pd
 import time
 from src.utils.progress_bar import print_progress
@@ -42,7 +42,7 @@ def run_pipeline():
     fetched_count = 0
 
     for index, movie in enumerate(raw_data, start=1):
-        result = service.get_movie_details(movie["id"])
+        _, result = service.get_movie_details(movie["id"])
 
         if result == "fetched":
             fetched_count += 1
@@ -59,7 +59,6 @@ def run_pipeline():
 
 
     export_for_powerbi(loader.repo)
-    export_for_powerbi_joined()
     loader.repo.close()
     print("ETL pipeline finished!")
 

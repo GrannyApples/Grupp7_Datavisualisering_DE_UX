@@ -4,7 +4,7 @@ import sys
 from src.core.config import TMDB_API_KEY, BASE_URL
 from src.repository.movie_repository import MovieRepository
 from src.utils.movie_details import parse_movie_details
-from src.schemas.movie_details_schema import MovieDetailsSchema, CastMember, CrewMember
+from src.schemas.movie_details_schema import MovieDetailsSchema, CastMember, CrewMember, ProductionCompany, ProductionCountry, SpokenLanguage
 
 class TMDBService:
     def __init__(self):
@@ -55,7 +55,8 @@ class TMDBService:
         #Check cache
         cached = self.repo.get_movie_details(movie_id)
         if cached:
-            return "cached"
+            return cached, "cached"
+
 
 
         url = f"{BASE_URL}/movie/{movie_id}"
@@ -67,17 +68,27 @@ class TMDBService:
 
         parsed = parse_movie_details(data)
 
-        movie_details = parsed["movie"]
-        validated = MovieDetailsSchema(**movie_details)
+        validated = MovieDetailsSchema.model_validate(parsed["movie"])
         self.repo.insert_movie_details(validated.model_dump())
 
         cast = [CastMember(**c).model_dump() for c in parsed["cast"]]
         self.repo.insert_movie_cast(cast)
+
         crew = [CrewMember(**c).model_dump() for c in parsed["crew"]]
         self.repo.insert_movie_crew(crew)
 
+        companies = [ProductionCompany(**c).model_dump() for c in parsed["production_companies"]]
+        self.repo.insert_production_companies(companies)
 
-        return "fetched"
+        countries = [ProductionCountry(**c).model_dump() for c in parsed["production_countries"]]
+        self.repo.insert_production_countries(countries)
+
+        languages = [SpokenLanguage(**l).model_dump() for l in parsed["spoken_languages"]]
+        self.repo.insert_spoken_languages(languages)
+        self.repo.insert_movie_origin_countries(data["id"], parsed["movie"].get("origin_country") or [])
+
+
+        return validated, "fetched"
 
 
     def _safe_request(self, url, params, retries=3):
